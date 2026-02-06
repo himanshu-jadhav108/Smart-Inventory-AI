@@ -1,0 +1,1811 @@
+date,product_id,product_name,category,units_sold,day_of_week,week_number,month
+2025-08-10,PROD-001,Wireless Mouse,Electronics,61,Sunday,32,2025-08
+2025-08-11,PROD-001,Wireless Mouse,Electronics,39,Monday,33,2025-08
+2025-08-12,PROD-001,Wireless Mouse,Electronics,45,Tuesday,33,2025-08
+2025-08-13,PROD-001,Wireless Mouse,Electronics,56,Wednesday,33,2025-08
+2025-08-14,PROD-001,Wireless Mouse,Electronics,45,Thursday,33,2025-08
+2025-08-15,PROD-001,Wireless Mouse,Electronics,50,Friday,33,2025-08
+2025-08-16,PROD-001,Wireless Mouse,Electronics,72,Saturday,33,2025-08
+2025-08-17,PROD-001,Wireless Mouse,Electronics,67,Sunday,33,2025-08
+2025-08-18,PROD-001,Wireless Mouse,Electronics,40,Monday,34,2025-08
+2025-08-19,PROD-001,Wireless Mouse,Electronics,47,Tuesday,34,2025-08
+2025-08-20,PROD-001,Wireless Mouse,Electronics,45,Wednesday,34,2025-08
+2025-08-21,PROD-001,Wireless Mouse,Electronics,46,Thursday,34,2025-08
+2025-08-22,PROD-001,Wireless Mouse,Electronics,56,Friday,34,2025-08
+2025-08-23,PROD-001,Wireless Mouse,Electronics,52,Saturday,34,2025-08
+2025-08-24,PROD-001,Wireless Mouse,Electronics,53,Sunday,34,2025-08
+2025-08-25,PROD-001,Wireless Mouse,Electronics,41,Monday,35,2025-08
+2025-08-26,PROD-001,Wireless Mouse,Electronics,38,Tuesday,35,2025-08
+2025-08-27,PROD-001,Wireless Mouse,Electronics,53,Wednesday,35,2025-08
+2025-08-28,PROD-001,Wireless Mouse,Electronics,45,Thursday,35,2025-08
+2025-08-29,PROD-001,Wireless Mouse,Electronics,47,Friday,35,2025-08
+2025-08-30,PROD-001,Wireless Mouse,Electronics,77,Saturday,35,2025-08
+2025-08-31,PROD-001,Wireless Mouse,Electronics,65,Sunday,35,2025-08
+2025-09-01,PROD-001,Wireless Mouse,Electronics,47,Monday,36,2025-09
+2025-09-02,PROD-001,Wireless Mouse,Electronics,37,Tuesday,36,2025-09
+2025-09-03,PROD-001,Wireless Mouse,Electronics,48,Wednesday,36,2025-09
+2025-09-04,PROD-001,Wireless Mouse,Electronics,52,Thursday,36,2025-09
+2025-09-05,PROD-001,Wireless Mouse,Electronics,49,Friday,36,2025-09
+2025-09-06,PROD-001,Wireless Mouse,Electronics,70,Saturday,36,2025-09
+2025-09-07,PROD-001,Wireless Mouse,Electronics,63,Sunday,36,2025-09
+2025-09-08,PROD-001,Wireless Mouse,Electronics,45,Monday,37,2025-09
+2025-09-09,PROD-001,Wireless Mouse,Electronics,42,Tuesday,37,2025-09
+2025-09-10,PROD-001,Wireless Mouse,Electronics,64,Wednesday,37,2025-09
+2025-09-11,PROD-001,Wireless Mouse,Electronics,51,Thursday,37,2025-09
+2025-09-12,PROD-001,Wireless Mouse,Electronics,49,Friday,37,2025-09
+2025-09-13,PROD-001,Wireless Mouse,Electronics,72,Saturday,37,2025-09
+2025-09-14,PROD-001,Wireless Mouse,Electronics,58,Sunday,37,2025-09
+2025-09-15,PROD-001,Wireless Mouse,Electronics,47,Monday,38,2025-09
+2025-09-16,PROD-001,Wireless Mouse,Electronics,32,Tuesday,38,2025-09
+2025-09-17,PROD-001,Wireless Mouse,Electronics,42,Wednesday,38,2025-09
+2025-09-18,PROD-001,Wireless Mouse,Electronics,52,Thursday,38,2025-09
+2025-09-19,PROD-001,Wireless Mouse,Electronics,33,Friday,38,2025-09
+2025-09-20,PROD-001,Wireless Mouse,Electronics,66,Saturday,38,2025-09
+2025-09-21,PROD-001,Wireless Mouse,Electronics,64,Sunday,38,2025-09
+2025-09-22,PROD-001,Wireless Mouse,Electronics,42,Monday,39,2025-09
+2025-09-23,PROD-001,Wireless Mouse,Electronics,34,Tuesday,39,2025-09
+2025-09-24,PROD-001,Wireless Mouse,Electronics,44,Wednesday,39,2025-09
+2025-09-25,PROD-001,Wireless Mouse,Electronics,46,Thursday,39,2025-09
+2025-09-26,PROD-001,Wireless Mouse,Electronics,61,Friday,39,2025-09
+2025-09-27,PROD-001,Wireless Mouse,Electronics,65,Saturday,39,2025-09
+2025-09-28,PROD-001,Wireless Mouse,Electronics,51,Sunday,39,2025-09
+2025-09-29,PROD-001,Wireless Mouse,Electronics,45,Monday,40,2025-09
+2025-09-30,PROD-001,Wireless Mouse,Electronics,40,Tuesday,40,2025-09
+2025-10-01,PROD-001,Wireless Mouse,Electronics,43,Wednesday,40,2025-10
+2025-10-02,PROD-001,Wireless Mouse,Electronics,51,Thursday,40,2025-10
+2025-10-03,PROD-001,Wireless Mouse,Electronics,59,Friday,40,2025-10
+2025-10-04,PROD-001,Wireless Mouse,Electronics,67,Saturday,40,2025-10
+2025-10-05,PROD-001,Wireless Mouse,Electronics,55,Sunday,40,2025-10
+2025-10-06,PROD-001,Wireless Mouse,Electronics,40,Monday,41,2025-10
+2025-10-07,PROD-001,Wireless Mouse,Electronics,44,Tuesday,41,2025-10
+2025-10-08,PROD-001,Wireless Mouse,Electronics,53,Wednesday,41,2025-10
+2025-10-09,PROD-001,Wireless Mouse,Electronics,43,Thursday,41,2025-10
+2025-10-10,PROD-001,Wireless Mouse,Electronics,49,Friday,41,2025-10
+2025-10-11,PROD-001,Wireless Mouse,Electronics,52,Saturday,41,2025-10
+2025-10-12,PROD-001,Wireless Mouse,Electronics,52,Sunday,41,2025-10
+2025-10-13,PROD-001,Wireless Mouse,Electronics,47,Monday,42,2025-10
+2025-10-14,PROD-001,Wireless Mouse,Electronics,50,Tuesday,42,2025-10
+2025-10-15,PROD-001,Wireless Mouse,Electronics,45,Wednesday,42,2025-10
+2025-10-16,PROD-001,Wireless Mouse,Electronics,53,Thursday,42,2025-10
+2025-10-17,PROD-001,Wireless Mouse,Electronics,53,Friday,42,2025-10
+2025-10-18,PROD-001,Wireless Mouse,Electronics,56,Saturday,42,2025-10
+2025-10-19,PROD-001,Wireless Mouse,Electronics,63,Sunday,42,2025-10
+2025-10-20,PROD-001,Wireless Mouse,Electronics,52,Monday,43,2025-10
+2025-10-21,PROD-001,Wireless Mouse,Electronics,42,Tuesday,43,2025-10
+2025-10-22,PROD-001,Wireless Mouse,Electronics,58,Wednesday,43,2025-10
+2025-10-23,PROD-001,Wireless Mouse,Electronics,30,Thursday,43,2025-10
+2025-10-24,PROD-001,Wireless Mouse,Electronics,58,Friday,43,2025-10
+2025-10-25,PROD-001,Wireless Mouse,Electronics,63,Saturday,43,2025-10
+2025-10-26,PROD-001,Wireless Mouse,Electronics,61,Sunday,43,2025-10
+2025-10-27,PROD-001,Wireless Mouse,Electronics,44,Monday,44,2025-10
+2025-10-28,PROD-001,Wireless Mouse,Electronics,30,Tuesday,44,2025-10
+2025-10-29,PROD-001,Wireless Mouse,Electronics,48,Wednesday,44,2025-10
+2025-10-30,PROD-001,Wireless Mouse,Electronics,52,Thursday,44,2025-10
+2025-10-31,PROD-001,Wireless Mouse,Electronics,65,Friday,44,2025-10
+2025-11-01,PROD-001,Wireless Mouse,Electronics,62,Saturday,44,2025-11
+2025-11-02,PROD-001,Wireless Mouse,Electronics,61,Sunday,44,2025-11
+2025-11-03,PROD-001,Wireless Mouse,Electronics,43,Monday,45,2025-11
+2025-11-04,PROD-001,Wireless Mouse,Electronics,53,Tuesday,45,2025-11
+2025-11-05,PROD-001,Wireless Mouse,Electronics,54,Wednesday,45,2025-11
+2025-11-06,PROD-001,Wireless Mouse,Electronics,49,Thursday,45,2025-11
+2025-11-07,PROD-001,Wireless Mouse,Electronics,62,Friday,45,2025-11
+2025-11-08,PROD-001,Wireless Mouse,Electronics,70,Saturday,45,2025-11
+2025-11-09,PROD-001,Wireless Mouse,Electronics,77,Sunday,45,2025-11
+2025-11-10,PROD-001,Wireless Mouse,Electronics,44,Monday,46,2025-11
+2025-11-11,PROD-001,Wireless Mouse,Electronics,47,Tuesday,46,2025-11
+2025-11-12,PROD-001,Wireless Mouse,Electronics,53,Wednesday,46,2025-11
+2025-11-13,PROD-001,Wireless Mouse,Electronics,46,Thursday,46,2025-11
+2025-11-14,PROD-001,Wireless Mouse,Electronics,64,Friday,46,2025-11
+2025-11-15,PROD-001,Wireless Mouse,Electronics,76,Saturday,46,2025-11
+2025-11-16,PROD-001,Wireless Mouse,Electronics,75,Sunday,46,2025-11
+2025-11-17,PROD-001,Wireless Mouse,Electronics,50,Monday,47,2025-11
+2025-11-18,PROD-001,Wireless Mouse,Electronics,43,Tuesday,47,2025-11
+2025-11-19,PROD-001,Wireless Mouse,Electronics,56,Wednesday,47,2025-11
+2025-11-20,PROD-001,Wireless Mouse,Electronics,56,Thursday,47,2025-11
+2025-11-21,PROD-001,Wireless Mouse,Electronics,60,Friday,47,2025-11
+2025-11-22,PROD-001,Wireless Mouse,Electronics,76,Saturday,47,2025-11
+2025-11-23,PROD-001,Wireless Mouse,Electronics,81,Sunday,47,2025-11
+2025-11-24,PROD-001,Wireless Mouse,Electronics,67,Monday,48,2025-11
+2025-11-25,PROD-001,Wireless Mouse,Electronics,55,Tuesday,48,2025-11
+2025-11-26,PROD-001,Wireless Mouse,Electronics,62,Wednesday,48,2025-11
+2025-11-27,PROD-001,Wireless Mouse,Electronics,60,Thursday,48,2025-11
+2025-11-28,PROD-001,Wireless Mouse,Electronics,54,Friday,48,2025-11
+2025-11-29,PROD-001,Wireless Mouse,Electronics,80,Saturday,48,2025-11
+2025-11-30,PROD-001,Wireless Mouse,Electronics,80,Sunday,48,2025-11
+2025-12-01,PROD-001,Wireless Mouse,Electronics,72,Monday,49,2025-12
+2025-12-02,PROD-001,Wireless Mouse,Electronics,54,Tuesday,49,2025-12
+2025-12-03,PROD-001,Wireless Mouse,Electronics,64,Wednesday,49,2025-12
+2025-12-04,PROD-001,Wireless Mouse,Electronics,61,Thursday,49,2025-12
+2025-12-05,PROD-001,Wireless Mouse,Electronics,60,Friday,49,2025-12
+2025-12-06,PROD-001,Wireless Mouse,Electronics,88,Saturday,49,2025-12
+2025-12-07,PROD-001,Wireless Mouse,Electronics,85,Sunday,49,2025-12
+2025-12-08,PROD-001,Wireless Mouse,Electronics,61,Monday,50,2025-12
+2025-12-09,PROD-001,Wireless Mouse,Electronics,49,Tuesday,50,2025-12
+2025-12-10,PROD-001,Wireless Mouse,Electronics,71,Wednesday,50,2025-12
+2025-12-11,PROD-001,Wireless Mouse,Electronics,52,Thursday,50,2025-12
+2025-12-12,PROD-001,Wireless Mouse,Electronics,71,Friday,50,2025-12
+2025-12-13,PROD-001,Wireless Mouse,Electronics,94,Saturday,50,2025-12
+2025-12-14,PROD-001,Wireless Mouse,Electronics,72,Sunday,50,2025-12
+2025-12-15,PROD-001,Wireless Mouse,Electronics,50,Monday,51,2025-12
+2025-12-16,PROD-001,Wireless Mouse,Electronics,55,Tuesday,51,2025-12
+2025-12-17,PROD-001,Wireless Mouse,Electronics,56,Wednesday,51,2025-12
+2025-12-18,PROD-001,Wireless Mouse,Electronics,49,Thursday,51,2025-12
+2025-12-19,PROD-001,Wireless Mouse,Electronics,66,Friday,51,2025-12
+2025-12-20,PROD-001,Wireless Mouse,Electronics,70,Saturday,51,2025-12
+2025-12-21,PROD-001,Wireless Mouse,Electronics,80,Sunday,51,2025-12
+2025-12-22,PROD-001,Wireless Mouse,Electronics,46,Monday,52,2025-12
+2025-12-23,PROD-001,Wireless Mouse,Electronics,63,Tuesday,52,2025-12
+2025-12-24,PROD-001,Wireless Mouse,Electronics,52,Wednesday,52,2025-12
+2025-12-25,PROD-001,Wireless Mouse,Electronics,55,Thursday,52,2025-12
+2025-12-26,PROD-001,Wireless Mouse,Electronics,68,Friday,52,2025-12
+2025-12-27,PROD-001,Wireless Mouse,Electronics,66,Saturday,52,2025-12
+2025-12-28,PROD-001,Wireless Mouse,Electronics,75,Sunday,52,2025-12
+2025-12-29,PROD-001,Wireless Mouse,Electronics,59,Monday,1,2025-12
+2025-12-30,PROD-001,Wireless Mouse,Electronics,39,Tuesday,1,2025-12
+2025-12-31,PROD-001,Wireless Mouse,Electronics,57,Wednesday,1,2025-12
+2026-01-01,PROD-001,Wireless Mouse,Electronics,57,Thursday,1,2026-01
+2026-01-02,PROD-001,Wireless Mouse,Electronics,66,Friday,1,2026-01
+2026-01-03,PROD-001,Wireless Mouse,Electronics,63,Saturday,1,2026-01
+2026-01-04,PROD-001,Wireless Mouse,Electronics,62,Sunday,1,2026-01
+2026-01-05,PROD-001,Wireless Mouse,Electronics,53,Monday,2,2026-01
+2026-01-06,PROD-001,Wireless Mouse,Electronics,51,Tuesday,2,2026-01
+2026-01-07,PROD-001,Wireless Mouse,Electronics,123,Wednesday,2,2026-01
+2026-01-08,PROD-001,Wireless Mouse,Electronics,124,Thursday,2,2026-01
+2026-01-09,PROD-001,Wireless Mouse,Electronics,122,Friday,2,2026-01
+2026-01-10,PROD-001,Wireless Mouse,Electronics,72,Saturday,2,2026-01
+2026-01-11,PROD-001,Wireless Mouse,Electronics,72,Sunday,2,2026-01
+2026-01-12,PROD-001,Wireless Mouse,Electronics,80,Monday,3,2026-01
+2026-01-13,PROD-001,Wireless Mouse,Electronics,97,Tuesday,3,2026-01
+2026-01-14,PROD-001,Wireless Mouse,Electronics,93,Wednesday,3,2026-01
+2026-01-15,PROD-001,Wireless Mouse,Electronics,19,Thursday,3,2026-01
+2026-01-16,PROD-001,Wireless Mouse,Electronics,100,Friday,3,2026-01
+2026-01-17,PROD-001,Wireless Mouse,Electronics,100,Saturday,3,2026-01
+2026-01-18,PROD-001,Wireless Mouse,Electronics,113,Sunday,3,2026-01
+2026-01-19,PROD-001,Wireless Mouse,Electronics,93,Monday,4,2026-01
+2026-01-20,PROD-001,Wireless Mouse,Electronics,80,Tuesday,4,2026-01
+2026-01-21,PROD-001,Wireless Mouse,Electronics,98,Wednesday,4,2026-01
+2026-01-22,PROD-001,Wireless Mouse,Electronics,58,Thursday,4,2026-01
+2026-01-23,PROD-001,Wireless Mouse,Electronics,67,Friday,4,2026-01
+2026-01-24,PROD-001,Wireless Mouse,Electronics,86,Saturday,4,2026-01
+2026-01-25,PROD-001,Wireless Mouse,Electronics,72,Sunday,4,2026-01
+2026-01-26,PROD-001,Wireless Mouse,Electronics,46,Monday,5,2026-01
+2026-01-27,PROD-001,Wireless Mouse,Electronics,46,Tuesday,5,2026-01
+2026-01-28,PROD-001,Wireless Mouse,Electronics,52,Wednesday,5,2026-01
+2026-01-29,PROD-001,Wireless Mouse,Electronics,58,Thursday,5,2026-01
+2026-01-30,PROD-001,Wireless Mouse,Electronics,67,Friday,5,2026-01
+2026-01-31,PROD-001,Wireless Mouse,Electronics,79,Saturday,5,2026-01
+2026-02-01,PROD-001,Wireless Mouse,Electronics,84,Sunday,5,2026-02
+2026-02-02,PROD-001,Wireless Mouse,Electronics,54,Monday,6,2026-02
+2026-02-03,PROD-001,Wireless Mouse,Electronics,65,Tuesday,6,2026-02
+2026-02-04,PROD-001,Wireless Mouse,Electronics,60,Wednesday,6,2026-02
+2026-02-05,PROD-001,Wireless Mouse,Electronics,80,Thursday,6,2026-02
+2026-02-06,PROD-001,Wireless Mouse,Electronics,73,Friday,6,2026-02
+2025-08-10,PROD-002,USB-C Cable,Electronics,98,Sunday,32,2025-08
+2025-08-11,PROD-002,USB-C Cable,Electronics,69,Monday,33,2025-08
+2025-08-12,PROD-002,USB-C Cable,Electronics,64,Tuesday,33,2025-08
+2025-08-13,PROD-002,USB-C Cable,Electronics,82,Wednesday,33,2025-08
+2025-08-14,PROD-002,USB-C Cable,Electronics,79,Thursday,33,2025-08
+2025-08-15,PROD-002,USB-C Cable,Electronics,98,Friday,33,2025-08
+2025-08-16,PROD-002,USB-C Cable,Electronics,99,Saturday,33,2025-08
+2025-08-17,PROD-002,USB-C Cable,Electronics,118,Sunday,33,2025-08
+2025-08-18,PROD-002,USB-C Cable,Electronics,69,Monday,34,2025-08
+2025-08-19,PROD-002,USB-C Cable,Electronics,68,Tuesday,34,2025-08
+2025-08-20,PROD-002,USB-C Cable,Electronics,79,Wednesday,34,2025-08
+2025-08-21,PROD-002,USB-C Cable,Electronics,98,Thursday,34,2025-08
+2025-08-22,PROD-002,USB-C Cable,Electronics,94,Friday,34,2025-08
+2025-08-23,PROD-002,USB-C Cable,Electronics,115,Saturday,34,2025-08
+2025-08-24,PROD-002,USB-C Cable,Electronics,111,Sunday,34,2025-08
+2025-08-25,PROD-002,USB-C Cable,Electronics,77,Monday,35,2025-08
+2025-08-26,PROD-002,USB-C Cable,Electronics,75,Tuesday,35,2025-08
+2025-08-27,PROD-002,USB-C Cable,Electronics,87,Wednesday,35,2025-08
+2025-08-28,PROD-002,USB-C Cable,Electronics,90,Thursday,35,2025-08
+2025-08-29,PROD-002,USB-C Cable,Electronics,107,Friday,35,2025-08
+2025-08-30,PROD-002,USB-C Cable,Electronics,102,Saturday,35,2025-08
+2025-08-31,PROD-002,USB-C Cable,Electronics,124,Sunday,35,2025-08
+2025-09-01,PROD-002,USB-C Cable,Electronics,82,Monday,36,2025-09
+2025-09-02,PROD-002,USB-C Cable,Electronics,76,Tuesday,36,2025-09
+2025-09-03,PROD-002,USB-C Cable,Electronics,84,Wednesday,36,2025-09
+2025-09-04,PROD-002,USB-C Cable,Electronics,94,Thursday,36,2025-09
+2025-09-05,PROD-002,USB-C Cable,Electronics,98,Friday,36,2025-09
+2025-09-06,PROD-002,USB-C Cable,Electronics,104,Saturday,36,2025-09
+2025-09-07,PROD-002,USB-C Cable,Electronics,115,Sunday,36,2025-09
+2025-09-08,PROD-002,USB-C Cable,Electronics,85,Monday,37,2025-09
+2025-09-09,PROD-002,USB-C Cable,Electronics,83,Tuesday,37,2025-09
+2025-09-10,PROD-002,USB-C Cable,Electronics,34,Wednesday,37,2025-09
+2025-09-11,PROD-002,USB-C Cable,Electronics,77,Thursday,37,2025-09
+2025-09-12,PROD-002,USB-C Cable,Electronics,92,Friday,37,2025-09
+2025-09-13,PROD-002,USB-C Cable,Electronics,132,Saturday,37,2025-09
+2025-09-14,PROD-002,USB-C Cable,Electronics,100,Sunday,37,2025-09
+2025-09-15,PROD-002,USB-C Cable,Electronics,70,Monday,38,2025-09
+2025-09-16,PROD-002,USB-C Cable,Electronics,78,Tuesday,38,2025-09
+2025-09-17,PROD-002,USB-C Cable,Electronics,82,Wednesday,38,2025-09
+2025-09-18,PROD-002,USB-C Cable,Electronics,81,Thursday,38,2025-09
+2025-09-19,PROD-002,USB-C Cable,Electronics,103,Friday,38,2025-09
+2025-09-20,PROD-002,USB-C Cable,Electronics,101,Saturday,38,2025-09
+2025-09-21,PROD-002,USB-C Cable,Electronics,106,Sunday,38,2025-09
+2025-09-22,PROD-002,USB-C Cable,Electronics,74,Monday,39,2025-09
+2025-09-23,PROD-002,USB-C Cable,Electronics,67,Tuesday,39,2025-09
+2025-09-24,PROD-002,USB-C Cable,Electronics,70,Wednesday,39,2025-09
+2025-09-25,PROD-002,USB-C Cable,Electronics,81,Thursday,39,2025-09
+2025-09-26,PROD-002,USB-C Cable,Electronics,98,Friday,39,2025-09
+2025-09-27,PROD-002,USB-C Cable,Electronics,104,Saturday,39,2025-09
+2025-09-28,PROD-002,USB-C Cable,Electronics,101,Sunday,39,2025-09
+2025-09-29,PROD-002,USB-C Cable,Electronics,70,Monday,40,2025-09
+2025-09-30,PROD-002,USB-C Cable,Electronics,67,Tuesday,40,2025-09
+2025-10-01,PROD-002,USB-C Cable,Electronics,83,Wednesday,40,2025-10
+2025-10-02,PROD-002,USB-C Cable,Electronics,72,Thursday,40,2025-10
+2025-10-03,PROD-002,USB-C Cable,Electronics,74,Friday,40,2025-10
+2025-10-04,PROD-002,USB-C Cable,Electronics,87,Saturday,40,2025-10
+2025-10-05,PROD-002,USB-C Cable,Electronics,97,Sunday,40,2025-10
+2025-10-06,PROD-002,USB-C Cable,Electronics,73,Monday,41,2025-10
+2025-10-07,PROD-002,USB-C Cable,Electronics,67,Tuesday,41,2025-10
+2025-10-08,PROD-002,USB-C Cable,Electronics,71,Wednesday,41,2025-10
+2025-10-09,PROD-002,USB-C Cable,Electronics,76,Thursday,41,2025-10
+2025-10-10,PROD-002,USB-C Cable,Electronics,81,Friday,41,2025-10
+2025-10-11,PROD-002,USB-C Cable,Electronics,99,Saturday,41,2025-10
+2025-10-12,PROD-002,USB-C Cable,Electronics,102,Sunday,41,2025-10
+2025-10-13,PROD-002,USB-C Cable,Electronics,58,Monday,42,2025-10
+2025-10-14,PROD-002,USB-C Cable,Electronics,49,Tuesday,42,2025-10
+2025-10-15,PROD-002,USB-C Cable,Electronics,69,Wednesday,42,2025-10
+2025-10-16,PROD-002,USB-C Cable,Electronics,65,Thursday,42,2025-10
+2025-10-17,PROD-002,USB-C Cable,Electronics,84,Friday,42,2025-10
+2025-10-18,PROD-002,USB-C Cable,Electronics,89,Saturday,42,2025-10
+2025-10-19,PROD-002,USB-C Cable,Electronics,81,Sunday,42,2025-10
+2025-10-20,PROD-002,USB-C Cable,Electronics,61,Monday,43,2025-10
+2025-10-21,PROD-002,USB-C Cable,Electronics,55,Tuesday,43,2025-10
+2025-10-22,PROD-002,USB-C Cable,Electronics,82,Wednesday,43,2025-10
+2025-10-23,PROD-002,USB-C Cable,Electronics,75,Thursday,43,2025-10
+2025-10-24,PROD-002,USB-C Cable,Electronics,84,Friday,43,2025-10
+2025-10-25,PROD-002,USB-C Cable,Electronics,98,Saturday,43,2025-10
+2025-10-26,PROD-002,USB-C Cable,Electronics,101,Sunday,43,2025-10
+2025-10-27,PROD-002,USB-C Cable,Electronics,73,Monday,44,2025-10
+2025-10-28,PROD-002,USB-C Cable,Electronics,63,Tuesday,44,2025-10
+2025-10-29,PROD-002,USB-C Cable,Electronics,65,Wednesday,44,2025-10
+2025-10-30,PROD-002,USB-C Cable,Electronics,69,Thursday,44,2025-10
+2025-10-31,PROD-002,USB-C Cable,Electronics,83,Friday,44,2025-10
+2025-11-01,PROD-002,USB-C Cable,Electronics,82,Saturday,44,2025-11
+2025-11-02,PROD-002,USB-C Cable,Electronics,107,Sunday,44,2025-11
+2025-11-03,PROD-002,USB-C Cable,Electronics,57,Monday,45,2025-11
+2025-11-04,PROD-002,USB-C Cable,Electronics,73,Tuesday,45,2025-11
+2025-11-05,PROD-002,USB-C Cable,Electronics,77,Wednesday,45,2025-11
+2025-11-06,PROD-002,USB-C Cable,Electronics,80,Thursday,45,2025-11
+2025-11-07,PROD-002,USB-C Cable,Electronics,84,Friday,45,2025-11
+2025-11-08,PROD-002,USB-C Cable,Electronics,105,Saturday,45,2025-11
+2025-11-09,PROD-002,USB-C Cable,Electronics,101,Sunday,45,2025-11
+2025-11-10,PROD-002,USB-C Cable,Electronics,69,Monday,46,2025-11
+2025-11-11,PROD-002,USB-C Cable,Electronics,67,Tuesday,46,2025-11
+2025-11-12,PROD-002,USB-C Cable,Electronics,91,Wednesday,46,2025-11
+2025-11-13,PROD-002,USB-C Cable,Electronics,85,Thursday,46,2025-11
+2025-11-14,PROD-002,USB-C Cable,Electronics,92,Friday,46,2025-11
+2025-11-15,PROD-002,USB-C Cable,Electronics,103,Saturday,46,2025-11
+2025-11-16,PROD-002,USB-C Cable,Electronics,108,Sunday,46,2025-11
+2025-11-17,PROD-002,USB-C Cable,Electronics,69,Monday,47,2025-11
+2025-11-18,PROD-002,USB-C Cable,Electronics,73,Tuesday,47,2025-11
+2025-11-19,PROD-002,USB-C Cable,Electronics,77,Wednesday,47,2025-11
+2025-11-20,PROD-002,USB-C Cable,Electronics,96,Thursday,47,2025-11
+2025-11-21,PROD-002,USB-C Cable,Electronics,90,Friday,47,2025-11
+2025-11-22,PROD-002,USB-C Cable,Electronics,107,Saturday,47,2025-11
+2025-11-23,PROD-002,USB-C Cable,Electronics,104,Sunday,47,2025-11
+2025-11-24,PROD-002,USB-C Cable,Electronics,73,Monday,48,2025-11
+2025-11-25,PROD-002,USB-C Cable,Electronics,75,Tuesday,48,2025-11
+2025-11-26,PROD-002,USB-C Cable,Electronics,87,Wednesday,48,2025-11
+2025-11-27,PROD-002,USB-C Cable,Electronics,83,Thursday,48,2025-11
+2025-11-28,PROD-002,USB-C Cable,Electronics,86,Friday,48,2025-11
+2025-11-29,PROD-002,USB-C Cable,Electronics,104,Saturday,48,2025-11
+2025-11-30,PROD-002,USB-C Cable,Electronics,118,Sunday,48,2025-11
+2025-12-01,PROD-002,USB-C Cable,Electronics,78,Monday,49,2025-12
+2025-12-02,PROD-002,USB-C Cable,Electronics,83,Tuesday,49,2025-12
+2025-12-03,PROD-002,USB-C Cable,Electronics,92,Wednesday,49,2025-12
+2025-12-04,PROD-002,USB-C Cable,Electronics,88,Thursday,49,2025-12
+2025-12-05,PROD-002,USB-C Cable,Electronics,88,Friday,49,2025-12
+2025-12-06,PROD-002,USB-C Cable,Electronics,114,Saturday,49,2025-12
+2025-12-07,PROD-002,USB-C Cable,Electronics,122,Sunday,49,2025-12
+2025-12-08,PROD-002,USB-C Cable,Electronics,75,Monday,50,2025-12
+2025-12-09,PROD-002,USB-C Cable,Electronics,80,Tuesday,50,2025-12
+2025-12-10,PROD-002,USB-C Cable,Electronics,86,Wednesday,50,2025-12
+2025-12-11,PROD-002,USB-C Cable,Electronics,94,Thursday,50,2025-12
+2025-12-12,PROD-002,USB-C Cable,Electronics,89,Friday,50,2025-12
+2025-12-13,PROD-002,USB-C Cable,Electronics,118,Saturday,50,2025-12
+2025-12-14,PROD-002,USB-C Cable,Electronics,107,Sunday,50,2025-12
+2025-12-15,PROD-002,USB-C Cable,Electronics,71,Monday,51,2025-12
+2025-12-16,PROD-002,USB-C Cable,Electronics,76,Tuesday,51,2025-12
+2025-12-17,PROD-002,USB-C Cable,Electronics,85,Wednesday,51,2025-12
+2025-12-18,PROD-002,USB-C Cable,Electronics,94,Thursday,51,2025-12
+2025-12-19,PROD-002,USB-C Cable,Electronics,92,Friday,51,2025-12
+2025-12-20,PROD-002,USB-C Cable,Electronics,107,Saturday,51,2025-12
+2025-12-21,PROD-002,USB-C Cable,Electronics,115,Sunday,51,2025-12
+2025-12-22,PROD-002,USB-C Cable,Electronics,76,Monday,52,2025-12
+2025-12-23,PROD-002,USB-C Cable,Electronics,67,Tuesday,52,2025-12
+2025-12-24,PROD-002,USB-C Cable,Electronics,88,Wednesday,52,2025-12
+2025-12-25,PROD-002,USB-C Cable,Electronics,74,Thursday,52,2025-12
+2025-12-26,PROD-002,USB-C Cable,Electronics,82,Friday,52,2025-12
+2025-12-27,PROD-002,USB-C Cable,Electronics,95,Saturday,52,2025-12
+2025-12-28,PROD-002,USB-C Cable,Electronics,94,Sunday,52,2025-12
+2025-12-29,PROD-002,USB-C Cable,Electronics,71,Monday,1,2025-12
+2025-12-30,PROD-002,USB-C Cable,Electronics,66,Tuesday,1,2025-12
+2025-12-31,PROD-002,USB-C Cable,Electronics,53,Wednesday,1,2025-12
+2026-01-01,PROD-002,USB-C Cable,Electronics,73,Thursday,1,2026-01
+2026-01-02,PROD-002,USB-C Cable,Electronics,79,Friday,1,2026-01
+2026-01-03,PROD-002,USB-C Cable,Electronics,102,Saturday,1,2026-01
+2026-01-04,PROD-002,USB-C Cable,Electronics,92,Sunday,1,2026-01
+2026-01-05,PROD-002,USB-C Cable,Electronics,82,Monday,2,2026-01
+2026-01-06,PROD-002,USB-C Cable,Electronics,74,Tuesday,2,2026-01
+2026-01-07,PROD-002,USB-C Cable,Electronics,190,Wednesday,2,2026-01
+2026-01-08,PROD-002,USB-C Cable,Electronics,200,Thursday,2,2026-01
+2026-01-09,PROD-002,USB-C Cable,Electronics,203,Friday,2,2026-01
+2026-01-10,PROD-002,USB-C Cable,Electronics,95,Saturday,2,2026-01
+2026-01-11,PROD-002,USB-C Cable,Electronics,99,Sunday,2,2026-01
+2026-01-12,PROD-002,USB-C Cable,Electronics,129,Monday,3,2026-01
+2026-01-13,PROD-002,USB-C Cable,Electronics,130,Tuesday,3,2026-01
+2026-01-14,PROD-002,USB-C Cable,Electronics,141,Wednesday,3,2026-01
+2026-01-15,PROD-002,USB-C Cable,Electronics,149,Thursday,3,2026-01
+2026-01-16,PROD-002,USB-C Cable,Electronics,144,Friday,3,2026-01
+2026-01-17,PROD-002,USB-C Cable,Electronics,154,Saturday,3,2026-01
+2026-01-18,PROD-002,USB-C Cable,Electronics,144,Sunday,3,2026-01
+2026-01-19,PROD-002,USB-C Cable,Electronics,141,Monday,4,2026-01
+2026-01-20,PROD-002,USB-C Cable,Electronics,127,Tuesday,4,2026-01
+2026-01-21,PROD-002,USB-C Cable,Electronics,140,Wednesday,4,2026-01
+2026-01-22,PROD-002,USB-C Cable,Electronics,85,Thursday,4,2026-01
+2026-01-23,PROD-002,USB-C Cable,Electronics,82,Friday,4,2026-01
+2026-01-24,PROD-002,USB-C Cable,Electronics,94,Saturday,4,2026-01
+2026-01-25,PROD-002,USB-C Cable,Electronics,105,Sunday,4,2026-01
+2026-01-26,PROD-002,USB-C Cable,Electronics,69,Monday,5,2026-01
+2026-01-27,PROD-002,USB-C Cable,Electronics,71,Tuesday,5,2026-01
+2026-01-28,PROD-002,USB-C Cable,Electronics,17,Wednesday,5,2026-01
+2026-01-29,PROD-002,USB-C Cable,Electronics,83,Thursday,5,2026-01
+2026-01-30,PROD-002,USB-C Cable,Electronics,86,Friday,5,2026-01
+2026-01-31,PROD-002,USB-C Cable,Electronics,90,Saturday,5,2026-01
+2026-02-01,PROD-002,USB-C Cable,Electronics,103,Sunday,5,2026-02
+2026-02-02,PROD-002,USB-C Cable,Electronics,56,Monday,6,2026-02
+2026-02-03,PROD-002,USB-C Cable,Electronics,85,Tuesday,6,2026-02
+2026-02-04,PROD-002,USB-C Cable,Electronics,71,Wednesday,6,2026-02
+2026-02-05,PROD-002,USB-C Cable,Electronics,89,Thursday,6,2026-02
+2026-02-06,PROD-002,USB-C Cable,Electronics,82,Friday,6,2026-02
+2025-08-10,PROD-003,Laptop Stand,Office,2,Sunday,32,2025-08
+2025-08-11,PROD-003,Laptop Stand,Office,25,Monday,33,2025-08
+2025-08-12,PROD-003,Laptop Stand,Office,36,Tuesday,33,2025-08
+2025-08-13,PROD-003,Laptop Stand,Office,29,Wednesday,33,2025-08
+2025-08-14,PROD-003,Laptop Stand,Office,30,Thursday,33,2025-08
+2025-08-15,PROD-003,Laptop Stand,Office,22,Friday,33,2025-08
+2025-08-16,PROD-003,Laptop Stand,Office,21,Saturday,33,2025-08
+2025-08-17,PROD-003,Laptop Stand,Office,17,Sunday,33,2025-08
+2025-08-18,PROD-003,Laptop Stand,Office,39,Monday,34,2025-08
+2025-08-19,PROD-003,Laptop Stand,Office,36,Tuesday,34,2025-08
+2025-08-20,PROD-003,Laptop Stand,Office,34,Wednesday,34,2025-08
+2025-08-21,PROD-003,Laptop Stand,Office,27,Thursday,34,2025-08
+2025-08-22,PROD-003,Laptop Stand,Office,24,Friday,34,2025-08
+2025-08-23,PROD-003,Laptop Stand,Office,19,Saturday,34,2025-08
+2025-08-24,PROD-003,Laptop Stand,Office,22,Sunday,34,2025-08
+2025-08-25,PROD-003,Laptop Stand,Office,31,Monday,35,2025-08
+2025-08-26,PROD-003,Laptop Stand,Office,38,Tuesday,35,2025-08
+2025-08-27,PROD-003,Laptop Stand,Office,46,Wednesday,35,2025-08
+2025-08-28,PROD-003,Laptop Stand,Office,36,Thursday,35,2025-08
+2025-08-29,PROD-003,Laptop Stand,Office,26,Friday,35,2025-08
+2025-08-30,PROD-003,Laptop Stand,Office,30,Saturday,35,2025-08
+2025-08-31,PROD-003,Laptop Stand,Office,17,Sunday,35,2025-08
+2025-09-01,PROD-003,Laptop Stand,Office,21,Monday,36,2025-09
+2025-09-02,PROD-003,Laptop Stand,Office,31,Tuesday,36,2025-09
+2025-09-03,PROD-003,Laptop Stand,Office,23,Wednesday,36,2025-09
+2025-09-04,PROD-003,Laptop Stand,Office,29,Thursday,36,2025-09
+2025-09-05,PROD-003,Laptop Stand,Office,29,Friday,36,2025-09
+2025-09-06,PROD-003,Laptop Stand,Office,33,Saturday,36,2025-09
+2025-09-07,PROD-003,Laptop Stand,Office,22,Sunday,36,2025-09
+2025-09-08,PROD-003,Laptop Stand,Office,33,Monday,37,2025-09
+2025-09-09,PROD-003,Laptop Stand,Office,42,Tuesday,37,2025-09
+2025-09-10,PROD-003,Laptop Stand,Office,20,Wednesday,37,2025-09
+2025-09-11,PROD-003,Laptop Stand,Office,33,Thursday,37,2025-09
+2025-09-12,PROD-003,Laptop Stand,Office,33,Friday,37,2025-09
+2025-09-13,PROD-003,Laptop Stand,Office,13,Saturday,37,2025-09
+2025-09-14,PROD-003,Laptop Stand,Office,27,Sunday,37,2025-09
+2025-09-15,PROD-003,Laptop Stand,Office,36,Monday,38,2025-09
+2025-09-16,PROD-003,Laptop Stand,Office,34,Tuesday,38,2025-09
+2025-09-17,PROD-003,Laptop Stand,Office,38,Wednesday,38,2025-09
+2025-09-18,PROD-003,Laptop Stand,Office,45,Thursday,38,2025-09
+2025-09-19,PROD-003,Laptop Stand,Office,29,Friday,38,2025-09
+2025-09-20,PROD-003,Laptop Stand,Office,23,Saturday,38,2025-09
+2025-09-21,PROD-003,Laptop Stand,Office,16,Sunday,38,2025-09
+2025-09-22,PROD-003,Laptop Stand,Office,28,Monday,39,2025-09
+2025-09-23,PROD-003,Laptop Stand,Office,41,Tuesday,39,2025-09
+2025-09-24,PROD-003,Laptop Stand,Office,27,Wednesday,39,2025-09
+2025-09-25,PROD-003,Laptop Stand,Office,30,Thursday,39,2025-09
+2025-09-26,PROD-003,Laptop Stand,Office,24,Friday,39,2025-09
+2025-09-27,PROD-003,Laptop Stand,Office,24,Saturday,39,2025-09
+2025-09-28,PROD-003,Laptop Stand,Office,20,Sunday,39,2025-09
+2025-09-29,PROD-003,Laptop Stand,Office,38,Monday,40,2025-09
+2025-09-30,PROD-003,Laptop Stand,Office,31,Tuesday,40,2025-09
+2025-10-01,PROD-003,Laptop Stand,Office,30,Wednesday,40,2025-10
+2025-10-02,PROD-003,Laptop Stand,Office,22,Thursday,40,2025-10
+2025-10-03,PROD-003,Laptop Stand,Office,23,Friday,40,2025-10
+2025-10-04,PROD-003,Laptop Stand,Office,23,Saturday,40,2025-10
+2025-10-05,PROD-003,Laptop Stand,Office,23,Sunday,40,2025-10
+2025-10-06,PROD-003,Laptop Stand,Office,25,Monday,41,2025-10
+2025-10-07,PROD-003,Laptop Stand,Office,39,Tuesday,41,2025-10
+2025-10-08,PROD-003,Laptop Stand,Office,39,Wednesday,41,2025-10
+2025-10-09,PROD-003,Laptop Stand,Office,31,Thursday,41,2025-10
+2025-10-10,PROD-003,Laptop Stand,Office,37,Friday,41,2025-10
+2025-10-11,PROD-003,Laptop Stand,Office,15,Saturday,41,2025-10
+2025-10-12,PROD-003,Laptop Stand,Office,10,Sunday,41,2025-10
+2025-10-13,PROD-003,Laptop Stand,Office,19,Monday,42,2025-10
+2025-10-14,PROD-003,Laptop Stand,Office,42,Tuesday,42,2025-10
+2025-10-15,PROD-003,Laptop Stand,Office,35,Wednesday,42,2025-10
+2025-10-16,PROD-003,Laptop Stand,Office,28,Thursday,42,2025-10
+2025-10-17,PROD-003,Laptop Stand,Office,27,Friday,42,2025-10
+2025-10-18,PROD-003,Laptop Stand,Office,13,Saturday,42,2025-10
+2025-10-19,PROD-003,Laptop Stand,Office,18,Sunday,42,2025-10
+2025-10-20,PROD-003,Laptop Stand,Office,32,Monday,43,2025-10
+2025-10-21,PROD-003,Laptop Stand,Office,34,Tuesday,43,2025-10
+2025-10-22,PROD-003,Laptop Stand,Office,36,Wednesday,43,2025-10
+2025-10-23,PROD-003,Laptop Stand,Office,32,Thursday,43,2025-10
+2025-10-24,PROD-003,Laptop Stand,Office,28,Friday,43,2025-10
+2025-10-25,PROD-003,Laptop Stand,Office,16,Saturday,43,2025-10
+2025-10-26,PROD-003,Laptop Stand,Office,21,Sunday,43,2025-10
+2025-10-27,PROD-003,Laptop Stand,Office,44,Monday,44,2025-10
+2025-10-28,PROD-003,Laptop Stand,Office,43,Tuesday,44,2025-10
+2025-10-29,PROD-003,Laptop Stand,Office,43,Wednesday,44,2025-10
+2025-10-30,PROD-003,Laptop Stand,Office,27,Thursday,44,2025-10
+2025-10-31,PROD-003,Laptop Stand,Office,21,Friday,44,2025-10
+2025-11-01,PROD-003,Laptop Stand,Office,21,Saturday,44,2025-11
+2025-11-02,PROD-003,Laptop Stand,Office,20,Sunday,44,2025-11
+2025-11-03,PROD-003,Laptop Stand,Office,41,Monday,45,2025-11
+2025-11-04,PROD-003,Laptop Stand,Office,27,Tuesday,45,2025-11
+2025-11-05,PROD-003,Laptop Stand,Office,44,Wednesday,45,2025-11
+2025-11-06,PROD-003,Laptop Stand,Office,31,Thursday,45,2025-11
+2025-11-07,PROD-003,Laptop Stand,Office,12,Friday,45,2025-11
+2025-11-08,PROD-003,Laptop Stand,Office,17,Saturday,45,2025-11
+2025-11-09,PROD-003,Laptop Stand,Office,10,Sunday,45,2025-11
+2025-11-10,PROD-003,Laptop Stand,Office,41,Monday,46,2025-11
+2025-11-11,PROD-003,Laptop Stand,Office,40,Tuesday,46,2025-11
+2025-11-12,PROD-003,Laptop Stand,Office,29,Wednesday,46,2025-11
+2025-11-13,PROD-003,Laptop Stand,Office,26,Thursday,46,2025-11
+2025-11-14,PROD-003,Laptop Stand,Office,29,Friday,46,2025-11
+2025-11-15,PROD-003,Laptop Stand,Office,35,Saturday,46,2025-11
+2025-11-16,PROD-003,Laptop Stand,Office,20,Sunday,46,2025-11
+2025-11-17,PROD-003,Laptop Stand,Office,29,Monday,47,2025-11
+2025-11-18,PROD-003,Laptop Stand,Office,40,Tuesday,47,2025-11
+2025-11-19,PROD-003,Laptop Stand,Office,37,Wednesday,47,2025-11
+2025-11-20,PROD-003,Laptop Stand,Office,19,Thursday,47,2025-11
+2025-11-21,PROD-003,Laptop Stand,Office,32,Friday,47,2025-11
+2025-11-22,PROD-003,Laptop Stand,Office,25,Saturday,47,2025-11
+2025-11-23,PROD-003,Laptop Stand,Office,27,Sunday,47,2025-11
+2025-11-24,PROD-003,Laptop Stand,Office,51,Monday,48,2025-11
+2025-11-25,PROD-003,Laptop Stand,Office,50,Tuesday,48,2025-11
+2025-11-26,PROD-003,Laptop Stand,Office,39,Wednesday,48,2025-11
+2025-11-27,PROD-003,Laptop Stand,Office,30,Thursday,48,2025-11
+2025-11-28,PROD-003,Laptop Stand,Office,50,Friday,48,2025-11
+2025-11-29,PROD-003,Laptop Stand,Office,27,Saturday,48,2025-11
+2025-11-30,PROD-003,Laptop Stand,Office,24,Sunday,48,2025-11
+2025-12-01,PROD-003,Laptop Stand,Office,41,Monday,49,2025-12
+2025-12-02,PROD-003,Laptop Stand,Office,46,Tuesday,49,2025-12
+2025-12-03,PROD-003,Laptop Stand,Office,40,Wednesday,49,2025-12
+2025-12-04,PROD-003,Laptop Stand,Office,34,Thursday,49,2025-12
+2025-12-05,PROD-003,Laptop Stand,Office,31,Friday,49,2025-12
+2025-12-06,PROD-003,Laptop Stand,Office,27,Saturday,49,2025-12
+2025-12-07,PROD-003,Laptop Stand,Office,20,Sunday,49,2025-12
+2025-12-08,PROD-003,Laptop Stand,Office,36,Monday,50,2025-12
+2025-12-09,PROD-003,Laptop Stand,Office,45,Tuesday,50,2025-12
+2025-12-10,PROD-003,Laptop Stand,Office,39,Wednesday,50,2025-12
+2025-12-11,PROD-003,Laptop Stand,Office,47,Thursday,50,2025-12
+2025-12-12,PROD-003,Laptop Stand,Office,17,Friday,50,2025-12
+2025-12-13,PROD-003,Laptop Stand,Office,34,Saturday,50,2025-12
+2025-12-14,PROD-003,Laptop Stand,Office,31,Sunday,50,2025-12
+2025-12-15,PROD-003,Laptop Stand,Office,27,Monday,51,2025-12
+2025-12-16,PROD-003,Laptop Stand,Office,41,Tuesday,51,2025-12
+2025-12-17,PROD-003,Laptop Stand,Office,37,Wednesday,51,2025-12
+2025-12-18,PROD-003,Laptop Stand,Office,27,Thursday,51,2025-12
+2025-12-19,PROD-003,Laptop Stand,Office,28,Friday,51,2025-12
+2025-12-20,PROD-003,Laptop Stand,Office,19,Saturday,51,2025-12
+2025-12-21,PROD-003,Laptop Stand,Office,33,Sunday,51,2025-12
+2025-12-22,PROD-003,Laptop Stand,Office,45,Monday,52,2025-12
+2025-12-23,PROD-003,Laptop Stand,Office,50,Tuesday,52,2025-12
+2025-12-24,PROD-003,Laptop Stand,Office,43,Wednesday,52,2025-12
+2025-12-25,PROD-003,Laptop Stand,Office,28,Thursday,52,2025-12
+2025-12-26,PROD-003,Laptop Stand,Office,28,Friday,52,2025-12
+2025-12-27,PROD-003,Laptop Stand,Office,28,Saturday,52,2025-12
+2025-12-28,PROD-003,Laptop Stand,Office,14,Sunday,52,2025-12
+2025-12-29,PROD-003,Laptop Stand,Office,42,Monday,1,2025-12
+2025-12-30,PROD-003,Laptop Stand,Office,39,Tuesday,1,2025-12
+2025-12-31,PROD-003,Laptop Stand,Office,35,Wednesday,1,2025-12
+2026-01-01,PROD-003,Laptop Stand,Office,38,Thursday,1,2026-01
+2026-01-02,PROD-003,Laptop Stand,Office,33,Friday,1,2026-01
+2026-01-03,PROD-003,Laptop Stand,Office,22,Saturday,1,2026-01
+2026-01-04,PROD-003,Laptop Stand,Office,28,Sunday,1,2026-01
+2026-01-05,PROD-003,Laptop Stand,Office,29,Monday,2,2026-01
+2026-01-06,PROD-003,Laptop Stand,Office,43,Tuesday,2,2026-01
+2026-01-07,PROD-003,Laptop Stand,Office,77,Wednesday,2,2026-01
+2026-01-08,PROD-003,Laptop Stand,Office,68,Thursday,2,2026-01
+2026-01-09,PROD-003,Laptop Stand,Office,69,Friday,2,2026-01
+2026-01-10,PROD-003,Laptop Stand,Office,16,Saturday,2,2026-01
+2026-01-11,PROD-003,Laptop Stand,Office,26,Sunday,2,2026-01
+2026-01-12,PROD-003,Laptop Stand,Office,55,Monday,3,2026-01
+2026-01-13,PROD-003,Laptop Stand,Office,56,Tuesday,3,2026-01
+2026-01-14,PROD-003,Laptop Stand,Office,62,Wednesday,3,2026-01
+2026-01-15,PROD-003,Laptop Stand,Office,49,Thursday,3,2026-01
+2026-01-16,PROD-003,Laptop Stand,Office,41,Friday,3,2026-01
+2026-01-17,PROD-003,Laptop Stand,Office,34,Saturday,3,2026-01
+2026-01-18,PROD-003,Laptop Stand,Office,45,Sunday,3,2026-01
+2026-01-19,PROD-003,Laptop Stand,Office,48,Monday,4,2026-01
+2026-01-20,PROD-003,Laptop Stand,Office,71,Tuesday,4,2026-01
+2026-01-21,PROD-003,Laptop Stand,Office,44,Wednesday,4,2026-01
+2026-01-22,PROD-003,Laptop Stand,Office,44,Thursday,4,2026-01
+2026-01-23,PROD-003,Laptop Stand,Office,32,Friday,4,2026-01
+2026-01-24,PROD-003,Laptop Stand,Office,24,Saturday,4,2026-01
+2026-01-25,PROD-003,Laptop Stand,Office,18,Sunday,4,2026-01
+2026-01-26,PROD-003,Laptop Stand,Office,40,Monday,5,2026-01
+2026-01-27,PROD-003,Laptop Stand,Office,41,Tuesday,5,2026-01
+2026-01-28,PROD-003,Laptop Stand,Office,45,Wednesday,5,2026-01
+2026-01-29,PROD-003,Laptop Stand,Office,36,Thursday,5,2026-01
+2026-01-30,PROD-003,Laptop Stand,Office,33,Friday,5,2026-01
+2026-01-31,PROD-003,Laptop Stand,Office,24,Saturday,5,2026-01
+2026-02-01,PROD-003,Laptop Stand,Office,23,Sunday,5,2026-02
+2026-02-02,PROD-003,Laptop Stand,Office,42,Monday,6,2026-02
+2026-02-03,PROD-003,Laptop Stand,Office,33,Tuesday,6,2026-02
+2026-02-04,PROD-003,Laptop Stand,Office,32,Wednesday,6,2026-02
+2026-02-05,PROD-003,Laptop Stand,Office,42,Thursday,6,2026-02
+2026-02-06,PROD-003,Laptop Stand,Office,36,Friday,6,2026-02
+2025-08-10,PROD-004,Notebook A5,Stationery,82,Sunday,32,2025-08
+2025-08-11,PROD-004,Notebook A5,Stationery,140,Monday,33,2025-08
+2025-08-12,PROD-004,Notebook A5,Stationery,171,Tuesday,33,2025-08
+2025-08-13,PROD-004,Notebook A5,Stationery,169,Wednesday,33,2025-08
+2025-08-14,PROD-004,Notebook A5,Stationery,132,Thursday,33,2025-08
+2025-08-15,PROD-004,Notebook A5,Stationery,119,Friday,33,2025-08
+2025-08-16,PROD-004,Notebook A5,Stationery,113,Saturday,33,2025-08
+2025-08-17,PROD-004,Notebook A5,Stationery,103,Sunday,33,2025-08
+2025-08-18,PROD-004,Notebook A5,Stationery,146,Monday,34,2025-08
+2025-08-19,PROD-004,Notebook A5,Stationery,161,Tuesday,34,2025-08
+2025-08-20,PROD-004,Notebook A5,Stationery,150,Wednesday,34,2025-08
+2025-08-21,PROD-004,Notebook A5,Stationery,128,Thursday,34,2025-08
+2025-08-22,PROD-004,Notebook A5,Stationery,120,Friday,34,2025-08
+2025-08-23,PROD-004,Notebook A5,Stationery,93,Saturday,34,2025-08
+2025-08-24,PROD-004,Notebook A5,Stationery,83,Sunday,34,2025-08
+2025-08-25,PROD-004,Notebook A5,Stationery,156,Monday,35,2025-08
+2025-08-26,PROD-004,Notebook A5,Stationery,172,Tuesday,35,2025-08
+2025-08-27,PROD-004,Notebook A5,Stationery,172,Wednesday,35,2025-08
+2025-08-28,PROD-004,Notebook A5,Stationery,134,Thursday,35,2025-08
+2025-08-29,PROD-004,Notebook A5,Stationery,141,Friday,35,2025-08
+2025-08-30,PROD-004,Notebook A5,Stationery,103,Saturday,35,2025-08
+2025-08-31,PROD-004,Notebook A5,Stationery,91,Sunday,35,2025-08
+2025-09-01,PROD-004,Notebook A5,Stationery,164,Monday,36,2025-09
+2025-09-02,PROD-004,Notebook A5,Stationery,160,Tuesday,36,2025-09
+2025-09-03,PROD-004,Notebook A5,Stationery,161,Wednesday,36,2025-09
+2025-09-04,PROD-004,Notebook A5,Stationery,146,Thursday,36,2025-09
+2025-09-05,PROD-004,Notebook A5,Stationery,136,Friday,36,2025-09
+2025-09-06,PROD-004,Notebook A5,Stationery,107,Saturday,36,2025-09
+2025-09-07,PROD-004,Notebook A5,Stationery,115,Sunday,36,2025-09
+2025-09-08,PROD-004,Notebook A5,Stationery,150,Monday,37,2025-09
+2025-09-09,PROD-004,Notebook A5,Stationery,164,Tuesday,37,2025-09
+2025-09-10,PROD-004,Notebook A5,Stationery,149,Wednesday,37,2025-09
+2025-09-11,PROD-004,Notebook A5,Stationery,137,Thursday,37,2025-09
+2025-09-12,PROD-004,Notebook A5,Stationery,122,Friday,37,2025-09
+2025-09-13,PROD-004,Notebook A5,Stationery,114,Saturday,37,2025-09
+2025-09-14,PROD-004,Notebook A5,Stationery,103,Sunday,37,2025-09
+2025-09-15,PROD-004,Notebook A5,Stationery,146,Monday,38,2025-09
+2025-09-16,PROD-004,Notebook A5,Stationery,156,Tuesday,38,2025-09
+2025-09-17,PROD-004,Notebook A5,Stationery,155,Wednesday,38,2025-09
+2025-09-18,PROD-004,Notebook A5,Stationery,132,Thursday,38,2025-09
+2025-09-19,PROD-004,Notebook A5,Stationery,130,Friday,38,2025-09
+2025-09-20,PROD-004,Notebook A5,Stationery,100,Saturday,38,2025-09
+2025-09-21,PROD-004,Notebook A5,Stationery,71,Sunday,38,2025-09
+2025-09-22,PROD-004,Notebook A5,Stationery,160,Monday,39,2025-09
+2025-09-23,PROD-004,Notebook A5,Stationery,174,Tuesday,39,2025-09
+2025-09-24,PROD-004,Notebook A5,Stationery,138,Wednesday,39,2025-09
+2025-09-25,PROD-004,Notebook A5,Stationery,127,Thursday,39,2025-09
+2025-09-26,PROD-004,Notebook A5,Stationery,121,Friday,39,2025-09
+2025-09-27,PROD-004,Notebook A5,Stationery,97,Saturday,39,2025-09
+2025-09-28,PROD-004,Notebook A5,Stationery,88,Sunday,39,2025-09
+2025-09-29,PROD-004,Notebook A5,Stationery,158,Monday,40,2025-09
+2025-09-30,PROD-004,Notebook A5,Stationery,147,Tuesday,40,2025-09
+2025-10-01,PROD-004,Notebook A5,Stationery,129,Wednesday,40,2025-10
+2025-10-02,PROD-004,Notebook A5,Stationery,111,Thursday,40,2025-10
+2025-10-03,PROD-004,Notebook A5,Stationery,105,Friday,40,2025-10
+2025-10-04,PROD-004,Notebook A5,Stationery,89,Saturday,40,2025-10
+2025-10-05,PROD-004,Notebook A5,Stationery,95,Sunday,40,2025-10
+2025-10-06,PROD-004,Notebook A5,Stationery,128,Monday,41,2025-10
+2025-10-07,PROD-004,Notebook A5,Stationery,145,Tuesday,41,2025-10
+2025-10-08,PROD-004,Notebook A5,Stationery,131,Wednesday,41,2025-10
+2025-10-09,PROD-004,Notebook A5,Stationery,131,Thursday,41,2025-10
+2025-10-10,PROD-004,Notebook A5,Stationery,133,Friday,41,2025-10
+2025-10-11,PROD-004,Notebook A5,Stationery,82,Saturday,41,2025-10
+2025-10-12,PROD-004,Notebook A5,Stationery,71,Sunday,41,2025-10
+2025-10-13,PROD-004,Notebook A5,Stationery,140,Monday,42,2025-10
+2025-10-14,PROD-004,Notebook A5,Stationery,147,Tuesday,42,2025-10
+2025-10-15,PROD-004,Notebook A5,Stationery,147,Wednesday,42,2025-10
+2025-10-16,PROD-004,Notebook A5,Stationery,124,Thursday,42,2025-10
+2025-10-17,PROD-004,Notebook A5,Stationery,104,Friday,42,2025-10
+2025-10-18,PROD-004,Notebook A5,Stationery,20,Saturday,42,2025-10
+2025-10-19,PROD-004,Notebook A5,Stationery,86,Sunday,42,2025-10
+2025-10-20,PROD-004,Notebook A5,Stationery,137,Monday,43,2025-10
+2025-10-21,PROD-004,Notebook A5,Stationery,146,Tuesday,43,2025-10
+2025-10-22,PROD-004,Notebook A5,Stationery,140,Wednesday,43,2025-10
+2025-10-23,PROD-004,Notebook A5,Stationery,131,Thursday,43,2025-10
+2025-10-24,PROD-004,Notebook A5,Stationery,122,Friday,43,2025-10
+2025-10-25,PROD-004,Notebook A5,Stationery,94,Saturday,43,2025-10
+2025-10-26,PROD-004,Notebook A5,Stationery,75,Sunday,43,2025-10
+2025-10-27,PROD-004,Notebook A5,Stationery,134,Monday,44,2025-10
+2025-10-28,PROD-004,Notebook A5,Stationery,156,Tuesday,44,2025-10
+2025-10-29,PROD-004,Notebook A5,Stationery,126,Wednesday,44,2025-10
+2025-10-30,PROD-004,Notebook A5,Stationery,127,Thursday,44,2025-10
+2025-10-31,PROD-004,Notebook A5,Stationery,109,Friday,44,2025-10
+2025-11-01,PROD-004,Notebook A5,Stationery,91,Saturday,44,2025-11
+2025-11-02,PROD-004,Notebook A5,Stationery,92,Sunday,44,2025-11
+2025-11-03,PROD-004,Notebook A5,Stationery,140,Monday,45,2025-11
+2025-11-04,PROD-004,Notebook A5,Stationery,152,Tuesday,45,2025-11
+2025-11-05,PROD-004,Notebook A5,Stationery,127,Wednesday,45,2025-11
+2025-11-06,PROD-004,Notebook A5,Stationery,137,Thursday,45,2025-11
+2025-11-07,PROD-004,Notebook A5,Stationery,125,Friday,45,2025-11
+2025-11-08,PROD-004,Notebook A5,Stationery,116,Saturday,45,2025-11
+2025-11-09,PROD-004,Notebook A5,Stationery,81,Sunday,45,2025-11
+2025-11-10,PROD-004,Notebook A5,Stationery,148,Monday,46,2025-11
+2025-11-11,PROD-004,Notebook A5,Stationery,161,Tuesday,46,2025-11
+2025-11-12,PROD-004,Notebook A5,Stationery,163,Wednesday,46,2025-11
+2025-11-13,PROD-004,Notebook A5,Stationery,135,Thursday,46,2025-11
+2025-11-14,PROD-004,Notebook A5,Stationery,127,Friday,46,2025-11
+2025-11-15,PROD-004,Notebook A5,Stationery,106,Saturday,46,2025-11
+2025-11-16,PROD-004,Notebook A5,Stationery,90,Sunday,46,2025-11
+2025-11-17,PROD-004,Notebook A5,Stationery,148,Monday,47,2025-11
+2025-11-18,PROD-004,Notebook A5,Stationery,167,Tuesday,47,2025-11
+2025-11-19,PROD-004,Notebook A5,Stationery,164,Wednesday,47,2025-11
+2025-11-20,PROD-004,Notebook A5,Stationery,131,Thursday,47,2025-11
+2025-11-21,PROD-004,Notebook A5,Stationery,130,Friday,47,2025-11
+2025-11-22,PROD-004,Notebook A5,Stationery,97,Saturday,47,2025-11
+2025-11-23,PROD-004,Notebook A5,Stationery,102,Sunday,47,2025-11
+2025-11-24,PROD-004,Notebook A5,Stationery,142,Monday,48,2025-11
+2025-11-25,PROD-004,Notebook A5,Stationery,165,Tuesday,48,2025-11
+2025-11-26,PROD-004,Notebook A5,Stationery,161,Wednesday,48,2025-11
+2025-11-27,PROD-004,Notebook A5,Stationery,159,Thursday,48,2025-11
+2025-11-28,PROD-004,Notebook A5,Stationery,131,Friday,48,2025-11
+2025-11-29,PROD-004,Notebook A5,Stationery,100,Saturday,48,2025-11
+2025-11-30,PROD-004,Notebook A5,Stationery,110,Sunday,48,2025-11
+2025-12-01,PROD-004,Notebook A5,Stationery,144,Monday,49,2025-12
+2025-12-02,PROD-004,Notebook A5,Stationery,150,Tuesday,49,2025-12
+2025-12-03,PROD-004,Notebook A5,Stationery,162,Wednesday,49,2025-12
+2025-12-04,PROD-004,Notebook A5,Stationery,139,Thursday,49,2025-12
+2025-12-05,PROD-004,Notebook A5,Stationery,121,Friday,49,2025-12
+2025-12-06,PROD-004,Notebook A5,Stationery,111,Saturday,49,2025-12
+2025-12-07,PROD-004,Notebook A5,Stationery,93,Sunday,49,2025-12
+2025-12-08,PROD-004,Notebook A5,Stationery,151,Monday,50,2025-12
+2025-12-09,PROD-004,Notebook A5,Stationery,156,Tuesday,50,2025-12
+2025-12-10,PROD-004,Notebook A5,Stationery,163,Wednesday,50,2025-12
+2025-12-11,PROD-004,Notebook A5,Stationery,148,Thursday,50,2025-12
+2025-12-12,PROD-004,Notebook A5,Stationery,127,Friday,50,2025-12
+2025-12-13,PROD-004,Notebook A5,Stationery,119,Saturday,50,2025-12
+2025-12-14,PROD-004,Notebook A5,Stationery,78,Sunday,50,2025-12
+2025-12-15,PROD-004,Notebook A5,Stationery,136,Monday,51,2025-12
+2025-12-16,PROD-004,Notebook A5,Stationery,156,Tuesday,51,2025-12
+2025-12-17,PROD-004,Notebook A5,Stationery,149,Wednesday,51,2025-12
+2025-12-18,PROD-004,Notebook A5,Stationery,138,Thursday,51,2025-12
+2025-12-19,PROD-004,Notebook A5,Stationery,120,Friday,51,2025-12
+2025-12-20,PROD-004,Notebook A5,Stationery,101,Saturday,51,2025-12
+2025-12-21,PROD-004,Notebook A5,Stationery,73,Sunday,51,2025-12
+2025-12-22,PROD-004,Notebook A5,Stationery,158,Monday,52,2025-12
+2025-12-23,PROD-004,Notebook A5,Stationery,155,Tuesday,52,2025-12
+2025-12-24,PROD-004,Notebook A5,Stationery,153,Wednesday,52,2025-12
+2025-12-25,PROD-004,Notebook A5,Stationery,61,Thursday,52,2025-12
+2025-12-26,PROD-004,Notebook A5,Stationery,121,Friday,52,2025-12
+2025-12-27,PROD-004,Notebook A5,Stationery,98,Saturday,52,2025-12
+2025-12-28,PROD-004,Notebook A5,Stationery,85,Sunday,52,2025-12
+2025-12-29,PROD-004,Notebook A5,Stationery,144,Monday,1,2025-12
+2025-12-30,PROD-004,Notebook A5,Stationery,161,Tuesday,1,2025-12
+2025-12-31,PROD-004,Notebook A5,Stationery,138,Wednesday,1,2025-12
+2026-01-01,PROD-004,Notebook A5,Stationery,131,Thursday,1,2026-01
+2026-01-02,PROD-004,Notebook A5,Stationery,111,Friday,1,2026-01
+2026-01-03,PROD-004,Notebook A5,Stationery,103,Saturday,1,2026-01
+2026-01-04,PROD-004,Notebook A5,Stationery,71,Sunday,1,2026-01
+2026-01-05,PROD-004,Notebook A5,Stationery,149,Monday,2,2026-01
+2026-01-06,PROD-004,Notebook A5,Stationery,142,Tuesday,2,2026-01
+2026-01-07,PROD-004,Notebook A5,Stationery,297,Wednesday,2,2026-01
+2026-01-08,PROD-004,Notebook A5,Stationery,301,Thursday,2,2026-01
+2026-01-09,PROD-004,Notebook A5,Stationery,282,Friday,2,2026-01
+2026-01-10,PROD-004,Notebook A5,Stationery,94,Saturday,2,2026-01
+2026-01-11,PROD-004,Notebook A5,Stationery,69,Sunday,2,2026-01
+2026-01-12,PROD-004,Notebook A5,Stationery,221,Monday,3,2026-01
+2026-01-13,PROD-004,Notebook A5,Stationery,218,Tuesday,3,2026-01
+2026-01-14,PROD-004,Notebook A5,Stationery,221,Wednesday,3,2026-01
+2026-01-15,PROD-004,Notebook A5,Stationery,191,Thursday,3,2026-01
+2026-01-16,PROD-004,Notebook A5,Stationery,188,Friday,3,2026-01
+2026-01-17,PROD-004,Notebook A5,Stationery,189,Saturday,3,2026-01
+2026-01-18,PROD-004,Notebook A5,Stationery,179,Sunday,3,2026-01
+2026-01-19,PROD-004,Notebook A5,Stationery,230,Monday,4,2026-01
+2026-01-20,PROD-004,Notebook A5,Stationery,228,Tuesday,4,2026-01
+2026-01-21,PROD-004,Notebook A5,Stationery,226,Wednesday,4,2026-01
+2026-01-22,PROD-004,Notebook A5,Stationery,120,Thursday,4,2026-01
+2026-01-23,PROD-004,Notebook A5,Stationery,98,Friday,4,2026-01
+2026-01-24,PROD-004,Notebook A5,Stationery,102,Saturday,4,2026-01
+2026-01-25,PROD-004,Notebook A5,Stationery,86,Sunday,4,2026-01
+2026-01-26,PROD-004,Notebook A5,Stationery,131,Monday,5,2026-01
+2026-01-27,PROD-004,Notebook A5,Stationery,146,Tuesday,5,2026-01
+2026-01-28,PROD-004,Notebook A5,Stationery,137,Wednesday,5,2026-01
+2026-01-29,PROD-004,Notebook A5,Stationery,105,Thursday,5,2026-01
+2026-01-30,PROD-004,Notebook A5,Stationery,111,Friday,5,2026-01
+2026-01-31,PROD-004,Notebook A5,Stationery,85,Saturday,5,2026-01
+2026-02-01,PROD-004,Notebook A5,Stationery,71,Sunday,5,2026-02
+2026-02-02,PROD-004,Notebook A5,Stationery,137,Monday,6,2026-02
+2026-02-03,PROD-004,Notebook A5,Stationery,170,Tuesday,6,2026-02
+2026-02-04,PROD-004,Notebook A5,Stationery,148,Wednesday,6,2026-02
+2026-02-05,PROD-004,Notebook A5,Stationery,125,Thursday,6,2026-02
+2026-02-06,PROD-004,Notebook A5,Stationery,125,Friday,6,2026-02
+2025-08-10,PROD-005,Coffee Mug,Home,59,Sunday,32,2025-08
+2025-08-11,PROD-005,Coffee Mug,Home,49,Monday,33,2025-08
+2025-08-12,PROD-005,Coffee Mug,Home,43,Tuesday,33,2025-08
+2025-08-13,PROD-005,Coffee Mug,Home,33,Wednesday,33,2025-08
+2025-08-14,PROD-005,Coffee Mug,Home,38,Thursday,33,2025-08
+2025-08-15,PROD-005,Coffee Mug,Home,49,Friday,33,2025-08
+2025-08-16,PROD-005,Coffee Mug,Home,40,Saturday,33,2025-08
+2025-08-17,PROD-005,Coffee Mug,Home,53,Sunday,33,2025-08
+2025-08-18,PROD-005,Coffee Mug,Home,41,Monday,34,2025-08
+2025-08-19,PROD-005,Coffee Mug,Home,47,Tuesday,34,2025-08
+2025-08-20,PROD-005,Coffee Mug,Home,47,Wednesday,34,2025-08
+2025-08-21,PROD-005,Coffee Mug,Home,48,Thursday,34,2025-08
+2025-08-22,PROD-005,Coffee Mug,Home,45,Friday,34,2025-08
+2025-08-23,PROD-005,Coffee Mug,Home,50,Saturday,34,2025-08
+2025-08-24,PROD-005,Coffee Mug,Home,48,Sunday,34,2025-08
+2025-08-25,PROD-005,Coffee Mug,Home,50,Monday,35,2025-08
+2025-08-26,PROD-005,Coffee Mug,Home,52,Tuesday,35,2025-08
+2025-08-27,PROD-005,Coffee Mug,Home,41,Wednesday,35,2025-08
+2025-08-28,PROD-005,Coffee Mug,Home,26,Thursday,35,2025-08
+2025-08-29,PROD-005,Coffee Mug,Home,48,Friday,35,2025-08
+2025-08-30,PROD-005,Coffee Mug,Home,53,Saturday,35,2025-08
+2025-08-31,PROD-005,Coffee Mug,Home,53,Sunday,35,2025-08
+2025-09-01,PROD-005,Coffee Mug,Home,45,Monday,36,2025-09
+2025-09-02,PROD-005,Coffee Mug,Home,49,Tuesday,36,2025-09
+2025-09-03,PROD-005,Coffee Mug,Home,50,Wednesday,36,2025-09
+2025-09-04,PROD-005,Coffee Mug,Home,48,Thursday,36,2025-09
+2025-09-05,PROD-005,Coffee Mug,Home,49,Friday,36,2025-09
+2025-09-06,PROD-005,Coffee Mug,Home,56,Saturday,36,2025-09
+2025-09-07,PROD-005,Coffee Mug,Home,41,Sunday,36,2025-09
+2025-09-08,PROD-005,Coffee Mug,Home,51,Monday,37,2025-09
+2025-09-09,PROD-005,Coffee Mug,Home,48,Tuesday,37,2025-09
+2025-09-10,PROD-005,Coffee Mug,Home,40,Wednesday,37,2025-09
+2025-09-11,PROD-005,Coffee Mug,Home,49,Thursday,37,2025-09
+2025-09-12,PROD-005,Coffee Mug,Home,43,Friday,37,2025-09
+2025-09-13,PROD-005,Coffee Mug,Home,48,Saturday,37,2025-09
+2025-09-14,PROD-005,Coffee Mug,Home,46,Sunday,37,2025-09
+2025-09-15,PROD-005,Coffee Mug,Home,46,Monday,38,2025-09
+2025-09-16,PROD-005,Coffee Mug,Home,40,Tuesday,38,2025-09
+2025-09-17,PROD-005,Coffee Mug,Home,48,Wednesday,38,2025-09
+2025-09-18,PROD-005,Coffee Mug,Home,42,Thursday,38,2025-09
+2025-09-19,PROD-005,Coffee Mug,Home,41,Friday,38,2025-09
+2025-09-20,PROD-005,Coffee Mug,Home,50,Saturday,38,2025-09
+2025-09-21,PROD-005,Coffee Mug,Home,44,Sunday,38,2025-09
+2025-09-22,PROD-005,Coffee Mug,Home,46,Monday,39,2025-09
+2025-09-23,PROD-005,Coffee Mug,Home,46,Tuesday,39,2025-09
+2025-09-24,PROD-005,Coffee Mug,Home,34,Wednesday,39,2025-09
+2025-09-25,PROD-005,Coffee Mug,Home,46,Thursday,39,2025-09
+2025-09-26,PROD-005,Coffee Mug,Home,32,Friday,39,2025-09
+2025-09-27,PROD-005,Coffee Mug,Home,50,Saturday,39,2025-09
+2025-09-28,PROD-005,Coffee Mug,Home,54,Sunday,39,2025-09
+2025-09-29,PROD-005,Coffee Mug,Home,43,Monday,40,2025-09
+2025-09-30,PROD-005,Coffee Mug,Home,27,Tuesday,40,2025-09
+2025-10-01,PROD-005,Coffee Mug,Home,44,Wednesday,40,2025-10
+2025-10-02,PROD-005,Coffee Mug,Home,50,Thursday,40,2025-10
+2025-10-03,PROD-005,Coffee Mug,Home,36,Friday,40,2025-10
+2025-10-04,PROD-005,Coffee Mug,Home,41,Saturday,40,2025-10
+2025-10-05,PROD-005,Coffee Mug,Home,34,Sunday,40,2025-10
+2025-10-06,PROD-005,Coffee Mug,Home,38,Monday,41,2025-10
+2025-10-07,PROD-005,Coffee Mug,Home,43,Tuesday,41,2025-10
+2025-10-08,PROD-005,Coffee Mug,Home,40,Wednesday,41,2025-10
+2025-10-09,PROD-005,Coffee Mug,Home,52,Thursday,41,2025-10
+2025-10-10,PROD-005,Coffee Mug,Home,36,Friday,41,2025-10
+2025-10-11,PROD-005,Coffee Mug,Home,30,Saturday,41,2025-10
+2025-10-12,PROD-005,Coffee Mug,Home,40,Sunday,41,2025-10
+2025-10-13,PROD-005,Coffee Mug,Home,22,Monday,42,2025-10
+2025-10-14,PROD-005,Coffee Mug,Home,32,Tuesday,42,2025-10
+2025-10-15,PROD-005,Coffee Mug,Home,43,Wednesday,42,2025-10
+2025-10-16,PROD-005,Coffee Mug,Home,36,Thursday,42,2025-10
+2025-10-17,PROD-005,Coffee Mug,Home,35,Friday,42,2025-10
+2025-10-18,PROD-005,Coffee Mug,Home,47,Saturday,42,2025-10
+2025-10-19,PROD-005,Coffee Mug,Home,36,Sunday,42,2025-10
+2025-10-20,PROD-005,Coffee Mug,Home,41,Monday,43,2025-10
+2025-10-21,PROD-005,Coffee Mug,Home,35,Tuesday,43,2025-10
+2025-10-22,PROD-005,Coffee Mug,Home,36,Wednesday,43,2025-10
+2025-10-23,PROD-005,Coffee Mug,Home,28,Thursday,43,2025-10
+2025-10-24,PROD-005,Coffee Mug,Home,32,Friday,43,2025-10
+2025-10-25,PROD-005,Coffee Mug,Home,31,Saturday,43,2025-10
+2025-10-26,PROD-005,Coffee Mug,Home,38,Sunday,43,2025-10
+2025-10-27,PROD-005,Coffee Mug,Home,37,Monday,44,2025-10
+2025-10-28,PROD-005,Coffee Mug,Home,29,Tuesday,44,2025-10
+2025-10-29,PROD-005,Coffee Mug,Home,46,Wednesday,44,2025-10
+2025-10-30,PROD-005,Coffee Mug,Home,36,Thursday,44,2025-10
+2025-10-31,PROD-005,Coffee Mug,Home,35,Friday,44,2025-10
+2025-11-01,PROD-005,Coffee Mug,Home,43,Saturday,44,2025-11
+2025-11-02,PROD-005,Coffee Mug,Home,35,Sunday,44,2025-11
+2025-11-03,PROD-005,Coffee Mug,Home,36,Monday,45,2025-11
+2025-11-04,PROD-005,Coffee Mug,Home,32,Tuesday,45,2025-11
+2025-11-05,PROD-005,Coffee Mug,Home,44,Wednesday,45,2025-11
+2025-11-06,PROD-005,Coffee Mug,Home,30,Thursday,45,2025-11
+2025-11-07,PROD-005,Coffee Mug,Home,36,Friday,45,2025-11
+2025-11-08,PROD-005,Coffee Mug,Home,42,Saturday,45,2025-11
+2025-11-09,PROD-005,Coffee Mug,Home,42,Sunday,45,2025-11
+2025-11-10,PROD-005,Coffee Mug,Home,34,Monday,46,2025-11
+2025-11-11,PROD-005,Coffee Mug,Home,32,Tuesday,46,2025-11
+2025-11-12,PROD-005,Coffee Mug,Home,34,Wednesday,46,2025-11
+2025-11-13,PROD-005,Coffee Mug,Home,40,Thursday,46,2025-11
+2025-11-14,PROD-005,Coffee Mug,Home,36,Friday,46,2025-11
+2025-11-15,PROD-005,Coffee Mug,Home,45,Saturday,46,2025-11
+2025-11-16,PROD-005,Coffee Mug,Home,44,Sunday,46,2025-11
+2025-11-17,PROD-005,Coffee Mug,Home,26,Monday,47,2025-11
+2025-11-18,PROD-005,Coffee Mug,Home,39,Tuesday,47,2025-11
+2025-11-19,PROD-005,Coffee Mug,Home,49,Wednesday,47,2025-11
+2025-11-20,PROD-005,Coffee Mug,Home,45,Thursday,47,2025-11
+2025-11-21,PROD-005,Coffee Mug,Home,40,Friday,47,2025-11
+2025-11-22,PROD-005,Coffee Mug,Home,36,Saturday,47,2025-11
+2025-11-23,PROD-005,Coffee Mug,Home,44,Sunday,47,2025-11
+2025-11-24,PROD-005,Coffee Mug,Home,42,Monday,48,2025-11
+2025-11-25,PROD-005,Coffee Mug,Home,37,Tuesday,48,2025-11
+2025-11-26,PROD-005,Coffee Mug,Home,39,Wednesday,48,2025-11
+2025-11-27,PROD-005,Coffee Mug,Home,46,Thursday,48,2025-11
+2025-11-28,PROD-005,Coffee Mug,Home,33,Friday,48,2025-11
+2025-11-29,PROD-005,Coffee Mug,Home,36,Saturday,48,2025-11
+2025-11-30,PROD-005,Coffee Mug,Home,45,Sunday,48,2025-11
+2025-12-01,PROD-005,Coffee Mug,Home,40,Monday,49,2025-12
+2025-12-02,PROD-005,Coffee Mug,Home,43,Tuesday,49,2025-12
+2025-12-03,PROD-005,Coffee Mug,Home,40,Wednesday,49,2025-12
+2025-12-04,PROD-005,Coffee Mug,Home,34,Thursday,49,2025-12
+2025-12-05,PROD-005,Coffee Mug,Home,39,Friday,49,2025-12
+2025-12-06,PROD-005,Coffee Mug,Home,34,Saturday,49,2025-12
+2025-12-07,PROD-005,Coffee Mug,Home,39,Sunday,49,2025-12
+2025-12-08,PROD-005,Coffee Mug,Home,39,Monday,50,2025-12
+2025-12-09,PROD-005,Coffee Mug,Home,34,Tuesday,50,2025-12
+2025-12-10,PROD-005,Coffee Mug,Home,49,Wednesday,50,2025-12
+2025-12-11,PROD-005,Coffee Mug,Home,26,Thursday,50,2025-12
+2025-12-12,PROD-005,Coffee Mug,Home,32,Friday,50,2025-12
+2025-12-13,PROD-005,Coffee Mug,Home,34,Saturday,50,2025-12
+2025-12-14,PROD-005,Coffee Mug,Home,35,Sunday,50,2025-12
+2025-12-15,PROD-005,Coffee Mug,Home,31,Monday,51,2025-12
+2025-12-16,PROD-005,Coffee Mug,Home,27,Tuesday,51,2025-12
+2025-12-17,PROD-005,Coffee Mug,Home,38,Wednesday,51,2025-12
+2025-12-18,PROD-005,Coffee Mug,Home,10,Thursday,51,2025-12
+2025-12-19,PROD-005,Coffee Mug,Home,34,Friday,51,2025-12
+2025-12-20,PROD-005,Coffee Mug,Home,34,Saturday,51,2025-12
+2025-12-21,PROD-005,Coffee Mug,Home,32,Sunday,51,2025-12
+2025-12-22,PROD-005,Coffee Mug,Home,41,Monday,52,2025-12
+2025-12-23,PROD-005,Coffee Mug,Home,37,Tuesday,52,2025-12
+2025-12-24,PROD-005,Coffee Mug,Home,22,Wednesday,52,2025-12
+2025-12-25,PROD-005,Coffee Mug,Home,21,Thursday,52,2025-12
+2025-12-26,PROD-005,Coffee Mug,Home,36,Friday,52,2025-12
+2025-12-27,PROD-005,Coffee Mug,Home,31,Saturday,52,2025-12
+2025-12-28,PROD-005,Coffee Mug,Home,25,Sunday,52,2025-12
+2025-12-29,PROD-005,Coffee Mug,Home,35,Monday,1,2025-12
+2025-12-30,PROD-005,Coffee Mug,Home,31,Tuesday,1,2025-12
+2025-12-31,PROD-005,Coffee Mug,Home,31,Wednesday,1,2025-12
+2026-01-01,PROD-005,Coffee Mug,Home,33,Thursday,1,2026-01
+2026-01-02,PROD-005,Coffee Mug,Home,22,Friday,1,2026-01
+2026-01-03,PROD-005,Coffee Mug,Home,23,Saturday,1,2026-01
+2026-01-04,PROD-005,Coffee Mug,Home,40,Sunday,1,2026-01
+2026-01-05,PROD-005,Coffee Mug,Home,21,Monday,2,2026-01
+2026-01-06,PROD-005,Coffee Mug,Home,22,Tuesday,2,2026-01
+2026-01-07,PROD-005,Coffee Mug,Home,75,Wednesday,2,2026-01
+2026-01-08,PROD-005,Coffee Mug,Home,91,Thursday,2,2026-01
+2026-01-09,PROD-005,Coffee Mug,Home,82,Friday,2,2026-01
+2026-01-10,PROD-005,Coffee Mug,Home,35,Saturday,2,2026-01
+2026-01-11,PROD-005,Coffee Mug,Home,31,Sunday,2,2026-01
+2026-01-12,PROD-005,Coffee Mug,Home,52,Monday,3,2026-01
+2026-01-13,PROD-005,Coffee Mug,Home,58,Tuesday,3,2026-01
+2026-01-14,PROD-005,Coffee Mug,Home,47,Wednesday,3,2026-01
+2026-01-15,PROD-005,Coffee Mug,Home,49,Thursday,3,2026-01
+2026-01-16,PROD-005,Coffee Mug,Home,58,Friday,3,2026-01
+2026-01-17,PROD-005,Coffee Mug,Home,50,Saturday,3,2026-01
+2026-01-18,PROD-005,Coffee Mug,Home,56,Sunday,3,2026-01
+2026-01-19,PROD-005,Coffee Mug,Home,54,Monday,4,2026-01
+2026-01-20,PROD-005,Coffee Mug,Home,52,Tuesday,4,2026-01
+2026-01-21,PROD-005,Coffee Mug,Home,44,Wednesday,4,2026-01
+2026-01-22,PROD-005,Coffee Mug,Home,23,Thursday,4,2026-01
+2026-01-23,PROD-005,Coffee Mug,Home,22,Friday,4,2026-01
+2026-01-24,PROD-005,Coffee Mug,Home,30,Saturday,4,2026-01
+2026-01-25,PROD-005,Coffee Mug,Home,30,Sunday,4,2026-01
+2026-01-26,PROD-005,Coffee Mug,Home,29,Monday,5,2026-01
+2026-01-27,PROD-005,Coffee Mug,Home,23,Tuesday,5,2026-01
+2026-01-28,PROD-005,Coffee Mug,Home,29,Wednesday,5,2026-01
+2026-01-29,PROD-005,Coffee Mug,Home,19,Thursday,5,2026-01
+2026-01-30,PROD-005,Coffee Mug,Home,17,Friday,5,2026-01
+2026-01-31,PROD-005,Coffee Mug,Home,17,Saturday,5,2026-01
+2026-02-01,PROD-005,Coffee Mug,Home,27,Sunday,5,2026-02
+2026-02-02,PROD-005,Coffee Mug,Home,23,Monday,6,2026-02
+2026-02-03,PROD-005,Coffee Mug,Home,31,Tuesday,6,2026-02
+2026-02-04,PROD-005,Coffee Mug,Home,24,Wednesday,6,2026-02
+2026-02-05,PROD-005,Coffee Mug,Home,29,Thursday,6,2026-02
+2026-02-06,PROD-005,Coffee Mug,Home,32,Friday,6,2026-02
+2025-08-10,PROD-006,Bluetooth Speaker,Electronics,22,Sunday,32,2025-08
+2025-08-11,PROD-006,Bluetooth Speaker,Electronics,22,Monday,33,2025-08
+2025-08-12,PROD-006,Bluetooth Speaker,Electronics,14,Tuesday,33,2025-08
+2025-08-13,PROD-006,Bluetooth Speaker,Electronics,20,Wednesday,33,2025-08
+2025-08-14,PROD-006,Bluetooth Speaker,Electronics,27,Thursday,33,2025-08
+2025-08-15,PROD-006,Bluetooth Speaker,Electronics,18,Friday,33,2025-08
+2025-08-16,PROD-006,Bluetooth Speaker,Electronics,16,Saturday,33,2025-08
+2025-08-17,PROD-006,Bluetooth Speaker,Electronics,29,Sunday,33,2025-08
+2025-08-18,PROD-006,Bluetooth Speaker,Electronics,18,Monday,34,2025-08
+2025-08-19,PROD-006,Bluetooth Speaker,Electronics,24,Tuesday,34,2025-08
+2025-08-20,PROD-006,Bluetooth Speaker,Electronics,21,Wednesday,34,2025-08
+2025-08-21,PROD-006,Bluetooth Speaker,Electronics,18,Thursday,34,2025-08
+2025-08-22,PROD-006,Bluetooth Speaker,Electronics,23,Friday,34,2025-08
+2025-08-23,PROD-006,Bluetooth Speaker,Electronics,34,Saturday,34,2025-08
+2025-08-24,PROD-006,Bluetooth Speaker,Electronics,31,Sunday,34,2025-08
+2025-08-25,PROD-006,Bluetooth Speaker,Electronics,8,Monday,35,2025-08
+2025-08-26,PROD-006,Bluetooth Speaker,Electronics,21,Tuesday,35,2025-08
+2025-08-27,PROD-006,Bluetooth Speaker,Electronics,23,Wednesday,35,2025-08
+2025-08-28,PROD-006,Bluetooth Speaker,Electronics,22,Thursday,35,2025-08
+2025-08-29,PROD-006,Bluetooth Speaker,Electronics,22,Friday,35,2025-08
+2025-08-30,PROD-006,Bluetooth Speaker,Electronics,35,Saturday,35,2025-08
+2025-08-31,PROD-006,Bluetooth Speaker,Electronics,36,Sunday,35,2025-08
+2025-09-01,PROD-006,Bluetooth Speaker,Electronics,9,Monday,36,2025-09
+2025-09-02,PROD-006,Bluetooth Speaker,Electronics,16,Tuesday,36,2025-09
+2025-09-03,PROD-006,Bluetooth Speaker,Electronics,22,Wednesday,36,2025-09
+2025-09-04,PROD-006,Bluetooth Speaker,Electronics,27,Thursday,36,2025-09
+2025-09-05,PROD-006,Bluetooth Speaker,Electronics,25,Friday,36,2025-09
+2025-09-06,PROD-006,Bluetooth Speaker,Electronics,26,Saturday,36,2025-09
+2025-09-07,PROD-006,Bluetooth Speaker,Electronics,33,Sunday,36,2025-09
+2025-09-08,PROD-006,Bluetooth Speaker,Electronics,19,Monday,37,2025-09
+2025-09-09,PROD-006,Bluetooth Speaker,Electronics,20,Tuesday,37,2025-09
+2025-09-10,PROD-006,Bluetooth Speaker,Electronics,23,Wednesday,37,2025-09
+2025-09-11,PROD-006,Bluetooth Speaker,Electronics,25,Thursday,37,2025-09
+2025-09-12,PROD-006,Bluetooth Speaker,Electronics,23,Friday,37,2025-09
+2025-09-13,PROD-006,Bluetooth Speaker,Electronics,21,Saturday,37,2025-09
+2025-09-14,PROD-006,Bluetooth Speaker,Electronics,29,Sunday,37,2025-09
+2025-09-15,PROD-006,Bluetooth Speaker,Electronics,15,Monday,38,2025-09
+2025-09-16,PROD-006,Bluetooth Speaker,Electronics,20,Tuesday,38,2025-09
+2025-09-17,PROD-006,Bluetooth Speaker,Electronics,17,Wednesday,38,2025-09
+2025-09-18,PROD-006,Bluetooth Speaker,Electronics,22,Thursday,38,2025-09
+2025-09-19,PROD-006,Bluetooth Speaker,Electronics,28,Friday,38,2025-09
+2025-09-20,PROD-006,Bluetooth Speaker,Electronics,23,Saturday,38,2025-09
+2025-09-21,PROD-006,Bluetooth Speaker,Electronics,30,Sunday,38,2025-09
+2025-09-22,PROD-006,Bluetooth Speaker,Electronics,15,Monday,39,2025-09
+2025-09-23,PROD-006,Bluetooth Speaker,Electronics,20,Tuesday,39,2025-09
+2025-09-24,PROD-006,Bluetooth Speaker,Electronics,26,Wednesday,39,2025-09
+2025-09-25,PROD-006,Bluetooth Speaker,Electronics,11,Thursday,39,2025-09
+2025-09-26,PROD-006,Bluetooth Speaker,Electronics,18,Friday,39,2025-09
+2025-09-27,PROD-006,Bluetooth Speaker,Electronics,26,Saturday,39,2025-09
+2025-09-28,PROD-006,Bluetooth Speaker,Electronics,29,Sunday,39,2025-09
+2025-09-29,PROD-006,Bluetooth Speaker,Electronics,18,Monday,40,2025-09
+2025-09-30,PROD-006,Bluetooth Speaker,Electronics,18,Tuesday,40,2025-09
+2025-10-01,PROD-006,Bluetooth Speaker,Electronics,31,Wednesday,40,2025-10
+2025-10-02,PROD-006,Bluetooth Speaker,Electronics,15,Thursday,40,2025-10
+2025-10-03,PROD-006,Bluetooth Speaker,Electronics,28,Friday,40,2025-10
+2025-10-04,PROD-006,Bluetooth Speaker,Electronics,25,Saturday,40,2025-10
+2025-10-05,PROD-006,Bluetooth Speaker,Electronics,29,Sunday,40,2025-10
+2025-10-06,PROD-006,Bluetooth Speaker,Electronics,29,Monday,41,2025-10
+2025-10-07,PROD-006,Bluetooth Speaker,Electronics,22,Tuesday,41,2025-10
+2025-10-08,PROD-006,Bluetooth Speaker,Electronics,22,Wednesday,41,2025-10
+2025-10-09,PROD-006,Bluetooth Speaker,Electronics,28,Thursday,41,2025-10
+2025-10-10,PROD-006,Bluetooth Speaker,Electronics,28,Friday,41,2025-10
+2025-10-11,PROD-006,Bluetooth Speaker,Electronics,22,Saturday,41,2025-10
+2025-10-12,PROD-006,Bluetooth Speaker,Electronics,28,Sunday,41,2025-10
+2025-10-13,PROD-006,Bluetooth Speaker,Electronics,9,Monday,42,2025-10
+2025-10-14,PROD-006,Bluetooth Speaker,Electronics,15,Tuesday,42,2025-10
+2025-10-15,PROD-006,Bluetooth Speaker,Electronics,22,Wednesday,42,2025-10
+2025-10-16,PROD-006,Bluetooth Speaker,Electronics,17,Thursday,42,2025-10
+2025-10-17,PROD-006,Bluetooth Speaker,Electronics,24,Friday,42,2025-10
+2025-10-18,PROD-006,Bluetooth Speaker,Electronics,26,Saturday,42,2025-10
+2025-10-19,PROD-006,Bluetooth Speaker,Electronics,29,Sunday,42,2025-10
+2025-10-20,PROD-006,Bluetooth Speaker,Electronics,16,Monday,43,2025-10
+2025-10-21,PROD-006,Bluetooth Speaker,Electronics,14,Tuesday,43,2025-10
+2025-10-22,PROD-006,Bluetooth Speaker,Electronics,28,Wednesday,43,2025-10
+2025-10-23,PROD-006,Bluetooth Speaker,Electronics,18,Thursday,43,2025-10
+2025-10-24,PROD-006,Bluetooth Speaker,Electronics,26,Friday,43,2025-10
+2025-10-25,PROD-006,Bluetooth Speaker,Electronics,35,Saturday,43,2025-10
+2025-10-26,PROD-006,Bluetooth Speaker,Electronics,28,Sunday,43,2025-10
+2025-10-27,PROD-006,Bluetooth Speaker,Electronics,15,Monday,44,2025-10
+2025-10-28,PROD-006,Bluetooth Speaker,Electronics,18,Tuesday,44,2025-10
+2025-10-29,PROD-006,Bluetooth Speaker,Electronics,27,Wednesday,44,2025-10
+2025-10-30,PROD-006,Bluetooth Speaker,Electronics,23,Thursday,44,2025-10
+2025-10-31,PROD-006,Bluetooth Speaker,Electronics,18,Friday,44,2025-10
+2025-11-01,PROD-006,Bluetooth Speaker,Electronics,32,Saturday,44,2025-11
+2025-11-02,PROD-006,Bluetooth Speaker,Electronics,33,Sunday,44,2025-11
+2025-11-03,PROD-006,Bluetooth Speaker,Electronics,18,Monday,45,2025-11
+2025-11-04,PROD-006,Bluetooth Speaker,Electronics,23,Tuesday,45,2025-11
+2025-11-05,PROD-006,Bluetooth Speaker,Electronics,24,Wednesday,45,2025-11
+2025-11-06,PROD-006,Bluetooth Speaker,Electronics,22,Thursday,45,2025-11
+2025-11-07,PROD-006,Bluetooth Speaker,Electronics,19,Friday,45,2025-11
+2025-11-08,PROD-006,Bluetooth Speaker,Electronics,36,Saturday,45,2025-11
+2025-11-09,PROD-006,Bluetooth Speaker,Electronics,35,Sunday,45,2025-11
+2025-11-10,PROD-006,Bluetooth Speaker,Electronics,24,Monday,46,2025-11
+2025-11-11,PROD-006,Bluetooth Speaker,Electronics,29,Tuesday,46,2025-11
+2025-11-12,PROD-006,Bluetooth Speaker,Electronics,29,Wednesday,46,2025-11
+2025-11-13,PROD-006,Bluetooth Speaker,Electronics,28,Thursday,46,2025-11
+2025-11-14,PROD-006,Bluetooth Speaker,Electronics,16,Friday,46,2025-11
+2025-11-15,PROD-006,Bluetooth Speaker,Electronics,39,Saturday,46,2025-11
+2025-11-16,PROD-006,Bluetooth Speaker,Electronics,33,Sunday,46,2025-11
+2025-11-17,PROD-006,Bluetooth Speaker,Electronics,24,Monday,47,2025-11
+2025-11-18,PROD-006,Bluetooth Speaker,Electronics,25,Tuesday,47,2025-11
+2025-11-19,PROD-006,Bluetooth Speaker,Electronics,30,Wednesday,47,2025-11
+2025-11-20,PROD-006,Bluetooth Speaker,Electronics,31,Thursday,47,2025-11
+2025-11-21,PROD-006,Bluetooth Speaker,Electronics,32,Friday,47,2025-11
+2025-11-22,PROD-006,Bluetooth Speaker,Electronics,37,Saturday,47,2025-11
+2025-11-23,PROD-006,Bluetooth Speaker,Electronics,36,Sunday,47,2025-11
+2025-11-24,PROD-006,Bluetooth Speaker,Electronics,7,Monday,48,2025-11
+2025-11-25,PROD-006,Bluetooth Speaker,Electronics,22,Tuesday,48,2025-11
+2025-11-26,PROD-006,Bluetooth Speaker,Electronics,22,Wednesday,48,2025-11
+2025-11-27,PROD-006,Bluetooth Speaker,Electronics,33,Thursday,48,2025-11
+2025-11-28,PROD-006,Bluetooth Speaker,Electronics,33,Friday,48,2025-11
+2025-11-29,PROD-006,Bluetooth Speaker,Electronics,33,Saturday,48,2025-11
+2025-11-30,PROD-006,Bluetooth Speaker,Electronics,33,Sunday,48,2025-11
+2025-12-01,PROD-006,Bluetooth Speaker,Electronics,22,Monday,49,2025-12
+2025-12-02,PROD-006,Bluetooth Speaker,Electronics,22,Tuesday,49,2025-12
+2025-12-03,PROD-006,Bluetooth Speaker,Electronics,20,Wednesday,49,2025-12
+2025-12-04,PROD-006,Bluetooth Speaker,Electronics,19,Thursday,49,2025-12
+2025-12-05,PROD-006,Bluetooth Speaker,Electronics,30,Friday,49,2025-12
+2025-12-06,PROD-006,Bluetooth Speaker,Electronics,41,Saturday,49,2025-12
+2025-12-07,PROD-006,Bluetooth Speaker,Electronics,33,Sunday,49,2025-12
+2025-12-08,PROD-006,Bluetooth Speaker,Electronics,26,Monday,50,2025-12
+2025-12-09,PROD-006,Bluetooth Speaker,Electronics,28,Tuesday,50,2025-12
+2025-12-10,PROD-006,Bluetooth Speaker,Electronics,22,Wednesday,50,2025-12
+2025-12-11,PROD-006,Bluetooth Speaker,Electronics,27,Thursday,50,2025-12
+2025-12-12,PROD-006,Bluetooth Speaker,Electronics,26,Friday,50,2025-12
+2025-12-13,PROD-006,Bluetooth Speaker,Electronics,43,Saturday,50,2025-12
+2025-12-14,PROD-006,Bluetooth Speaker,Electronics,43,Sunday,50,2025-12
+2025-12-15,PROD-006,Bluetooth Speaker,Electronics,19,Monday,51,2025-12
+2025-12-16,PROD-006,Bluetooth Speaker,Electronics,26,Tuesday,51,2025-12
+2025-12-17,PROD-006,Bluetooth Speaker,Electronics,32,Wednesday,51,2025-12
+2025-12-18,PROD-006,Bluetooth Speaker,Electronics,30,Thursday,51,2025-12
+2025-12-19,PROD-006,Bluetooth Speaker,Electronics,29,Friday,51,2025-12
+2025-12-20,PROD-006,Bluetooth Speaker,Electronics,40,Saturday,51,2025-12
+2025-12-21,PROD-006,Bluetooth Speaker,Electronics,29,Sunday,51,2025-12
+2025-12-22,PROD-006,Bluetooth Speaker,Electronics,22,Monday,52,2025-12
+2025-12-23,PROD-006,Bluetooth Speaker,Electronics,19,Tuesday,52,2025-12
+2025-12-24,PROD-006,Bluetooth Speaker,Electronics,29,Wednesday,52,2025-12
+2025-12-25,PROD-006,Bluetooth Speaker,Electronics,22,Thursday,52,2025-12
+2025-12-26,PROD-006,Bluetooth Speaker,Electronics,27,Friday,52,2025-12
+2025-12-27,PROD-006,Bluetooth Speaker,Electronics,36,Saturday,52,2025-12
+2025-12-28,PROD-006,Bluetooth Speaker,Electronics,36,Sunday,52,2025-12
+2025-12-29,PROD-006,Bluetooth Speaker,Electronics,18,Monday,1,2025-12
+2025-12-30,PROD-006,Bluetooth Speaker,Electronics,27,Tuesday,1,2025-12
+2025-12-31,PROD-006,Bluetooth Speaker,Electronics,27,Wednesday,1,2025-12
+2026-01-01,PROD-006,Bluetooth Speaker,Electronics,19,Thursday,1,2026-01
+2026-01-02,PROD-006,Bluetooth Speaker,Electronics,8,Friday,1,2026-01
+2026-01-03,PROD-006,Bluetooth Speaker,Electronics,31,Saturday,1,2026-01
+2026-01-04,PROD-006,Bluetooth Speaker,Electronics,36,Sunday,1,2026-01
+2026-01-05,PROD-006,Bluetooth Speaker,Electronics,26,Monday,2,2026-01
+2026-01-06,PROD-006,Bluetooth Speaker,Electronics,23,Tuesday,2,2026-01
+2026-01-07,PROD-006,Bluetooth Speaker,Electronics,54,Wednesday,2,2026-01
+2026-01-08,PROD-006,Bluetooth Speaker,Electronics,56,Thursday,2,2026-01
+2026-01-09,PROD-006,Bluetooth Speaker,Electronics,52,Friday,2,2026-01
+2026-01-10,PROD-006,Bluetooth Speaker,Electronics,39,Saturday,2,2026-01
+2026-01-11,PROD-006,Bluetooth Speaker,Electronics,39,Sunday,2,2026-01
+2026-01-12,PROD-006,Bluetooth Speaker,Electronics,39,Monday,3,2026-01
+2026-01-13,PROD-006,Bluetooth Speaker,Electronics,38,Tuesday,3,2026-01
+2026-01-14,PROD-006,Bluetooth Speaker,Electronics,38,Wednesday,3,2026-01
+2026-01-15,PROD-006,Bluetooth Speaker,Electronics,42,Thursday,3,2026-01
+2026-01-16,PROD-006,Bluetooth Speaker,Electronics,39,Friday,3,2026-01
+2026-01-17,PROD-006,Bluetooth Speaker,Electronics,36,Saturday,3,2026-01
+2026-01-18,PROD-006,Bluetooth Speaker,Electronics,34,Sunday,3,2026-01
+2026-01-19,PROD-006,Bluetooth Speaker,Electronics,34,Monday,4,2026-01
+2026-01-20,PROD-006,Bluetooth Speaker,Electronics,39,Tuesday,4,2026-01
+2026-01-21,PROD-006,Bluetooth Speaker,Electronics,42,Wednesday,4,2026-01
+2026-01-22,PROD-006,Bluetooth Speaker,Electronics,22,Thursday,4,2026-01
+2026-01-23,PROD-006,Bluetooth Speaker,Electronics,28,Friday,4,2026-01
+2026-01-24,PROD-006,Bluetooth Speaker,Electronics,31,Saturday,4,2026-01
+2026-01-25,PROD-006,Bluetooth Speaker,Electronics,28,Sunday,4,2026-01
+2026-01-26,PROD-006,Bluetooth Speaker,Electronics,22,Monday,5,2026-01
+2026-01-27,PROD-006,Bluetooth Speaker,Electronics,27,Tuesday,5,2026-01
+2026-01-28,PROD-006,Bluetooth Speaker,Electronics,21,Wednesday,5,2026-01
+2026-01-29,PROD-006,Bluetooth Speaker,Electronics,21,Thursday,5,2026-01
+2026-01-30,PROD-006,Bluetooth Speaker,Electronics,23,Friday,5,2026-01
+2026-01-31,PROD-006,Bluetooth Speaker,Electronics,24,Saturday,5,2026-01
+2026-02-01,PROD-006,Bluetooth Speaker,Electronics,32,Sunday,5,2026-02
+2026-02-02,PROD-006,Bluetooth Speaker,Electronics,27,Monday,6,2026-02
+2026-02-03,PROD-006,Bluetooth Speaker,Electronics,25,Tuesday,6,2026-02
+2026-02-04,PROD-006,Bluetooth Speaker,Electronics,26,Wednesday,6,2026-02
+2026-02-05,PROD-006,Bluetooth Speaker,Electronics,28,Thursday,6,2026-02
+2026-02-06,PROD-006,Bluetooth Speaker,Electronics,28,Friday,6,2026-02
+2025-08-10,PROD-007,Desk Lamp LED,Office,11,Sunday,32,2025-08
+2025-08-11,PROD-007,Desk Lamp LED,Office,17,Monday,33,2025-08
+2025-08-12,PROD-007,Desk Lamp LED,Office,16,Tuesday,33,2025-08
+2025-08-13,PROD-007,Desk Lamp LED,Office,20,Wednesday,33,2025-08
+2025-08-14,PROD-007,Desk Lamp LED,Office,18,Thursday,33,2025-08
+2025-08-15,PROD-007,Desk Lamp LED,Office,14,Friday,33,2025-08
+2025-08-16,PROD-007,Desk Lamp LED,Office,12,Saturday,33,2025-08
+2025-08-17,PROD-007,Desk Lamp LED,Office,13,Sunday,33,2025-08
+2025-08-18,PROD-007,Desk Lamp LED,Office,17,Monday,34,2025-08
+2025-08-19,PROD-007,Desk Lamp LED,Office,19,Tuesday,34,2025-08
+2025-08-20,PROD-007,Desk Lamp LED,Office,19,Wednesday,34,2025-08
+2025-08-21,PROD-007,Desk Lamp LED,Office,16,Thursday,34,2025-08
+2025-08-22,PROD-007,Desk Lamp LED,Office,18,Friday,34,2025-08
+2025-08-23,PROD-007,Desk Lamp LED,Office,12,Saturday,34,2025-08
+2025-08-24,PROD-007,Desk Lamp LED,Office,9,Sunday,34,2025-08
+2025-08-25,PROD-007,Desk Lamp LED,Office,20,Monday,35,2025-08
+2025-08-26,PROD-007,Desk Lamp LED,Office,18,Tuesday,35,2025-08
+2025-08-27,PROD-007,Desk Lamp LED,Office,24,Wednesday,35,2025-08
+2025-08-28,PROD-007,Desk Lamp LED,Office,21,Thursday,35,2025-08
+2025-08-29,PROD-007,Desk Lamp LED,Office,17,Friday,35,2025-08
+2025-08-30,PROD-007,Desk Lamp LED,Office,14,Saturday,35,2025-08
+2025-08-31,PROD-007,Desk Lamp LED,Office,12,Sunday,35,2025-08
+2025-09-01,PROD-007,Desk Lamp LED,Office,18,Monday,36,2025-09
+2025-09-02,PROD-007,Desk Lamp LED,Office,22,Tuesday,36,2025-09
+2025-09-03,PROD-007,Desk Lamp LED,Office,17,Wednesday,36,2025-09
+2025-09-04,PROD-007,Desk Lamp LED,Office,19,Thursday,36,2025-09
+2025-09-05,PROD-007,Desk Lamp LED,Office,18,Friday,36,2025-09
+2025-09-06,PROD-007,Desk Lamp LED,Office,12,Saturday,36,2025-09
+2025-09-07,PROD-007,Desk Lamp LED,Office,10,Sunday,36,2025-09
+2025-09-08,PROD-007,Desk Lamp LED,Office,16,Monday,37,2025-09
+2025-09-09,PROD-007,Desk Lamp LED,Office,24,Tuesday,37,2025-09
+2025-09-10,PROD-007,Desk Lamp LED,Office,18,Wednesday,37,2025-09
+2025-09-11,PROD-007,Desk Lamp LED,Office,17,Thursday,37,2025-09
+2025-09-12,PROD-007,Desk Lamp LED,Office,16,Friday,37,2025-09
+2025-09-13,PROD-007,Desk Lamp LED,Office,13,Saturday,37,2025-09
+2025-09-14,PROD-007,Desk Lamp LED,Office,12,Sunday,37,2025-09
+2025-09-15,PROD-007,Desk Lamp LED,Office,18,Monday,38,2025-09
+2025-09-16,PROD-007,Desk Lamp LED,Office,17,Tuesday,38,2025-09
+2025-09-17,PROD-007,Desk Lamp LED,Office,6,Wednesday,38,2025-09
+2025-09-18,PROD-007,Desk Lamp LED,Office,15,Thursday,38,2025-09
+2025-09-19,PROD-007,Desk Lamp LED,Office,13,Friday,38,2025-09
+2025-09-20,PROD-007,Desk Lamp LED,Office,11,Saturday,38,2025-09
+2025-09-21,PROD-007,Desk Lamp LED,Office,13,Sunday,38,2025-09
+2025-09-22,PROD-007,Desk Lamp LED,Office,17,Monday,39,2025-09
+2025-09-23,PROD-007,Desk Lamp LED,Office,18,Tuesday,39,2025-09
+2025-09-24,PROD-007,Desk Lamp LED,Office,17,Wednesday,39,2025-09
+2025-09-25,PROD-007,Desk Lamp LED,Office,15,Thursday,39,2025-09
+2025-09-26,PROD-007,Desk Lamp LED,Office,14,Friday,39,2025-09
+2025-09-27,PROD-007,Desk Lamp LED,Office,12,Saturday,39,2025-09
+2025-09-28,PROD-007,Desk Lamp LED,Office,12,Sunday,39,2025-09
+2025-09-29,PROD-007,Desk Lamp LED,Office,19,Monday,40,2025-09
+2025-09-30,PROD-007,Desk Lamp LED,Office,23,Tuesday,40,2025-09
+2025-10-01,PROD-007,Desk Lamp LED,Office,18,Wednesday,40,2025-10
+2025-10-02,PROD-007,Desk Lamp LED,Office,20,Thursday,40,2025-10
+2025-10-03,PROD-007,Desk Lamp LED,Office,12,Friday,40,2025-10
+2025-10-04,PROD-007,Desk Lamp LED,Office,15,Saturday,40,2025-10
+2025-10-05,PROD-007,Desk Lamp LED,Office,8,Sunday,40,2025-10
+2025-10-06,PROD-007,Desk Lamp LED,Office,16,Monday,41,2025-10
+2025-10-07,PROD-007,Desk Lamp LED,Office,17,Tuesday,41,2025-10
+2025-10-08,PROD-007,Desk Lamp LED,Office,16,Wednesday,41,2025-10
+2025-10-09,PROD-007,Desk Lamp LED,Office,15,Thursday,41,2025-10
+2025-10-10,PROD-007,Desk Lamp LED,Office,12,Friday,41,2025-10
+2025-10-11,PROD-007,Desk Lamp LED,Office,12,Saturday,41,2025-10
+2025-10-12,PROD-007,Desk Lamp LED,Office,8,Sunday,41,2025-10
+2025-10-13,PROD-007,Desk Lamp LED,Office,17,Monday,42,2025-10
+2025-10-14,PROD-007,Desk Lamp LED,Office,21,Tuesday,42,2025-10
+2025-10-15,PROD-007,Desk Lamp LED,Office,15,Wednesday,42,2025-10
+2025-10-16,PROD-007,Desk Lamp LED,Office,16,Thursday,42,2025-10
+2025-10-17,PROD-007,Desk Lamp LED,Office,14,Friday,42,2025-10
+2025-10-18,PROD-007,Desk Lamp LED,Office,15,Saturday,42,2025-10
+2025-10-19,PROD-007,Desk Lamp LED,Office,8,Sunday,42,2025-10
+2025-10-20,PROD-007,Desk Lamp LED,Office,18,Monday,43,2025-10
+2025-10-21,PROD-007,Desk Lamp LED,Office,13,Tuesday,43,2025-10
+2025-10-22,PROD-007,Desk Lamp LED,Office,15,Wednesday,43,2025-10
+2025-10-23,PROD-007,Desk Lamp LED,Office,15,Thursday,43,2025-10
+2025-10-24,PROD-007,Desk Lamp LED,Office,16,Friday,43,2025-10
+2025-10-25,PROD-007,Desk Lamp LED,Office,8,Saturday,43,2025-10
+2025-10-26,PROD-007,Desk Lamp LED,Office,11,Sunday,43,2025-10
+2025-10-27,PROD-007,Desk Lamp LED,Office,16,Monday,44,2025-10
+2025-10-28,PROD-007,Desk Lamp LED,Office,14,Tuesday,44,2025-10
+2025-10-29,PROD-007,Desk Lamp LED,Office,17,Wednesday,44,2025-10
+2025-10-30,PROD-007,Desk Lamp LED,Office,19,Thursday,44,2025-10
+2025-10-31,PROD-007,Desk Lamp LED,Office,11,Friday,44,2025-10
+2025-11-01,PROD-007,Desk Lamp LED,Office,11,Saturday,44,2025-11
+2025-11-02,PROD-007,Desk Lamp LED,Office,7,Sunday,44,2025-11
+2025-11-03,PROD-007,Desk Lamp LED,Office,16,Monday,45,2025-11
+2025-11-04,PROD-007,Desk Lamp LED,Office,22,Tuesday,45,2025-11
+2025-11-05,PROD-007,Desk Lamp LED,Office,17,Wednesday,45,2025-11
+2025-11-06,PROD-007,Desk Lamp LED,Office,19,Thursday,45,2025-11
+2025-11-07,PROD-007,Desk Lamp LED,Office,17,Friday,45,2025-11
+2025-11-08,PROD-007,Desk Lamp LED,Office,11,Saturday,45,2025-11
+2025-11-09,PROD-007,Desk Lamp LED,Office,9,Sunday,45,2025-11
+2025-11-10,PROD-007,Desk Lamp LED,Office,16,Monday,46,2025-11
+2025-11-11,PROD-007,Desk Lamp LED,Office,17,Tuesday,46,2025-11
+2025-11-12,PROD-007,Desk Lamp LED,Office,19,Wednesday,46,2025-11
+2025-11-13,PROD-007,Desk Lamp LED,Office,17,Thursday,46,2025-11
+2025-11-14,PROD-007,Desk Lamp LED,Office,14,Friday,46,2025-11
+2025-11-15,PROD-007,Desk Lamp LED,Office,9,Saturday,46,2025-11
+2025-11-16,PROD-007,Desk Lamp LED,Office,11,Sunday,46,2025-11
+2025-11-17,PROD-007,Desk Lamp LED,Office,18,Monday,47,2025-11
+2025-11-18,PROD-007,Desk Lamp LED,Office,20,Tuesday,47,2025-11
+2025-11-19,PROD-007,Desk Lamp LED,Office,19,Wednesday,47,2025-11
+2025-11-20,PROD-007,Desk Lamp LED,Office,12,Thursday,47,2025-11
+2025-11-21,PROD-007,Desk Lamp LED,Office,12,Friday,47,2025-11
+2025-11-22,PROD-007,Desk Lamp LED,Office,18,Saturday,47,2025-11
+2025-11-23,PROD-007,Desk Lamp LED,Office,10,Sunday,47,2025-11
+2025-11-24,PROD-007,Desk Lamp LED,Office,13,Monday,48,2025-11
+2025-11-25,PROD-007,Desk Lamp LED,Office,18,Tuesday,48,2025-11
+2025-11-26,PROD-007,Desk Lamp LED,Office,25,Wednesday,48,2025-11
+2025-11-27,PROD-007,Desk Lamp LED,Office,16,Thursday,48,2025-11
+2025-11-28,PROD-007,Desk Lamp LED,Office,19,Friday,48,2025-11
+2025-11-29,PROD-007,Desk Lamp LED,Office,13,Saturday,48,2025-11
+2025-11-30,PROD-007,Desk Lamp LED,Office,10,Sunday,48,2025-11
+2025-12-01,PROD-007,Desk Lamp LED,Office,21,Monday,49,2025-12
+2025-12-02,PROD-007,Desk Lamp LED,Office,16,Tuesday,49,2025-12
+2025-12-03,PROD-007,Desk Lamp LED,Office,16,Wednesday,49,2025-12
+2025-12-04,PROD-007,Desk Lamp LED,Office,16,Thursday,49,2025-12
+2025-12-05,PROD-007,Desk Lamp LED,Office,13,Friday,49,2025-12
+2025-12-06,PROD-007,Desk Lamp LED,Office,2,Saturday,49,2025-12
+2025-12-07,PROD-007,Desk Lamp LED,Office,13,Sunday,49,2025-12
+2025-12-08,PROD-007,Desk Lamp LED,Office,19,Monday,50,2025-12
+2025-12-09,PROD-007,Desk Lamp LED,Office,24,Tuesday,50,2025-12
+2025-12-10,PROD-007,Desk Lamp LED,Office,19,Wednesday,50,2025-12
+2025-12-11,PROD-007,Desk Lamp LED,Office,19,Thursday,50,2025-12
+2025-12-12,PROD-007,Desk Lamp LED,Office,15,Friday,50,2025-12
+2025-12-13,PROD-007,Desk Lamp LED,Office,11,Saturday,50,2025-12
+2025-12-14,PROD-007,Desk Lamp LED,Office,14,Sunday,50,2025-12
+2025-12-15,PROD-007,Desk Lamp LED,Office,17,Monday,51,2025-12
+2025-12-16,PROD-007,Desk Lamp LED,Office,21,Tuesday,51,2025-12
+2025-12-17,PROD-007,Desk Lamp LED,Office,20,Wednesday,51,2025-12
+2025-12-18,PROD-007,Desk Lamp LED,Office,18,Thursday,51,2025-12
+2025-12-19,PROD-007,Desk Lamp LED,Office,12,Friday,51,2025-12
+2025-12-20,PROD-007,Desk Lamp LED,Office,14,Saturday,51,2025-12
+2025-12-21,PROD-007,Desk Lamp LED,Office,8,Sunday,51,2025-12
+2025-12-22,PROD-007,Desk Lamp LED,Office,19,Monday,52,2025-12
+2025-12-23,PROD-007,Desk Lamp LED,Office,20,Tuesday,52,2025-12
+2025-12-24,PROD-007,Desk Lamp LED,Office,19,Wednesday,52,2025-12
+2025-12-25,PROD-007,Desk Lamp LED,Office,13,Thursday,52,2025-12
+2025-12-26,PROD-007,Desk Lamp LED,Office,16,Friday,52,2025-12
+2025-12-27,PROD-007,Desk Lamp LED,Office,14,Saturday,52,2025-12
+2025-12-28,PROD-007,Desk Lamp LED,Office,10,Sunday,52,2025-12
+2025-12-29,PROD-007,Desk Lamp LED,Office,15,Monday,1,2025-12
+2025-12-30,PROD-007,Desk Lamp LED,Office,20,Tuesday,1,2025-12
+2025-12-31,PROD-007,Desk Lamp LED,Office,17,Wednesday,1,2025-12
+2026-01-01,PROD-007,Desk Lamp LED,Office,11,Thursday,1,2026-01
+2026-01-02,PROD-007,Desk Lamp LED,Office,12,Friday,1,2026-01
+2026-01-03,PROD-007,Desk Lamp LED,Office,9,Saturday,1,2026-01
+2026-01-04,PROD-007,Desk Lamp LED,Office,13,Sunday,1,2026-01
+2026-01-05,PROD-007,Desk Lamp LED,Office,19,Monday,2,2026-01
+2026-01-06,PROD-007,Desk Lamp LED,Office,20,Tuesday,2,2026-01
+2026-01-07,PROD-007,Desk Lamp LED,Office,39,Wednesday,2,2026-01
+2026-01-08,PROD-007,Desk Lamp LED,Office,39,Thursday,2,2026-01
+2026-01-09,PROD-007,Desk Lamp LED,Office,33,Friday,2,2026-01
+2026-01-10,PROD-007,Desk Lamp LED,Office,10,Saturday,2,2026-01
+2026-01-11,PROD-007,Desk Lamp LED,Office,10,Sunday,2,2026-01
+2026-01-12,PROD-007,Desk Lamp LED,Office,25,Monday,3,2026-01
+2026-01-13,PROD-007,Desk Lamp LED,Office,30,Tuesday,3,2026-01
+2026-01-14,PROD-007,Desk Lamp LED,Office,31,Wednesday,3,2026-01
+2026-01-15,PROD-007,Desk Lamp LED,Office,28,Thursday,3,2026-01
+2026-01-16,PROD-007,Desk Lamp LED,Office,27,Friday,3,2026-01
+2026-01-17,PROD-007,Desk Lamp LED,Office,17,Saturday,3,2026-01
+2026-01-18,PROD-007,Desk Lamp LED,Office,24,Sunday,3,2026-01
+2026-01-19,PROD-007,Desk Lamp LED,Office,27,Monday,4,2026-01
+2026-01-20,PROD-007,Desk Lamp LED,Office,27,Tuesday,4,2026-01
+2026-01-21,PROD-007,Desk Lamp LED,Office,27,Wednesday,4,2026-01
+2026-01-22,PROD-007,Desk Lamp LED,Office,11,Thursday,4,2026-01
+2026-01-23,PROD-007,Desk Lamp LED,Office,16,Friday,4,2026-01
+2026-01-24,PROD-007,Desk Lamp LED,Office,10,Saturday,4,2026-01
+2026-01-25,PROD-007,Desk Lamp LED,Office,8,Sunday,4,2026-01
+2026-01-26,PROD-007,Desk Lamp LED,Office,16,Monday,5,2026-01
+2026-01-27,PROD-007,Desk Lamp LED,Office,20,Tuesday,5,2026-01
+2026-01-28,PROD-007,Desk Lamp LED,Office,17,Wednesday,5,2026-01
+2026-01-29,PROD-007,Desk Lamp LED,Office,12,Thursday,5,2026-01
+2026-01-30,PROD-007,Desk Lamp LED,Office,15,Friday,5,2026-01
+2026-01-31,PROD-007,Desk Lamp LED,Office,9,Saturday,5,2026-01
+2026-02-01,PROD-007,Desk Lamp LED,Office,5,Sunday,5,2026-02
+2026-02-02,PROD-007,Desk Lamp LED,Office,20,Monday,6,2026-02
+2026-02-03,PROD-007,Desk Lamp LED,Office,20,Tuesday,6,2026-02
+2026-02-04,PROD-007,Desk Lamp LED,Office,17,Wednesday,6,2026-02
+2026-02-05,PROD-007,Desk Lamp LED,Office,15,Thursday,6,2026-02
+2026-02-06,PROD-007,Desk Lamp LED,Office,18,Friday,6,2026-02
+2025-08-10,PROD-008,Phone Case,Accessories,146,Sunday,32,2025-08
+2025-08-11,PROD-008,Phone Case,Accessories,38,Monday,33,2025-08
+2025-08-12,PROD-008,Phone Case,Accessories,76,Tuesday,33,2025-08
+2025-08-13,PROD-008,Phone Case,Accessories,98,Wednesday,33,2025-08
+2025-08-14,PROD-008,Phone Case,Accessories,99,Thursday,33,2025-08
+2025-08-15,PROD-008,Phone Case,Accessories,104,Friday,33,2025-08
+2025-08-16,PROD-008,Phone Case,Accessories,132,Saturday,33,2025-08
+2025-08-17,PROD-008,Phone Case,Accessories,143,Sunday,33,2025-08
+2025-08-18,PROD-008,Phone Case,Accessories,86,Monday,34,2025-08
+2025-08-19,PROD-008,Phone Case,Accessories,99,Tuesday,34,2025-08
+2025-08-20,PROD-008,Phone Case,Accessories,94,Wednesday,34,2025-08
+2025-08-21,PROD-008,Phone Case,Accessories,120,Thursday,34,2025-08
+2025-08-22,PROD-008,Phone Case,Accessories,121,Friday,34,2025-08
+2025-08-23,PROD-008,Phone Case,Accessories,150,Saturday,34,2025-08
+2025-08-24,PROD-008,Phone Case,Accessories,143,Sunday,34,2025-08
+2025-08-25,PROD-008,Phone Case,Accessories,98,Monday,35,2025-08
+2025-08-26,PROD-008,Phone Case,Accessories,102,Tuesday,35,2025-08
+2025-08-27,PROD-008,Phone Case,Accessories,106,Wednesday,35,2025-08
+2025-08-28,PROD-008,Phone Case,Accessories,95,Thursday,35,2025-08
+2025-08-29,PROD-008,Phone Case,Accessories,122,Friday,35,2025-08
+2025-08-30,PROD-008,Phone Case,Accessories,135,Saturday,35,2025-08
+2025-08-31,PROD-008,Phone Case,Accessories,133,Sunday,35,2025-08
+2025-09-01,PROD-008,Phone Case,Accessories,103,Monday,36,2025-09
+2025-09-02,PROD-008,Phone Case,Accessories,96,Tuesday,36,2025-09
+2025-09-03,PROD-008,Phone Case,Accessories,117,Wednesday,36,2025-09
+2025-09-04,PROD-008,Phone Case,Accessories,104,Thursday,36,2025-09
+2025-09-05,PROD-008,Phone Case,Accessories,117,Friday,36,2025-09
+2025-09-06,PROD-008,Phone Case,Accessories,152,Saturday,36,2025-09
+2025-09-07,PROD-008,Phone Case,Accessories,145,Sunday,36,2025-09
+2025-09-08,PROD-008,Phone Case,Accessories,87,Monday,37,2025-09
+2025-09-09,PROD-008,Phone Case,Accessories,101,Tuesday,37,2025-09
+2025-09-10,PROD-008,Phone Case,Accessories,121,Wednesday,37,2025-09
+2025-09-11,PROD-008,Phone Case,Accessories,106,Thursday,37,2025-09
+2025-09-12,PROD-008,Phone Case,Accessories,125,Friday,37,2025-09
+2025-09-13,PROD-008,Phone Case,Accessories,135,Saturday,37,2025-09
+2025-09-14,PROD-008,Phone Case,Accessories,140,Sunday,37,2025-09
+2025-09-15,PROD-008,Phone Case,Accessories,106,Monday,38,2025-09
+2025-09-16,PROD-008,Phone Case,Accessories,99,Tuesday,38,2025-09
+2025-09-17,PROD-008,Phone Case,Accessories,117,Wednesday,38,2025-09
+2025-09-18,PROD-008,Phone Case,Accessories,110,Thursday,38,2025-09
+2025-09-19,PROD-008,Phone Case,Accessories,134,Friday,38,2025-09
+2025-09-20,PROD-008,Phone Case,Accessories,126,Saturday,38,2025-09
+2025-09-21,PROD-008,Phone Case,Accessories,136,Sunday,38,2025-09
+2025-09-22,PROD-008,Phone Case,Accessories,86,Monday,39,2025-09
+2025-09-23,PROD-008,Phone Case,Accessories,86,Tuesday,39,2025-09
+2025-09-24,PROD-008,Phone Case,Accessories,96,Wednesday,39,2025-09
+2025-09-25,PROD-008,Phone Case,Accessories,105,Thursday,39,2025-09
+2025-09-26,PROD-008,Phone Case,Accessories,115,Friday,39,2025-09
+2025-09-27,PROD-008,Phone Case,Accessories,137,Saturday,39,2025-09
+2025-09-28,PROD-008,Phone Case,Accessories,124,Sunday,39,2025-09
+2025-09-29,PROD-008,Phone Case,Accessories,89,Monday,40,2025-09
+2025-09-30,PROD-008,Phone Case,Accessories,83,Tuesday,40,2025-09
+2025-10-01,PROD-008,Phone Case,Accessories,108,Wednesday,40,2025-10
+2025-10-02,PROD-008,Phone Case,Accessories,93,Thursday,40,2025-10
+2025-10-03,PROD-008,Phone Case,Accessories,108,Friday,40,2025-10
+2025-10-04,PROD-008,Phone Case,Accessories,133,Saturday,40,2025-10
+2025-10-05,PROD-008,Phone Case,Accessories,124,Sunday,40,2025-10
+2025-10-06,PROD-008,Phone Case,Accessories,94,Monday,41,2025-10
+2025-10-07,PROD-008,Phone Case,Accessories,101,Tuesday,41,2025-10
+2025-10-08,PROD-008,Phone Case,Accessories,99,Wednesday,41,2025-10
+2025-10-09,PROD-008,Phone Case,Accessories,105,Thursday,41,2025-10
+2025-10-10,PROD-008,Phone Case,Accessories,92,Friday,41,2025-10
+2025-10-11,PROD-008,Phone Case,Accessories,124,Saturday,41,2025-10
+2025-10-12,PROD-008,Phone Case,Accessories,128,Sunday,41,2025-10
+2025-10-13,PROD-008,Phone Case,Accessories,80,Monday,42,2025-10
+2025-10-14,PROD-008,Phone Case,Accessories,89,Tuesday,42,2025-10
+2025-10-15,PROD-008,Phone Case,Accessories,106,Wednesday,42,2025-10
+2025-10-16,PROD-008,Phone Case,Accessories,83,Thursday,42,2025-10
+2025-10-17,PROD-008,Phone Case,Accessories,99,Friday,42,2025-10
+2025-10-18,PROD-008,Phone Case,Accessories,129,Saturday,42,2025-10
+2025-10-19,PROD-008,Phone Case,Accessories,132,Sunday,42,2025-10
+2025-10-20,PROD-008,Phone Case,Accessories,94,Monday,43,2025-10
+2025-10-21,PROD-008,Phone Case,Accessories,90,Tuesday,43,2025-10
+2025-10-22,PROD-008,Phone Case,Accessories,103,Wednesday,43,2025-10
+2025-10-23,PROD-008,Phone Case,Accessories,107,Thursday,43,2025-10
+2025-10-24,PROD-008,Phone Case,Accessories,108,Friday,43,2025-10
+2025-10-25,PROD-008,Phone Case,Accessories,127,Saturday,43,2025-10
+2025-10-26,PROD-008,Phone Case,Accessories,131,Sunday,43,2025-10
+2025-10-27,PROD-008,Phone Case,Accessories,94,Monday,44,2025-10
+2025-10-28,PROD-008,Phone Case,Accessories,88,Tuesday,44,2025-10
+2025-10-29,PROD-008,Phone Case,Accessories,101,Wednesday,44,2025-10
+2025-10-30,PROD-008,Phone Case,Accessories,108,Thursday,44,2025-10
+2025-10-31,PROD-008,Phone Case,Accessories,118,Friday,44,2025-10
+2025-11-01,PROD-008,Phone Case,Accessories,138,Saturday,44,2025-11
+2025-11-02,PROD-008,Phone Case,Accessories,127,Sunday,44,2025-11
+2025-11-03,PROD-008,Phone Case,Accessories,98,Monday,45,2025-11
+2025-11-04,PROD-008,Phone Case,Accessories,91,Tuesday,45,2025-11
+2025-11-05,PROD-008,Phone Case,Accessories,118,Wednesday,45,2025-11
+2025-11-06,PROD-008,Phone Case,Accessories,109,Thursday,45,2025-11
+2025-11-07,PROD-008,Phone Case,Accessories,116,Friday,45,2025-11
+2025-11-08,PROD-008,Phone Case,Accessories,147,Saturday,45,2025-11
+2025-11-09,PROD-008,Phone Case,Accessories,159,Sunday,45,2025-11
+2025-11-10,PROD-008,Phone Case,Accessories,109,Monday,46,2025-11
+2025-11-11,PROD-008,Phone Case,Accessories,106,Tuesday,46,2025-11
+2025-11-12,PROD-008,Phone Case,Accessories,107,Wednesday,46,2025-11
+2025-11-13,PROD-008,Phone Case,Accessories,131,Thursday,46,2025-11
+2025-11-14,PROD-008,Phone Case,Accessories,127,Friday,46,2025-11
+2025-11-15,PROD-008,Phone Case,Accessories,164,Saturday,46,2025-11
+2025-11-16,PROD-008,Phone Case,Accessories,155,Sunday,46,2025-11
+2025-11-17,PROD-008,Phone Case,Accessories,116,Monday,47,2025-11
+2025-11-18,PROD-008,Phone Case,Accessories,121,Tuesday,47,2025-11
+2025-11-19,PROD-008,Phone Case,Accessories,129,Wednesday,47,2025-11
+2025-11-20,PROD-008,Phone Case,Accessories,130,Thursday,47,2025-11
+2025-11-21,PROD-008,Phone Case,Accessories,137,Friday,47,2025-11
+2025-11-22,PROD-008,Phone Case,Accessories,161,Saturday,47,2025-11
+2025-11-23,PROD-008,Phone Case,Accessories,166,Sunday,47,2025-11
+2025-11-24,PROD-008,Phone Case,Accessories,112,Monday,48,2025-11
+2025-11-25,PROD-008,Phone Case,Accessories,134,Tuesday,48,2025-11
+2025-11-26,PROD-008,Phone Case,Accessories,121,Wednesday,48,2025-11
+2025-11-27,PROD-008,Phone Case,Accessories,137,Thursday,48,2025-11
+2025-11-28,PROD-008,Phone Case,Accessories,146,Friday,48,2025-11
+2025-11-29,PROD-008,Phone Case,Accessories,171,Saturday,48,2025-11
+2025-11-30,PROD-008,Phone Case,Accessories,180,Sunday,48,2025-11
+2025-12-01,PROD-008,Phone Case,Accessories,119,Monday,49,2025-12
+2025-12-02,PROD-008,Phone Case,Accessories,112,Tuesday,49,2025-12
+2025-12-03,PROD-008,Phone Case,Accessories,133,Wednesday,49,2025-12
+2025-12-04,PROD-008,Phone Case,Accessories,129,Thursday,49,2025-12
+2025-12-05,PROD-008,Phone Case,Accessories,148,Friday,49,2025-12
+2025-12-06,PROD-008,Phone Case,Accessories,176,Saturday,49,2025-12
+2025-12-07,PROD-008,Phone Case,Accessories,163,Sunday,49,2025-12
+2025-12-08,PROD-008,Phone Case,Accessories,126,Monday,50,2025-12
+2025-12-09,PROD-008,Phone Case,Accessories,115,Tuesday,50,2025-12
+2025-12-10,PROD-008,Phone Case,Accessories,133,Wednesday,50,2025-12
+2025-12-11,PROD-008,Phone Case,Accessories,134,Thursday,50,2025-12
+2025-12-12,PROD-008,Phone Case,Accessories,145,Friday,50,2025-12
+2025-12-13,PROD-008,Phone Case,Accessories,167,Saturday,50,2025-12
+2025-12-14,PROD-008,Phone Case,Accessories,163,Sunday,50,2025-12
+2025-12-15,PROD-008,Phone Case,Accessories,113,Monday,51,2025-12
+2025-12-16,PROD-008,Phone Case,Accessories,126,Tuesday,51,2025-12
+2025-12-17,PROD-008,Phone Case,Accessories,120,Wednesday,51,2025-12
+2025-12-18,PROD-008,Phone Case,Accessories,121,Thursday,51,2025-12
+2025-12-19,PROD-008,Phone Case,Accessories,132,Friday,51,2025-12
+2025-12-20,PROD-008,Phone Case,Accessories,164,Saturday,51,2025-12
+2025-12-21,PROD-008,Phone Case,Accessories,150,Sunday,51,2025-12
+2025-12-22,PROD-008,Phone Case,Accessories,101,Monday,52,2025-12
+2025-12-23,PROD-008,Phone Case,Accessories,109,Tuesday,52,2025-12
+2025-12-24,PROD-008,Phone Case,Accessories,113,Wednesday,52,2025-12
+2025-12-25,PROD-008,Phone Case,Accessories,56,Thursday,52,2025-12
+2025-12-26,PROD-008,Phone Case,Accessories,123,Friday,52,2025-12
+2025-12-27,PROD-008,Phone Case,Accessories,150,Saturday,52,2025-12
+2025-12-28,PROD-008,Phone Case,Accessories,161,Sunday,52,2025-12
+2025-12-29,PROD-008,Phone Case,Accessories,114,Monday,1,2025-12
+2025-12-30,PROD-008,Phone Case,Accessories,121,Tuesday,1,2025-12
+2025-12-31,PROD-008,Phone Case,Accessories,132,Wednesday,1,2025-12
+2026-01-01,PROD-008,Phone Case,Accessories,124,Thursday,1,2026-01
+2026-01-02,PROD-008,Phone Case,Accessories,137,Friday,1,2026-01
+2026-01-03,PROD-008,Phone Case,Accessories,153,Saturday,1,2026-01
+2026-01-04,PROD-008,Phone Case,Accessories,155,Sunday,1,2026-01
+2026-01-05,PROD-008,Phone Case,Accessories,119,Monday,2,2026-01
+2026-01-06,PROD-008,Phone Case,Accessories,107,Tuesday,2,2026-01
+2026-01-07,PROD-008,Phone Case,Accessories,266,Wednesday,2,2026-01
+2026-01-08,PROD-008,Phone Case,Accessories,250,Thursday,2,2026-01
+2026-01-09,PROD-008,Phone Case,Accessories,264,Friday,2,2026-01
+2026-01-10,PROD-008,Phone Case,Accessories,152,Saturday,2,2026-01
+2026-01-11,PROD-008,Phone Case,Accessories,150,Sunday,2,2026-01
+2026-01-12,PROD-008,Phone Case,Accessories,174,Monday,3,2026-01
+2026-01-13,PROD-008,Phone Case,Accessories,197,Tuesday,3,2026-01
+2026-01-14,PROD-008,Phone Case,Accessories,192,Wednesday,3,2026-01
+2026-01-15,PROD-008,Phone Case,Accessories,188,Thursday,3,2026-01
+2026-01-16,PROD-008,Phone Case,Accessories,204,Friday,3,2026-01
+2026-01-17,PROD-008,Phone Case,Accessories,227,Saturday,3,2026-01
+2026-01-18,PROD-008,Phone Case,Accessories,228,Sunday,3,2026-01
+2026-01-19,PROD-008,Phone Case,Accessories,169,Monday,4,2026-01
+2026-01-20,PROD-008,Phone Case,Accessories,191,Tuesday,4,2026-01
+2026-01-21,PROD-008,Phone Case,Accessories,204,Wednesday,4,2026-01
+2026-01-22,PROD-008,Phone Case,Accessories,129,Thursday,4,2026-01
+2026-01-23,PROD-008,Phone Case,Accessories,133,Friday,4,2026-01
+2026-01-24,PROD-008,Phone Case,Accessories,161,Saturday,4,2026-01
+2026-01-25,PROD-008,Phone Case,Accessories,150,Sunday,4,2026-01
+2026-01-26,PROD-008,Phone Case,Accessories,115,Monday,5,2026-01
+2026-01-27,PROD-008,Phone Case,Accessories,112,Tuesday,5,2026-01
+2026-01-28,PROD-008,Phone Case,Accessories,119,Wednesday,5,2026-01
+2026-01-29,PROD-008,Phone Case,Accessories,130,Thursday,5,2026-01
+2026-01-30,PROD-008,Phone Case,Accessories,144,Friday,5,2026-01
+2026-01-31,PROD-008,Phone Case,Accessories,164,Saturday,5,2026-01
+2026-02-01,PROD-008,Phone Case,Accessories,168,Sunday,5,2026-02
+2026-02-02,PROD-008,Phone Case,Accessories,107,Monday,6,2026-02
+2026-02-03,PROD-008,Phone Case,Accessories,126,Tuesday,6,2026-02
+2026-02-04,PROD-008,Phone Case,Accessories,123,Wednesday,6,2026-02
+2026-02-05,PROD-008,Phone Case,Accessories,126,Thursday,6,2026-02
+2026-02-06,PROD-008,Phone Case,Accessories,146,Friday,6,2026-02
+2025-08-10,PROD-009,Water Bottle,Home,67,Sunday,32,2025-08
+2025-08-11,PROD-009,Water Bottle,Home,61,Monday,33,2025-08
+2025-08-12,PROD-009,Water Bottle,Home,64,Tuesday,33,2025-08
+2025-08-13,PROD-009,Water Bottle,Home,52,Wednesday,33,2025-08
+2025-08-14,PROD-009,Water Bottle,Home,32,Thursday,33,2025-08
+2025-08-15,PROD-009,Water Bottle,Home,67,Friday,33,2025-08
+2025-08-16,PROD-009,Water Bottle,Home,61,Saturday,33,2025-08
+2025-08-17,PROD-009,Water Bottle,Home,68,Sunday,33,2025-08
+2025-08-18,PROD-009,Water Bottle,Home,71,Monday,34,2025-08
+2025-08-19,PROD-009,Water Bottle,Home,78,Tuesday,34,2025-08
+2025-08-20,PROD-009,Water Bottle,Home,53,Wednesday,34,2025-08
+2025-08-21,PROD-009,Water Bottle,Home,59,Thursday,34,2025-08
+2025-08-22,PROD-009,Water Bottle,Home,70,Friday,34,2025-08
+2025-08-23,PROD-009,Water Bottle,Home,58,Saturday,34,2025-08
+2025-08-24,PROD-009,Water Bottle,Home,60,Sunday,34,2025-08
+2025-08-25,PROD-009,Water Bottle,Home,54,Monday,35,2025-08
+2025-08-26,PROD-009,Water Bottle,Home,59,Tuesday,35,2025-08
+2025-08-27,PROD-009,Water Bottle,Home,58,Wednesday,35,2025-08
+2025-08-28,PROD-009,Water Bottle,Home,55,Thursday,35,2025-08
+2025-08-29,PROD-009,Water Bottle,Home,52,Friday,35,2025-08
+2025-08-30,PROD-009,Water Bottle,Home,73,Saturday,35,2025-08
+2025-08-31,PROD-009,Water Bottle,Home,77,Sunday,35,2025-08
+2025-09-01,PROD-009,Water Bottle,Home,72,Monday,36,2025-09
+2025-09-02,PROD-009,Water Bottle,Home,56,Tuesday,36,2025-09
+2025-09-03,PROD-009,Water Bottle,Home,67,Wednesday,36,2025-09
+2025-09-04,PROD-009,Water Bottle,Home,29,Thursday,36,2025-09
+2025-09-05,PROD-009,Water Bottle,Home,55,Friday,36,2025-09
+2025-09-06,PROD-009,Water Bottle,Home,72,Saturday,36,2025-09
+2025-09-07,PROD-009,Water Bottle,Home,61,Sunday,36,2025-09
+2025-09-08,PROD-009,Water Bottle,Home,56,Monday,37,2025-09
+2025-09-09,PROD-009,Water Bottle,Home,48,Tuesday,37,2025-09
+2025-09-10,PROD-009,Water Bottle,Home,55,Wednesday,37,2025-09
+2025-09-11,PROD-009,Water Bottle,Home,61,Thursday,37,2025-09
+2025-09-12,PROD-009,Water Bottle,Home,72,Friday,37,2025-09
+2025-09-13,PROD-009,Water Bottle,Home,61,Saturday,37,2025-09
+2025-09-14,PROD-009,Water Bottle,Home,55,Sunday,37,2025-09
+2025-09-15,PROD-009,Water Bottle,Home,70,Monday,38,2025-09
+2025-09-16,PROD-009,Water Bottle,Home,53,Tuesday,38,2025-09
+2025-09-17,PROD-009,Water Bottle,Home,43,Wednesday,38,2025-09
+2025-09-18,PROD-009,Water Bottle,Home,58,Thursday,38,2025-09
+2025-09-19,PROD-009,Water Bottle,Home,54,Friday,38,2025-09
+2025-09-20,PROD-009,Water Bottle,Home,81,Saturday,38,2025-09
+2025-09-21,PROD-009,Water Bottle,Home,65,Sunday,38,2025-09
+2025-09-22,PROD-009,Water Bottle,Home,54,Monday,39,2025-09
+2025-09-23,PROD-009,Water Bottle,Home,47,Tuesday,39,2025-09
+2025-09-24,PROD-009,Water Bottle,Home,57,Wednesday,39,2025-09
+2025-09-25,PROD-009,Water Bottle,Home,66,Thursday,39,2025-09
+2025-09-26,PROD-009,Water Bottle,Home,56,Friday,39,2025-09
+2025-09-27,PROD-009,Water Bottle,Home,52,Saturday,39,2025-09
+2025-09-28,PROD-009,Water Bottle,Home,63,Sunday,39,2025-09
+2025-09-29,PROD-009,Water Bottle,Home,52,Monday,40,2025-09
+2025-09-30,PROD-009,Water Bottle,Home,56,Tuesday,40,2025-09
+2025-10-01,PROD-009,Water Bottle,Home,49,Wednesday,40,2025-10
+2025-10-02,PROD-009,Water Bottle,Home,48,Thursday,40,2025-10
+2025-10-03,PROD-009,Water Bottle,Home,48,Friday,40,2025-10
+2025-10-04,PROD-009,Water Bottle,Home,64,Saturday,40,2025-10
+2025-10-05,PROD-009,Water Bottle,Home,53,Sunday,40,2025-10
+2025-10-06,PROD-009,Water Bottle,Home,47,Monday,41,2025-10
+2025-10-07,PROD-009,Water Bottle,Home,42,Tuesday,41,2025-10
+2025-10-08,PROD-009,Water Bottle,Home,54,Wednesday,41,2025-10
+2025-10-09,PROD-009,Water Bottle,Home,52,Thursday,41,2025-10
+2025-10-10,PROD-009,Water Bottle,Home,46,Friday,41,2025-10
+2025-10-11,PROD-009,Water Bottle,Home,49,Saturday,41,2025-10
+2025-10-12,PROD-009,Water Bottle,Home,70,Sunday,41,2025-10
+2025-10-13,PROD-009,Water Bottle,Home,34,Monday,42,2025-10
+2025-10-14,PROD-009,Water Bottle,Home,53,Tuesday,42,2025-10
+2025-10-15,PROD-009,Water Bottle,Home,60,Wednesday,42,2025-10
+2025-10-16,PROD-009,Water Bottle,Home,21,Thursday,42,2025-10
+2025-10-17,PROD-009,Water Bottle,Home,56,Friday,42,2025-10
+2025-10-18,PROD-009,Water Bottle,Home,52,Saturday,42,2025-10
+2025-10-19,PROD-009,Water Bottle,Home,56,Sunday,42,2025-10
+2025-10-20,PROD-009,Water Bottle,Home,46,Monday,43,2025-10
+2025-10-21,PROD-009,Water Bottle,Home,58,Tuesday,43,2025-10
+2025-10-22,PROD-009,Water Bottle,Home,52,Wednesday,43,2025-10
+2025-10-23,PROD-009,Water Bottle,Home,51,Thursday,43,2025-10
+2025-10-24,PROD-009,Water Bottle,Home,42,Friday,43,2025-10
+2025-10-25,PROD-009,Water Bottle,Home,71,Saturday,43,2025-10
+2025-10-26,PROD-009,Water Bottle,Home,55,Sunday,43,2025-10
+2025-10-27,PROD-009,Water Bottle,Home,69,Monday,44,2025-10
+2025-10-28,PROD-009,Water Bottle,Home,67,Tuesday,44,2025-10
+2025-10-29,PROD-009,Water Bottle,Home,36,Wednesday,44,2025-10
+2025-10-30,PROD-009,Water Bottle,Home,46,Thursday,44,2025-10
+2025-10-31,PROD-009,Water Bottle,Home,43,Friday,44,2025-10
+2025-11-01,PROD-009,Water Bottle,Home,57,Saturday,44,2025-11
+2025-11-02,PROD-009,Water Bottle,Home,59,Sunday,44,2025-11
+2025-11-03,PROD-009,Water Bottle,Home,55,Monday,45,2025-11
+2025-11-04,PROD-009,Water Bottle,Home,62,Tuesday,45,2025-11
+2025-11-05,PROD-009,Water Bottle,Home,66,Wednesday,45,2025-11
+2025-11-06,PROD-009,Water Bottle,Home,62,Thursday,45,2025-11
+2025-11-07,PROD-009,Water Bottle,Home,49,Friday,45,2025-11
+2025-11-08,PROD-009,Water Bottle,Home,54,Saturday,45,2025-11
+2025-11-09,PROD-009,Water Bottle,Home,60,Sunday,45,2025-11
+2025-11-10,PROD-009,Water Bottle,Home,59,Monday,46,2025-11
+2025-11-11,PROD-009,Water Bottle,Home,54,Tuesday,46,2025-11
+2025-11-12,PROD-009,Water Bottle,Home,45,Wednesday,46,2025-11
+2025-11-13,PROD-009,Water Bottle,Home,62,Thursday,46,2025-11
+2025-11-14,PROD-009,Water Bottle,Home,54,Friday,46,2025-11
+2025-11-15,PROD-009,Water Bottle,Home,59,Saturday,46,2025-11
+2025-11-16,PROD-009,Water Bottle,Home,63,Sunday,46,2025-11
+2025-11-17,PROD-009,Water Bottle,Home,56,Monday,47,2025-11
+2025-11-18,PROD-009,Water Bottle,Home,55,Tuesday,47,2025-11
+2025-11-19,PROD-009,Water Bottle,Home,48,Wednesday,47,2025-11
+2025-11-20,PROD-009,Water Bottle,Home,58,Thursday,47,2025-11
+2025-11-21,PROD-009,Water Bottle,Home,65,Friday,47,2025-11
+2025-11-22,PROD-009,Water Bottle,Home,67,Saturday,47,2025-11
+2025-11-23,PROD-009,Water Bottle,Home,73,Sunday,47,2025-11
+2025-11-24,PROD-009,Water Bottle,Home,53,Monday,48,2025-11
+2025-11-25,PROD-009,Water Bottle,Home,49,Tuesday,48,2025-11
+2025-11-26,PROD-009,Water Bottle,Home,58,Wednesday,48,2025-11
+2025-11-27,PROD-009,Water Bottle,Home,55,Thursday,48,2025-11
+2025-11-28,PROD-009,Water Bottle,Home,56,Friday,48,2025-11
+2025-11-29,PROD-009,Water Bottle,Home,68,Saturday,48,2025-11
+2025-11-30,PROD-009,Water Bottle,Home,62,Sunday,48,2025-11
+2025-12-01,PROD-009,Water Bottle,Home,50,Monday,49,2025-12
+2025-12-02,PROD-009,Water Bottle,Home,55,Tuesday,49,2025-12
+2025-12-03,PROD-009,Water Bottle,Home,63,Wednesday,49,2025-12
+2025-12-04,PROD-009,Water Bottle,Home,65,Thursday,49,2025-12
+2025-12-05,PROD-009,Water Bottle,Home,65,Friday,49,2025-12
+2025-12-06,PROD-009,Water Bottle,Home,69,Saturday,49,2025-12
+2025-12-07,PROD-009,Water Bottle,Home,64,Sunday,49,2025-12
+2025-12-08,PROD-009,Water Bottle,Home,63,Monday,50,2025-12
+2025-12-09,PROD-009,Water Bottle,Home,59,Tuesday,50,2025-12
+2025-12-10,PROD-009,Water Bottle,Home,60,Wednesday,50,2025-12
+2025-12-11,PROD-009,Water Bottle,Home,51,Thursday,50,2025-12
+2025-12-12,PROD-009,Water Bottle,Home,59,Friday,50,2025-12
+2025-12-13,PROD-009,Water Bottle,Home,67,Saturday,50,2025-12
+2025-12-14,PROD-009,Water Bottle,Home,66,Sunday,50,2025-12
+2025-12-15,PROD-009,Water Bottle,Home,47,Monday,51,2025-12
+2025-12-16,PROD-009,Water Bottle,Home,58,Tuesday,51,2025-12
+2025-12-17,PROD-009,Water Bottle,Home,45,Wednesday,51,2025-12
+2025-12-18,PROD-009,Water Bottle,Home,58,Thursday,51,2025-12
+2025-12-19,PROD-009,Water Bottle,Home,50,Friday,51,2025-12
+2025-12-20,PROD-009,Water Bottle,Home,75,Saturday,51,2025-12
+2025-12-21,PROD-009,Water Bottle,Home,62,Sunday,51,2025-12
+2025-12-22,PROD-009,Water Bottle,Home,61,Monday,52,2025-12
+2025-12-23,PROD-009,Water Bottle,Home,72,Tuesday,52,2025-12
+2025-12-24,PROD-009,Water Bottle,Home,47,Wednesday,52,2025-12
+2025-12-25,PROD-009,Water Bottle,Home,57,Thursday,52,2025-12
+2025-12-26,PROD-009,Water Bottle,Home,44,Friday,52,2025-12
+2025-12-27,PROD-009,Water Bottle,Home,28,Saturday,52,2025-12
+2025-12-28,PROD-009,Water Bottle,Home,72,Sunday,52,2025-12
+2025-12-29,PROD-009,Water Bottle,Home,47,Monday,1,2025-12
+2025-12-30,PROD-009,Water Bottle,Home,45,Tuesday,1,2025-12
+2025-12-31,PROD-009,Water Bottle,Home,51,Wednesday,1,2025-12
+2026-01-01,PROD-009,Water Bottle,Home,68,Thursday,1,2026-01
+2026-01-02,PROD-009,Water Bottle,Home,57,Friday,1,2026-01
+2026-01-03,PROD-009,Water Bottle,Home,48,Saturday,1,2026-01
+2026-01-04,PROD-009,Water Bottle,Home,68,Sunday,1,2026-01
+2026-01-05,PROD-009,Water Bottle,Home,37,Monday,2,2026-01
+2026-01-06,PROD-009,Water Bottle,Home,68,Tuesday,2,2026-01
+2026-01-07,PROD-009,Water Bottle,Home,139,Wednesday,2,2026-01
+2026-01-08,PROD-009,Water Bottle,Home,147,Thursday,2,2026-01
+2026-01-09,PROD-009,Water Bottle,Home,118,Friday,2,2026-01
+2026-01-10,PROD-009,Water Bottle,Home,56,Saturday,2,2026-01
+2026-01-11,PROD-009,Water Bottle,Home,53,Sunday,2,2026-01
+2026-01-12,PROD-009,Water Bottle,Home,85,Monday,3,2026-01
+2026-01-13,PROD-009,Water Bottle,Home,82,Tuesday,3,2026-01
+2026-01-14,PROD-009,Water Bottle,Home,97,Wednesday,3,2026-01
+2026-01-15,PROD-009,Water Bottle,Home,98,Thursday,3,2026-01
+2026-01-16,PROD-009,Water Bottle,Home,104,Friday,3,2026-01
+2026-01-17,PROD-009,Water Bottle,Home,94,Saturday,3,2026-01
+2026-01-18,PROD-009,Water Bottle,Home,97,Sunday,3,2026-01
+2026-01-19,PROD-009,Water Bottle,Home,82,Monday,4,2026-01
+2026-01-20,PROD-009,Water Bottle,Home,106,Tuesday,4,2026-01
+2026-01-21,PROD-009,Water Bottle,Home,94,Wednesday,4,2026-01
+2026-01-22,PROD-009,Water Bottle,Home,56,Thursday,4,2026-01
+2026-01-23,PROD-009,Water Bottle,Home,56,Friday,4,2026-01
+2026-01-24,PROD-009,Water Bottle,Home,67,Saturday,4,2026-01
+2026-01-25,PROD-009,Water Bottle,Home,49,Sunday,4,2026-01
+2026-01-26,PROD-009,Water Bottle,Home,56,Monday,5,2026-01
+2026-01-27,PROD-009,Water Bottle,Home,51,Tuesday,5,2026-01
+2026-01-28,PROD-009,Water Bottle,Home,69,Wednesday,5,2026-01
+2026-01-29,PROD-009,Water Bottle,Home,45,Thursday,5,2026-01
+2026-01-30,PROD-009,Water Bottle,Home,62,Friday,5,2026-01
+2026-01-31,PROD-009,Water Bottle,Home,60,Saturday,5,2026-01
+2026-02-01,PROD-009,Water Bottle,Home,60,Sunday,5,2026-02
+2026-02-02,PROD-009,Water Bottle,Home,53,Monday,6,2026-02
+2026-02-03,PROD-009,Water Bottle,Home,64,Tuesday,6,2026-02
+2026-02-04,PROD-009,Water Bottle,Home,56,Wednesday,6,2026-02
+2026-02-05,PROD-009,Water Bottle,Home,42,Thursday,6,2026-02
+2026-02-06,PROD-009,Water Bottle,Home,65,Friday,6,2026-02
+2025-08-10,PROD-010,Pen Set,Stationery,148,Sunday,32,2025-08
+2025-08-11,PROD-010,Pen Set,Stationery,253,Monday,33,2025-08
+2025-08-12,PROD-010,Pen Set,Stationery,249,Tuesday,33,2025-08
+2025-08-13,PROD-010,Pen Set,Stationery,241,Wednesday,33,2025-08
+2025-08-14,PROD-010,Pen Set,Stationery,228,Thursday,33,2025-08
+2025-08-15,PROD-010,Pen Set,Stationery,217,Friday,33,2025-08
+2025-08-16,PROD-010,Pen Set,Stationery,154,Saturday,33,2025-08
+2025-08-17,PROD-010,Pen Set,Stationery,133,Sunday,33,2025-08
+2025-08-18,PROD-010,Pen Set,Stationery,229,Monday,34,2025-08
+2025-08-19,PROD-010,Pen Set,Stationery,290,Tuesday,34,2025-08
+2025-08-20,PROD-010,Pen Set,Stationery,260,Wednesday,34,2025-08
+2025-08-21,PROD-010,Pen Set,Stationery,223,Thursday,34,2025-08
+2025-08-22,PROD-010,Pen Set,Stationery,227,Friday,34,2025-08
+2025-08-23,PROD-010,Pen Set,Stationery,72,Saturday,34,2025-08
+2025-08-24,PROD-010,Pen Set,Stationery,152,Sunday,34,2025-08
+2025-08-25,PROD-010,Pen Set,Stationery,246,Monday,35,2025-08
+2025-08-26,PROD-010,Pen Set,Stationery,271,Tuesday,35,2025-08
+2025-08-27,PROD-010,Pen Set,Stationery,249,Wednesday,35,2025-08
+2025-08-28,PROD-010,Pen Set,Stationery,220,Thursday,35,2025-08
+2025-08-29,PROD-010,Pen Set,Stationery,218,Friday,35,2025-08
+2025-08-30,PROD-010,Pen Set,Stationery,172,Saturday,35,2025-08
+2025-08-31,PROD-010,Pen Set,Stationery,155,Sunday,35,2025-08
+2025-09-01,PROD-010,Pen Set,Stationery,249,Monday,36,2025-09
+2025-09-02,PROD-010,Pen Set,Stationery,254,Tuesday,36,2025-09
+2025-09-03,PROD-010,Pen Set,Stationery,264,Wednesday,36,2025-09
+2025-09-04,PROD-010,Pen Set,Stationery,219,Thursday,36,2025-09
+2025-09-05,PROD-010,Pen Set,Stationery,206,Friday,36,2025-09
+2025-09-06,PROD-010,Pen Set,Stationery,168,Saturday,36,2025-09
+2025-09-07,PROD-010,Pen Set,Stationery,144,Sunday,36,2025-09
+2025-09-08,PROD-010,Pen Set,Stationery,250,Monday,37,2025-09
+2025-09-09,PROD-010,Pen Set,Stationery,270,Tuesday,37,2025-09
+2025-09-10,PROD-010,Pen Set,Stationery,233,Wednesday,37,2025-09
+2025-09-11,PROD-010,Pen Set,Stationery,235,Thursday,37,2025-09
+2025-09-12,PROD-010,Pen Set,Stationery,191,Friday,37,2025-09
+2025-09-13,PROD-010,Pen Set,Stationery,158,Saturday,37,2025-09
+2025-09-14,PROD-010,Pen Set,Stationery,129,Sunday,37,2025-09
+2025-09-15,PROD-010,Pen Set,Stationery,220,Monday,38,2025-09
+2025-09-16,PROD-010,Pen Set,Stationery,258,Tuesday,38,2025-09
+2025-09-17,PROD-010,Pen Set,Stationery,262,Wednesday,38,2025-09
+2025-09-18,PROD-010,Pen Set,Stationery,200,Thursday,38,2025-09
+2025-09-19,PROD-010,Pen Set,Stationery,199,Friday,38,2025-09
+2025-09-20,PROD-010,Pen Set,Stationery,142,Saturday,38,2025-09
+2025-09-21,PROD-010,Pen Set,Stationery,126,Sunday,38,2025-09
+2025-09-22,PROD-010,Pen Set,Stationery,236,Monday,39,2025-09
+2025-09-23,PROD-010,Pen Set,Stationery,218,Tuesday,39,2025-09
+2025-09-24,PROD-010,Pen Set,Stationery,195,Wednesday,39,2025-09
+2025-09-25,PROD-010,Pen Set,Stationery,191,Thursday,39,2025-09
+2025-09-26,PROD-010,Pen Set,Stationery,180,Friday,39,2025-09
+2025-09-27,PROD-010,Pen Set,Stationery,142,Saturday,39,2025-09
+2025-09-28,PROD-010,Pen Set,Stationery,123,Sunday,39,2025-09
+2025-09-29,PROD-010,Pen Set,Stationery,202,Monday,40,2025-09
+2025-09-30,PROD-010,Pen Set,Stationery,226,Tuesday,40,2025-09
+2025-10-01,PROD-010,Pen Set,Stationery,163,Wednesday,40,2025-10
+2025-10-02,PROD-010,Pen Set,Stationery,171,Thursday,40,2025-10
+2025-10-03,PROD-010,Pen Set,Stationery,161,Friday,40,2025-10
+2025-10-04,PROD-010,Pen Set,Stationery,137,Saturday,40,2025-10
+2025-10-05,PROD-010,Pen Set,Stationery,129,Sunday,40,2025-10
+2025-10-06,PROD-010,Pen Set,Stationery,179,Monday,41,2025-10
+2025-10-07,PROD-010,Pen Set,Stationery,222,Tuesday,41,2025-10
+2025-10-08,PROD-010,Pen Set,Stationery,182,Wednesday,41,2025-10
+2025-10-09,PROD-010,Pen Set,Stationery,169,Thursday,41,2025-10
+2025-10-10,PROD-010,Pen Set,Stationery,161,Friday,41,2025-10
+2025-10-11,PROD-010,Pen Set,Stationery,120,Saturday,41,2025-10
+2025-10-12,PROD-010,Pen Set,Stationery,120,Sunday,41,2025-10
+2025-10-13,PROD-010,Pen Set,Stationery,177,Monday,42,2025-10
+2025-10-14,PROD-010,Pen Set,Stationery,192,Tuesday,42,2025-10
+2025-10-15,PROD-010,Pen Set,Stationery,193,Wednesday,42,2025-10
+2025-10-16,PROD-010,Pen Set,Stationery,156,Thursday,42,2025-10
+2025-10-17,PROD-010,Pen Set,Stationery,152,Friday,42,2025-10
+2025-10-18,PROD-010,Pen Set,Stationery,99,Saturday,42,2025-10
+2025-10-19,PROD-010,Pen Set,Stationery,126,Sunday,42,2025-10
+2025-10-20,PROD-010,Pen Set,Stationery,193,Monday,43,2025-10
+2025-10-21,PROD-010,Pen Set,Stationery,227,Tuesday,43,2025-10
+2025-10-22,PROD-010,Pen Set,Stationery,195,Wednesday,43,2025-10
+2025-10-23,PROD-010,Pen Set,Stationery,150,Thursday,43,2025-10
+2025-10-24,PROD-010,Pen Set,Stationery,157,Friday,43,2025-10
+2025-10-25,PROD-010,Pen Set,Stationery,108,Saturday,43,2025-10
+2025-10-26,PROD-010,Pen Set,Stationery,123,Sunday,43,2025-10
+2025-10-27,PROD-010,Pen Set,Stationery,167,Monday,44,2025-10
+2025-10-28,PROD-010,Pen Set,Stationery,182,Tuesday,44,2025-10
+2025-10-29,PROD-010,Pen Set,Stationery,162,Wednesday,44,2025-10
+2025-10-30,PROD-010,Pen Set,Stationery,161,Thursday,44,2025-10
+2025-10-31,PROD-010,Pen Set,Stationery,144,Friday,44,2025-10
+2025-11-01,PROD-010,Pen Set,Stationery,107,Saturday,44,2025-11
+2025-11-02,PROD-010,Pen Set,Stationery,131,Sunday,44,2025-11
+2025-11-03,PROD-010,Pen Set,Stationery,191,Monday,45,2025-11
+2025-11-04,PROD-010,Pen Set,Stationery,206,Tuesday,45,2025-11
+2025-11-05,PROD-010,Pen Set,Stationery,205,Wednesday,45,2025-11
+2025-11-06,PROD-010,Pen Set,Stationery,174,Thursday,45,2025-11
+2025-11-07,PROD-010,Pen Set,Stationery,147,Friday,45,2025-11
+2025-11-08,PROD-010,Pen Set,Stationery,105,Saturday,45,2025-11
+2025-11-09,PROD-010,Pen Set,Stationery,101,Sunday,45,2025-11
+2025-11-10,PROD-010,Pen Set,Stationery,208,Monday,46,2025-11
+2025-11-11,PROD-010,Pen Set,Stationery,192,Tuesday,46,2025-11
+2025-11-12,PROD-010,Pen Set,Stationery,196,Wednesday,46,2025-11
+2025-11-13,PROD-010,Pen Set,Stationery,189,Thursday,46,2025-11
+2025-11-14,PROD-010,Pen Set,Stationery,164,Friday,46,2025-11
+2025-11-15,PROD-010,Pen Set,Stationery,134,Saturday,46,2025-11
+2025-11-16,PROD-010,Pen Set,Stationery,121,Sunday,46,2025-11
+2025-11-17,PROD-010,Pen Set,Stationery,199,Monday,47,2025-11
+2025-11-18,PROD-010,Pen Set,Stationery,231,Tuesday,47,2025-11
+2025-11-19,PROD-010,Pen Set,Stationery,183,Wednesday,47,2025-11
+2025-11-20,PROD-010,Pen Set,Stationery,183,Thursday,47,2025-11
+2025-11-21,PROD-010,Pen Set,Stationery,142,Friday,47,2025-11
+2025-11-22,PROD-010,Pen Set,Stationery,106,Saturday,47,2025-11
+2025-11-23,PROD-010,Pen Set,Stationery,114,Sunday,47,2025-11
+2025-11-24,PROD-010,Pen Set,Stationery,203,Monday,48,2025-11
+2025-11-25,PROD-010,Pen Set,Stationery,233,Tuesday,48,2025-11
+2025-11-26,PROD-010,Pen Set,Stationery,226,Wednesday,48,2025-11
+2025-11-27,PROD-010,Pen Set,Stationery,196,Thursday,48,2025-11
+2025-11-28,PROD-010,Pen Set,Stationery,172,Friday,48,2025-11
+2025-11-29,PROD-010,Pen Set,Stationery,132,Saturday,48,2025-11
+2025-11-30,PROD-010,Pen Set,Stationery,95,Sunday,48,2025-11
+2025-12-01,PROD-010,Pen Set,Stationery,193,Monday,49,2025-12
+2025-12-02,PROD-010,Pen Set,Stationery,226,Tuesday,49,2025-12
+2025-12-03,PROD-010,Pen Set,Stationery,204,Wednesday,49,2025-12
+2025-12-04,PROD-010,Pen Set,Stationery,161,Thursday,49,2025-12
+2025-12-05,PROD-010,Pen Set,Stationery,167,Friday,49,2025-12
+2025-12-06,PROD-010,Pen Set,Stationery,133,Saturday,49,2025-12
+2025-12-07,PROD-010,Pen Set,Stationery,115,Sunday,49,2025-12
+2025-12-08,PROD-010,Pen Set,Stationery,188,Monday,50,2025-12
+2025-12-09,PROD-010,Pen Set,Stationery,211,Tuesday,50,2025-12
+2025-12-10,PROD-010,Pen Set,Stationery,195,Wednesday,50,2025-12
+2025-12-11,PROD-010,Pen Set,Stationery,162,Thursday,50,2025-12
+2025-12-12,PROD-010,Pen Set,Stationery,158,Friday,50,2025-12
+2025-12-13,PROD-010,Pen Set,Stationery,29,Saturday,50,2025-12
+2025-12-14,PROD-010,Pen Set,Stationery,87,Sunday,50,2025-12
+2025-12-15,PROD-010,Pen Set,Stationery,172,Monday,51,2025-12
+2025-12-16,PROD-010,Pen Set,Stationery,174,Tuesday,51,2025-12
+2025-12-17,PROD-010,Pen Set,Stationery,188,Wednesday,51,2025-12
+2025-12-18,PROD-010,Pen Set,Stationery,164,Thursday,51,2025-12
+2025-12-19,PROD-010,Pen Set,Stationery,140,Friday,51,2025-12
+2025-12-20,PROD-010,Pen Set,Stationery,131,Saturday,51,2025-12
+2025-12-21,PROD-010,Pen Set,Stationery,99,Sunday,51,2025-12
+2025-12-22,PROD-010,Pen Set,Stationery,150,Monday,52,2025-12
+2025-12-23,PROD-010,Pen Set,Stationery,175,Tuesday,52,2025-12
+2025-12-24,PROD-010,Pen Set,Stationery,184,Wednesday,52,2025-12
+2025-12-25,PROD-010,Pen Set,Stationery,141,Thursday,52,2025-12
+2025-12-26,PROD-010,Pen Set,Stationery,137,Friday,52,2025-12
+2025-12-27,PROD-010,Pen Set,Stationery,115,Saturday,52,2025-12
+2025-12-28,PROD-010,Pen Set,Stationery,99,Sunday,52,2025-12
+2025-12-29,PROD-010,Pen Set,Stationery,186,Monday,1,2025-12
+2025-12-30,PROD-010,Pen Set,Stationery,154,Tuesday,1,2025-12
+2025-12-31,PROD-010,Pen Set,Stationery,140,Wednesday,1,2025-12
+2026-01-01,PROD-010,Pen Set,Stationery,125,Thursday,1,2026-01
+2026-01-02,PROD-010,Pen Set,Stationery,122,Friday,1,2026-01
+2026-01-03,PROD-010,Pen Set,Stationery,113,Saturday,1,2026-01
+2026-01-04,PROD-010,Pen Set,Stationery,74,Sunday,1,2026-01
+2026-01-05,PROD-010,Pen Set,Stationery,160,Monday,2,2026-01
+2026-01-06,PROD-010,Pen Set,Stationery,158,Tuesday,2,2026-01
+2026-01-07,PROD-010,Pen Set,Stationery,356,Wednesday,2,2026-01
+2026-01-08,PROD-010,Pen Set,Stationery,336,Thursday,2,2026-01
+2026-01-09,PROD-010,Pen Set,Stationery,326,Friday,2,2026-01
+2026-01-10,PROD-010,Pen Set,Stationery,87,Saturday,2,2026-01
+2026-01-11,PROD-010,Pen Set,Stationery,80,Sunday,2,2026-01
+2026-01-12,PROD-010,Pen Set,Stationery,277,Monday,3,2026-01
+2026-01-13,PROD-010,Pen Set,Stationery,281,Tuesday,3,2026-01
+2026-01-14,PROD-010,Pen Set,Stationery,249,Wednesday,3,2026-01
+2026-01-15,PROD-010,Pen Set,Stationery,252,Thursday,3,2026-01
+2026-01-16,PROD-010,Pen Set,Stationery,255,Friday,3,2026-01
+2026-01-17,PROD-010,Pen Set,Stationery,235,Saturday,3,2026-01
+2026-01-18,PROD-010,Pen Set,Stationery,197,Sunday,3,2026-01
+2026-01-19,PROD-010,Pen Set,Stationery,269,Monday,4,2026-01
+2026-01-20,PROD-010,Pen Set,Stationery,286,Tuesday,4,2026-01
+2026-01-21,PROD-010,Pen Set,Stationery,240,Wednesday,4,2026-01
+2026-01-22,PROD-010,Pen Set,Stationery,120,Thursday,4,2026-01
+2026-01-23,PROD-010,Pen Set,Stationery,142,Friday,4,2026-01
+2026-01-24,PROD-010,Pen Set,Stationery,88,Saturday,4,2026-01
+2026-01-25,PROD-010,Pen Set,Stationery,45,Sunday,4,2026-01
+2026-01-26,PROD-010,Pen Set,Stationery,137,Monday,5,2026-01
+2026-01-27,PROD-010,Pen Set,Stationery,164,Tuesday,5,2026-01
+2026-01-28,PROD-010,Pen Set,Stationery,139,Wednesday,5,2026-01
+2026-01-29,PROD-010,Pen Set,Stationery,137,Thursday,5,2026-01
+2026-01-30,PROD-010,Pen Set,Stationery,128,Friday,5,2026-01
+2026-01-31,PROD-010,Pen Set,Stationery,89,Saturday,5,2026-01
+2026-02-01,PROD-010,Pen Set,Stationery,76,Sunday,5,2026-02
+2026-02-02,PROD-010,Pen Set,Stationery,143,Monday,6,2026-02
+2026-02-03,PROD-010,Pen Set,Stationery,156,Tuesday,6,2026-02
+2026-02-04,PROD-010,Pen Set,Stationery,143,Wednesday,6,2026-02
+2026-02-05,PROD-010,Pen Set,Stationery,132,Thursday,6,2026-02
+2026-02-06,PROD-010,Pen Set,Stationery,111,Friday,6,2026-02
