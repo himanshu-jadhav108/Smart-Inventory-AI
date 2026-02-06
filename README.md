@@ -156,3 +156,13 @@ date,product_id,units_sold
 ---
 
 Built for hackathons • Simple • Stable • Demo-ready
+
+## 👨‍💻 About the Team
+
+Team Id : U621SF9X
+TeamName: Eureka Fourge
+Team Members : 
+- Himanshu Jadhav
+- Ritesh Gaike
+- Yash Bhongale
+- Onkar Kharat
