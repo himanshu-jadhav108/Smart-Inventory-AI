@@ -51,7 +51,7 @@ st.markdown("""
     .block-container {
         padding-top: 2rem;
         padding-bottom: 2rem;
-        background: rgba(255, 255, 255, 0.95);
+        background: #ffffff;
         border-radius: 20px;
         margin: 1rem;
         box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
@@ -59,19 +59,18 @@ st.markdown("""
     
     /* Header Styles */
     .main-header {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        color: #667eea;
         font-size: 3.5rem;
         font-weight: 800;
         text-align: center;
         margin-bottom: 0.5rem;
         letter-spacing: -1px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     }
     
     .sub-header {
         text-align: center;
-        color: #64748b;
+        color: #475569;
         font-size: 1.2rem;
         font-weight: 400;
         margin-bottom: 2rem;
@@ -95,7 +94,7 @@ st.markdown("""
     
     .metric-label {
         font-size: 0.875rem;
-        color: #64748b;
+        color: #475569;
         font-weight: 600;
         text-transform: uppercase;
         letter-spacing: 0.5px;
@@ -105,9 +104,7 @@ st.markdown("""
     .metric-value {
         font-size: 2.5rem;
         font-weight: 800;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        color: #667eea;
         margin: 0;
     }
     
@@ -393,6 +390,30 @@ st.markdown("""
         backdrop-filter: blur(10px);
         border: 1px solid rgba(255, 255, 255, 0.2);
         border-radius: 16px;
+    }
+    
+    /* Additional Visibility Improvements */
+    h1, h2, h3, h4, h5, h6 {
+        color: #1e293b !important;
+    }
+    
+    p, span, div {
+        color: #334155;
+    }
+    
+    .stMarkdown {
+        color: #334155;
+    }
+    
+    /* Improve expander visibility */
+    .streamlit-expanderHeader p {
+        color: #1e293b !important;
+        font-weight: 600;
+    }
+    
+    /* Info boxes */
+    .stAlert p {
+        color: #1e293b !important;
     }
 </style>
 """, unsafe_allow_html=True)
