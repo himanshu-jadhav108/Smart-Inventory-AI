@@ -1,109 +1,103 @@
-# 📦 Smart Inventory Tracker MVP
+# 🧠 Smart Inventory AI Pro
 
-A hackathon-ready inventory forecasting and restocking recommendation tool for small retail businesses.
+Enterprise-Grade AI-Powered Demand Forecasting & Inventory Optimization System
+
+## 📋 Overview
+
+Smart Inventory AI Pro is a comprehensive inventory management solution that leverages advanced AI and machine learning techniques to provide:
+
+- 📈 **AI-Powered Demand Forecasting**: Ensemble forecasting combining EWMA, linear regression, and seasonal patterns
+- 🔍 **Advanced Anomaly Detection**: Multi-method approach using statistical and IQR-based techniques
+- 📦 **Dynamic Inventory Optimization**: Intelligent reorder point and safety stock calculations
+- 💡 **Explainable AI Insights**: Business-friendly insights and recommendations
+- 🎨 **Premium UI/UX**: Modern, professional interface with interactive dashboards
 
 ## 🚀 Quick Start
 
-### 1. Install Dependencies
+### Installation
+
+1. Clone or download this repository
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Run the App
+3. Run the application:
 ```bash
 streamlit run app.py
 ```
 
-### 3. Upload Data
-Use the provided `sample_sales_data.csv` or upload your own CSV file with columns:
-- `date` (YYYY-MM-DD format)
-- `product_id` (string)
-- `units_sold` (integer)
+### Usage
 
-## 📊 Features
+1. **Choose Data Source**: Use AI-generated sample data or upload your own CSV file
+2. **Select Product**: Choose which product to analyze
+3. **Configure Parameters**: Set forecast horizon, service level, current stock, and lead time
+4. **Run Analysis**: Click "Run Advanced Analysis" to generate forecasts and recommendations
 
-### ✅ Demand Forecasting
-- 7-day forecast using Linear Regression
-- Simple, reliable, and explainable
-- Trend analysis (increasing/decreasing/stable)
-
-### ✅ Anomaly Detection
-- Statistical spike/drop detection
-- Rolling mean + standard deviation approach
-- Visual markers on chart
-
-### ✅ Restocking Recommendations
-- Intelligent reorder quantity calculation
-- Considers current stock and lead time
-- Includes safety buffer
-
-### ✅ Explainability Layer
-- Plain-English explanations
-- No black-box predictions
-- Business-friendly insights
-
-## 🎯 Usage Flow
-
-1. **Upload CSV** - Load your sales history
-2. **Select Product** - Choose which product to analyze
-3. **Set Parameters** - Input current stock and lead time
-4. **Run Analysis** - Get instant insights
-
-## 📁 File Structure
+## 📁 Project Structure
 
 ```
-.
-├── app.py                      # Main Streamlit application
-├── sample_sales_data.csv       # Demo dataset
+smart_inventory_ai/
+│
+├── app.py                      # Main application entry point
 ├── requirements.txt            # Python dependencies
-└── README.md                   # This file
+├── README.md                   # This file
+│
+├── config/
+│   └── theme.py               # CSS styling and theme configuration
+│
+├── data/
+│   └── sample_generator.py   # Sample data generation
+│
+├── models/
+│   ├── forecasting.py        # Forecasting engine with ensemble methods
+│   ├── anomaly.py            # Anomaly detection algorithms
+│   ├── inventory.py          # Inventory optimization logic
+│   └── explainability.py     # Business insights generation
+│
+├── dashboard/
+│   ├── charts.py             # Plotly chart generation
+│   ├── metrics.py            # Metric card components
+│   └── layout.py             # UI layout and components
+│
+├── utils/
+│   ├── data_loader.py        # Data loading and validation
+│   └── helpers.py            # Helper utility functions
+│
+└── assets/
+    └── styles.css            # Additional CSS styles
 ```
 
-## 🧠 How It Works
+## 🎯 Features
 
-### Forecasting Method
-Uses Linear Regression on historical time series data:
-- X-axis: Day index (1, 2, 3, ...)
-- Y-axis: Units sold
-- Output: 7-day ahead predictions
+### Forecasting Engine
+- **EWMA (Exponential Weighted Moving Average)**: Captures recent trends
+- **Linear Regression**: Identifies long-term patterns
+- **Seasonal Decomposition**: Accounts for weekly patterns
+- **Ensemble Method**: Combines multiple approaches for robust predictions
 
 ### Anomaly Detection
-Statistical approach using rolling windows:
-- Calculate rolling mean and standard deviation
-- Flag points beyond 2 standard deviations
-- Works without machine learning
+- **Statistical Method**: Rolling mean and standard deviation
+- **IQR Method**: Interquartile range-based detection
+- **Severity Scoring**: Quantifies anomaly magnitude
 
-### Restocking Logic
-```
-Daily Demand = Total Forecast / 7
-Expected Demand = Daily Demand × Lead Time
-Safety Stock = Expected Demand × 20%
-Reorder Quantity = (Expected Demand + Safety Stock) - Current Stock
-```
+### Inventory Optimization
+- **Dynamic Safety Stock**: Adapts to demand volatility
+- **Service Level Optimization**: Configurable stockout risk
+- **Reorder Point Calculation**: Considers lead time and demand variability
+- **Order Quantity Recommendations**: Optimal replenishment amounts
 
-## 🎯 Demo Tips
+### Business Insights
+- Trend analysis and change detection
+- Volatility assessment
+- Anomaly summaries
+- Forecast accuracy metrics
+- Stock status warnings
+- Seasonality patterns
 
-### Best Practices
-- Use data with at least 14 days of history
-- Include some sales spikes for anomaly demo
-- Set realistic current stock levels
-- Try different lead times to see impact
+## 📊 Data Format
 
-### Expected Outputs
-- Interactive Plotly chart with forecast
-- Key metrics dashboard
-- Plain-English insights
-- Detailed data tables
-
-## 🚫 Known Limitations
-
-- No authentication (demo only)
-- Single product analysis per run
-- Linear regression only (simple but stable)
-- No database persistence
-- CSV input only
-
-## 📝 Sample Data Format
+### Required CSV Columns
 
 ```csv
 date,product_id,units_sold
@@ -112,57 +106,74 @@ date,product_id,units_sold
 2024-01-03,PROD001,48
 ```
 
-## ⚡ Performance
+- **date**: Date in YYYY-MM-DD format
+- **product_id**: Unique product identifier
+- **units_sold**: Number of units sold (integer)
 
-- Loads in < 1 second
-- Analysis runs in < 2 seconds
-- Stable for demo presentations
-- Works offline (no API calls)
+## 🛠️ Technical Details
 
-## 🎓 Technical Stack
-
+### Technologies
 - **Frontend**: Streamlit
-- **Data**: Pandas, NumPy
-- **ML**: Scikit-learn (Linear Regression)
-- **Viz**: Plotly
-- **Language**: Python 3.8+
+- **Visualization**: Plotly
+- **ML/Analytics**: scikit-learn, scipy, pandas, numpy
+- **Styling**: Custom CSS with modern design patterns
 
-## 🏆 Hackathon Checklist
+### Architecture Principles
+- **Modular Design**: Clear separation of concerns
+- **No Streamlit in Models**: Pure Python logic in model files
+- **Clean Interfaces**: Well-defined function boundaries
+- **Maintainability**: Easy to extend and modify
 
-- ✅ Works end-to-end
-- ✅ Clear UI/UX
-- ✅ Business value
-- ✅ Explainable AI
-- ✅ Demo-stable
-- ✅ Clean code
-- ✅ Sample data included
+## 📈 Model Performance
 
-## 🔧 Troubleshooting
+The forecasting engine is validated using walk-forward validation with the following metrics:
+- **MAE (Mean Absolute Error)**: Average prediction error in units
+- **MAPE (Mean Absolute Percentage Error)**: Percentage-based accuracy measure
 
-**CSV not loading?**
-- Check column names match exactly
-- Ensure date format is YYYY-MM-DD
-- Remove any extra headers
+Typical accuracy ratings:
+- MAPE < 10%: Excellent
+- MAPE 10-20%: Good
+- MAPE > 20%: Fair
 
-**Forecast looks wrong?**
-- Need at least 7 days of history
-- Check for data quality issues
-- Verify units_sold are numeric
+## 🎨 UI Features
 
-**No anomalies detected?**
-- Data might be too consistent
-- Try sample_sales_data.csv (has spike on day 19)
+- Modern gradient backgrounds
+- Animated components (fade-in, slide-in effects)
+- Interactive metric cards with hover effects
+- Color-coded status indicators
+- Responsive layout
+- Professional typography
+- Dark-themed sidebar
+
+## 🔧 Customization
+
+### Adding New Products
+Simply upload a CSV with additional product_id values
+
+### Adjusting Forecast Models
+Modify weights in `models/forecasting.py` ensemble method:
+```python
+ensemble = (0.3 * linear_future + 0.4 * ewma_future + 0.3 * seasonal_future)
+```
+
+### Changing Themes
+Edit `config/theme.py` to customize colors, fonts, and styles
+
+### Adding New Metrics
+Create new functions in `dashboard/metrics.py` and call from `dashboard/layout.py`
+
+## 📝 License
+
+This project is provided as-is for educational and commercial use.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## 📧 Support
+
+For questions or support, please open an issue in the repository.
 
 ---
 
-Built for hackathons • Simple • Stable • Demo-ready
-
-## 👨‍💻 About the Team
-
-Team Id : U621SF9X
-TeamName: Eureka Fourge
-Team Members : 
-- Himanshu Jadhav
-- Ritesh Gaike
-- Yash Bhongale
-- Onkar Kharat
+**Built with ❤️ using Streamlit and Modern AI**
