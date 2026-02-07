@@ -144,7 +144,6 @@ cython_debug/
 
 # Output files
 outputs/
-*.csv
 *.xlsx
 *.pdf
 *.png

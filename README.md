@@ -154,7 +154,7 @@ smart_inventory_ai/
 
 ## 🖥️ Live Demo  
 
-🔗 **[Coming Soon – Hosted Demo Link]**
+🔗 **https://smart-ai-inventory-pro.streamlit.app/**
 
 ---
 
