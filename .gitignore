@@ -202,9 +202,3 @@ config/credentials.json
 # Cache directories
 .cache/
 cache/
-
-prompt.txt
-
-REFACTORING_SUMMARY.md
-
-COMPLETE_PROJECT_STRUCTURE.txt
