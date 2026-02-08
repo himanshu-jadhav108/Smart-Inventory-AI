@@ -147,6 +147,7 @@ smart_inventory_ai/
 │   └── helpers.py          # Helper utility functions
 │
 └── assets/
+    ├── sia_logo.jpeg       # SIA Logo
     └── styles.css          # Additional CSS styles
 ```
 
