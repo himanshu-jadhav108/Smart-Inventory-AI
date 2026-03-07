@@ -1,7 +1,6 @@
 """
-🏆 ULTIMATE SMART INVENTORY TRACKER - PREMIUM UI EDITION
+🏆 SMART INVENTORY AI — Premium Dashboard
 Hybrid AI-Powered Demand Forecasting & Inventory Optimization System
-Enhanced with modern, professional frontend design
 """
 
 import streamlit as st
@@ -9,7 +8,6 @@ from datetime import datetime
 import time
 
 from config.theme import apply_theme
-from data.sample_generator import generate_sample_data
 from utils.data_loader import load_and_validate_data
 from models.forecasting import ForecastingEngine
 from models.anomaly import detect_anomalies_advanced
@@ -18,12 +16,7 @@ from models.explainability import generate_insights
 from dashboard.charts import create_dashboard
 from dashboard.metrics import create_metric_card
 from dashboard.layout import render_header, render_sidebar, render_welcome_screen, render_results
-from PIL import Image
 
-# Centered Logo
-col1, col2, col3 = st.columns([1, 2, 1])
-with col2:
-    st.sidebar.image("assets/sia_logo.jpeg", width=200)
 
 def initialize_session_state():
     """Initialize session state variables"""
@@ -35,11 +28,9 @@ def initialize_session_state():
 
 
 def main():
-    logo = Image.open("assets/sia_logo.jpeg")
-
     st.set_page_config(
         page_title="SIA – Smart Inventory AI",
-        page_icon=logo,
+        page_icon="🧠",
         layout="wide",
         initial_sidebar_state="expanded"
     )
@@ -51,12 +42,11 @@ def main():
 
     config = render_sidebar()
 
-    with st.spinner("🔄 Loading and validating data..."):
-        df = load_and_validate_data(config['uploaded_file'])
-
-    if df is None:
+    # Guard: if data didn't load, stop here
+    if not config.get('data_loaded', False):
         return
 
+    df = config['df']
     product_data = df[df['product_id'] == config['selected_product']].copy()
 
     if len(product_data) < 14:
@@ -119,7 +109,7 @@ def run_analysis(product_data, config, df):
         progress_bar.empty()
         status_text.empty()
 
-        # 🔥 STORE EVERYTHING IN SESSION STATE
+        # Store everything in session state
         st.session_state.analysis_results = {
             "product_data": product_data,
             "forecast_dates": forecast_dates,
