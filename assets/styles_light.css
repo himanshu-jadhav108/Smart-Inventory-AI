@@ -1,6 +1,6 @@
 /* ============================================================
    SIA — SMART INVENTORY AI
-   Premium Glassmorphism Dark Theme
+   Light Theme — Rose / Blush Variant
    ============================================================ */
 
 /* ---- FONTS & RESET ---- */
@@ -20,54 +20,54 @@ header[data-testid="stHeader"] { background: transparent; }
 
 
 /* ============================================================
-   MAIN BACKGROUND — Deep Dark Gradient
+   MAIN BACKGROUND — Soft Rose Gradient
    ============================================================ */
 .main {
-    background: linear-gradient(135deg, #0a0e1a 0%, #111827 35%, #1a1040 70%, #0d1117 100%);
+    background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 35%, #f5e6ff 70%, #ede9fe 100%);
     background-attachment: fixed;
 }
 
 .block-container {
     padding: 2rem 2rem 3rem;
-    background: rgba(15, 20, 35, 0.65);
+    background: rgba(255, 255, 255, 0.75);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     border-radius: 20px;
     margin: 1rem auto;
-    border: 1px solid rgba(100, 120, 255, 0.08);
+    border: 1px solid rgba(236, 72, 153, 0.1);
     box-shadow:
-        0 8px 32px rgba(0, 0, 0, 0.3),
-        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+        0 8px 32px rgba(236, 72, 153, 0.08),
+        inset 0 1px 0 rgba(255, 255, 255, 0.8);
     max-width: 1440px;
 }
 
 
 /* ============================================================
-   SIDEBAR — Dark Glass Panel
+   SIDEBAR — Soft Rose Panel
    ============================================================ */
 [data-testid="stSidebar"] {
-    background: linear-gradient(180deg, #0d1321 0%, #0a0f1f 40%, #110d25 100%);
-    border-right: 1px solid rgba(100, 126, 234, 0.12);
+    background: linear-gradient(180deg, #fdf2f8 0%, #fce7f3 40%, #f5e6ff 100%);
+    border-right: 1px solid rgba(236, 72, 153, 0.12);
 }
 
 [data-testid="stSidebar"] .stMarkdown,
 [data-testid="stSidebar"] label,
 [data-testid="stSidebar"] p,
 [data-testid="stSidebar"] span {
-    color: #c8d2e6 !important;
+    color: #4a2040 !important;
 }
 
 [data-testid="stSidebar"] h1,
 [data-testid="stSidebar"] h2,
 [data-testid="stSidebar"] h3 {
-    color: #e8ecf4 !important;
+    color: #831843 !important;
     letter-spacing: 0.3px;
 }
 
 [data-testid="stSidebar"] hr {
     border: none;
     height: 1px;
-    background: linear-gradient(90deg, transparent, rgba(100, 126, 234, 0.35), transparent);
+    background: linear-gradient(90deg, transparent, rgba(236, 72, 153, 0.3), transparent);
     margin: 1.2rem 0;
 }
 
@@ -79,10 +79,10 @@ header[data-testid="stHeader"] { background: transparent; }
 
 
 /* ============================================================
-   TYPOGRAPHY — Light on Dark
+   TYPOGRAPHY — Dark on Light
    ============================================================ */
 h1, h2, h3, h4, h5, h6 {
-    color: #e8ecf4 !important;
+    color: #1e1b2e !important;
     font-weight: 700;
     line-height: 1.25;
 }
@@ -97,27 +97,27 @@ h2 {
     margin-top: 2rem;
     margin-bottom: 1rem;
     padding-bottom: 0.6rem;
-    border-bottom: 2px solid rgba(100, 126, 234, 0.3);
+    border-bottom: 2px solid rgba(236, 72, 153, 0.25);
 }
 
 h3 {
     font-size: clamp(1.15rem, 2.5vw, 1.4rem);
     margin-top: 1.5rem;
     margin-bottom: 0.6rem;
-    color: #b8c4e0 !important;
+    color: #4a2040 !important;
 }
 
 p, span, div, label, li {
-    color: #a0aec0;
+    color: #4a2040;
     line-height: 1.65;
 }
 
 .stMarkdown {
-    color: #a0aec0;
+    color: #4a2040;
 }
 
 strong, b {
-    color: #e2e8f0;
+    color: #1e1b2e;
     font-weight: 600;
 }
 
@@ -131,13 +131,13 @@ strong, b {
     text-align: center;
     margin-bottom: 0.25rem;
     letter-spacing: -1.5px;
-    background: linear-gradient(135deg, #667eea, #a78bfa, #f472b6, #667eea);
+    background: linear-gradient(135deg, #ec4899, #a855f7, #6366f1, #ec4899);
     background-size: 300% 300%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     animation: gradient-flow 6s ease infinite;
-    filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.25));
+    filter: drop-shadow(0 0 15px rgba(236, 72, 153, 0.15));
 }
 
 @keyframes gradient-flow {
@@ -148,7 +148,7 @@ strong, b {
 
 .sub-header {
     text-align: center;
-    color: #7c8db5 !important;
+    color: #6b3a5e !important;
     font-size: clamp(0.95rem, 2vw, 1.15rem);
     font-weight: 400;
     margin-bottom: 2rem;
@@ -158,11 +158,11 @@ strong, b {
 .section-header {
     font-size: clamp(1.4rem, 3vw, 1.85rem);
     font-weight: 700;
-    color: #e2e8f0 !important;
+    color: #1e1b2e !important;
     margin-top: 2.5rem;
     margin-bottom: 1.5rem;
     padding-bottom: 0.6rem;
-    border-bottom: 2px solid rgba(100, 126, 234, 0.25);
+    border-bottom: 2px solid rgba(236, 72, 153, 0.2);
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -173,7 +173,7 @@ strong, b {
    FEATURE TAG
    ============================================================ */
 .feature-tag {
-    background: linear-gradient(135deg, #7c3aed 0%, #a78bfa 100%);
+    background: linear-gradient(135deg, #ec4899 0%, #a855f7 100%);
     color: white;
     padding: 0.2rem 0.7rem;
     border-radius: 20px;
@@ -183,15 +183,15 @@ strong, b {
     letter-spacing: 0.8px;
     display: inline-block;
     margin-left: 0.5rem;
-    box-shadow: 0 2px 8px rgba(124, 58, 237, 0.3);
+    box-shadow: 0 2px 8px rgba(236, 72, 153, 0.25);
 }
 
 
 /* ============================================================
-   BUTTONS — Glowing Gradient
+   BUTTONS — Rose Gradient
    ============================================================ */
 .stButton > button {
-    background: linear-gradient(135deg, #667eea 0%, #7c3aed 100%);
+    background: linear-gradient(135deg, #ec4899 0%, #a855f7 100%);
     color: white !important;
     border: none;
     border-radius: 12px;
@@ -201,8 +201,8 @@ strong, b {
     letter-spacing: 0.3px;
     transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
     box-shadow:
-        0 4px 14px rgba(102, 126, 234, 0.35),
-        0 0 20px rgba(102, 126, 234, 0.1);
+        0 4px 14px rgba(236, 72, 153, 0.25),
+        0 0 20px rgba(236, 72, 153, 0.08);
     cursor: pointer;
     width: 100%;
 }
@@ -210,9 +210,9 @@ strong, b {
 .stButton > button:hover {
     transform: translateY(-3px);
     box-shadow:
-        0 8px 24px rgba(102, 126, 234, 0.45),
-        0 0 30px rgba(124, 58, 237, 0.2);
-    background: linear-gradient(135deg, #5568d3 0%, #6b2fc2 100%);
+        0 8px 24px rgba(236, 72, 153, 0.35),
+        0 0 30px rgba(168, 85, 247, 0.15);
+    background: linear-gradient(135deg, #db2777 0%, #9333ea 100%);
 }
 
 .stButton > button:active {
@@ -220,7 +220,7 @@ strong, b {
 }
 
 .stButton > button:focus {
-    outline: 2px solid #a78bfa;
+    outline: 2px solid #ec4899;
     outline-offset: 2px;
 }
 
@@ -234,28 +234,28 @@ strong, b {
     font-weight: 600;
     font-size: 0.9rem;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 14px rgba(16, 185, 129, 0.3);
+    box-shadow: 0 4px 14px rgba(16, 185, 129, 0.2);
 }
 
 .stDownloadButton > button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 20px rgba(16, 185, 129, 0.4);
+    box-shadow: 0 8px 20px rgba(16, 185, 129, 0.3);
 }
 
 
 /* ============================================================
-   METRIC CARDS — Glassmorphic
+   METRIC CARDS — Glassmorphic Light
    ============================================================ */
 .metric-card {
-    background: rgba(20, 27, 50, 0.7);
+    background: rgba(255, 255, 255, 0.7);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     border-radius: 16px;
     padding: 1.4rem;
-    border: 1px solid rgba(100, 126, 234, 0.12);
+    border: 1px solid rgba(236, 72, 153, 0.12);
     box-shadow:
-        0 4px 16px rgba(0, 0, 0, 0.2),
-        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+        0 4px 16px rgba(236, 72, 153, 0.06),
+        inset 0 1px 0 rgba(255, 255, 255, 0.6);
     transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
     height: 100%;
     min-height: 130px;
@@ -264,14 +264,14 @@ strong, b {
 .metric-card:hover {
     transform: translateY(-5px);
     box-shadow:
-        0 12px 28px rgba(0, 0, 0, 0.25),
-        0 0 20px rgba(102, 126, 234, 0.12);
-    border-color: rgba(100, 126, 234, 0.25);
+        0 12px 28px rgba(236, 72, 153, 0.12),
+        0 0 20px rgba(236, 72, 153, 0.06);
+    border-color: rgba(236, 72, 153, 0.25);
 }
 
 .metric-label {
     font-size: 0.75rem;
-    color: #7c8db5 !important;
+    color: #9d4c7c !important;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -281,7 +281,7 @@ strong, b {
 .metric-value {
     font-size: clamp(1.6rem, 3.5vw, 2.2rem);
     font-weight: 800;
-    background: linear-gradient(135deg, #667eea, #a78bfa);
+    background: linear-gradient(135deg, #ec4899, #a855f7);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -296,7 +296,7 @@ strong, b {
 
 
 /* ============================================================
-   RECOMMENDATION BOXES — Frosted Glass
+   RECOMMENDATION BOXES — Frosted Light
    ============================================================ */
 .recommendation-box,
 .critical-box,
@@ -307,42 +307,28 @@ strong, b {
     margin: 2rem 0;
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .recommendation-box {
-    background: linear-gradient(135deg, rgba(16, 185, 129, 0.85) 0%, rgba(5, 150, 105, 0.9) 100%);
-    box-shadow:
-        0 12px 40px rgba(16, 185, 129, 0.25),
-        0 0 60px rgba(16, 185, 129, 0.08);
+    background: linear-gradient(135deg, rgba(16, 185, 129, 0.9) 0%, rgba(5, 150, 105, 0.95) 100%);
+    box-shadow: 0 12px 40px rgba(16, 185, 129, 0.2);
 }
 
 .critical-box {
-    background: linear-gradient(135deg, rgba(239, 68, 68, 0.85) 0%, rgba(220, 38, 38, 0.9) 100%);
-    box-shadow:
-        0 12px 40px rgba(239, 68, 68, 0.25),
-        0 0 60px rgba(239, 68, 68, 0.08);
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.9) 0%, rgba(220, 38, 38, 0.95) 100%);
+    box-shadow: 0 12px 40px rgba(239, 68, 68, 0.2);
     animation: critical-glow 2.5s ease-in-out infinite;
 }
 
 .safe-box {
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.85) 0%, rgba(124, 58, 237, 0.9) 100%);
-    box-shadow:
-        0 12px 40px rgba(102, 126, 234, 0.2),
-        0 0 60px rgba(124, 58, 237, 0.08);
+    background: linear-gradient(135deg, rgba(236, 72, 153, 0.85) 0%, rgba(168, 85, 247, 0.9) 100%);
+    box-shadow: 0 12px 40px rgba(236, 72, 153, 0.15);
 }
 
 @keyframes critical-glow {
-    0%, 100% {
-        box-shadow:
-            0 12px 40px rgba(239, 68, 68, 0.25),
-            0 0 60px rgba(239, 68, 68, 0.08);
-    }
-    50% {
-        box-shadow:
-            0 12px 40px rgba(239, 68, 68, 0.4),
-            0 0 80px rgba(239, 68, 68, 0.15);
-    }
+    0%, 100% { box-shadow: 0 12px 40px rgba(239, 68, 68, 0.2); }
+    50% { box-shadow: 0 12px 40px rgba(239, 68, 68, 0.35); }
 }
 
 .recommendation-title {
@@ -358,7 +344,7 @@ strong, b {
     font-size: clamp(2.5rem, 6vw, 4.5rem);
     font-weight: 900;
     margin: 0.8rem 0;
-    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
 }
 
 .recommendation-details {
@@ -376,44 +362,44 @@ strong, b {
    INSIGHT CARDS — Glass Panels
    ============================================================ */
 .insight-card {
-    background: rgba(20, 27, 50, 0.6);
+    background: rgba(255, 255, 255, 0.65);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
-    border-left: 3px solid #667eea;
+    border-left: 3px solid #ec4899;
     padding: 1.2rem 1.4rem;
     border-radius: 12px;
     margin: 0.8rem 0;
-    border: 1px solid rgba(100, 126, 234, 0.1);
-    border-left: 3px solid #667eea;
-    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(236, 72, 153, 0.1);
+    border-left: 3px solid #ec4899;
+    box-shadow: 0 2px 12px rgba(236, 72, 153, 0.06);
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .insight-card:hover {
     transform: translateX(6px);
-    box-shadow: 0 4px 20px rgba(102, 126, 234, 0.15);
-    border-left-color: #a78bfa;
-    background: rgba(25, 32, 55, 0.7);
+    box-shadow: 0 4px 20px rgba(236, 72, 153, 0.1);
+    border-left-color: #a855f7;
+    background: rgba(255, 255, 255, 0.8);
 }
 
 .insight-card h3,
 .insight-card h4 {
-    color: #e2e8f0 !important;
+    color: #1e1b2e !important;
     margin-top: 0 !important;
     margin-bottom: 0.5rem !important;
 }
 
 .insight-card p {
-    color: #94a3b8 !important;
+    color: #4a2040 !important;
     margin-bottom: 0;
 }
 
 .insight-card strong {
-    color: #e2e8f0 !important;
+    color: #1e1b2e !important;
 }
 
 .insight-card li {
-    color: #94a3b8 !important;
+    color: #4a2040 !important;
 }
 
 .insight-icon {
@@ -436,79 +422,79 @@ strong, b {
 }
 
 .badge-success {
-    background: rgba(16, 185, 129, 0.15);
-    color: #34d399;
+    background: rgba(16, 185, 129, 0.12);
+    color: #047857;
     border: 1px solid rgba(16, 185, 129, 0.3);
 }
 
 .badge-warning {
-    background: rgba(245, 158, 11, 0.15);
-    color: #fbbf24;
+    background: rgba(245, 158, 11, 0.12);
+    color: #b45309;
     border: 1px solid rgba(245, 158, 11, 0.3);
 }
 
 .badge-danger {
-    background: rgba(239, 68, 68, 0.15);
-    color: #f87171;
+    background: rgba(239, 68, 68, 0.12);
+    color: #b91c1c;
     border: 1px solid rgba(239, 68, 68, 0.3);
 }
 
 .badge-info {
-    background: rgba(59, 130, 246, 0.15);
-    color: #60a5fa;
-    border: 1px solid rgba(59, 130, 246, 0.3);
+    background: rgba(99, 102, 241, 0.12);
+    color: #4338ca;
+    border: 1px solid rgba(99, 102, 241, 0.3);
 }
 
 
 /* ============================================================
-   CHART CONTAINER — Dark Frame
+   CHART CONTAINER
    ============================================================ */
 .chart-container {
-    background: rgba(15, 20, 40, 0.6);
+    background: rgba(255, 255, 255, 0.6);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     border-radius: 16px;
     padding: 1.5rem;
     margin: 1.5rem 0;
-    border: 1px solid rgba(100, 126, 234, 0.1);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(236, 72, 153, 0.08);
+    box-shadow: 0 4px 20px rgba(236, 72, 153, 0.06);
 }
 
 .chart-title {
     font-size: clamp(1.15rem, 2.5vw, 1.5rem);
     font-weight: 700;
-    color: #e2e8f0 !important;
+    color: #1e1b2e !important;
     margin-bottom: 0.8rem;
     padding-bottom: 0.4rem;
-    border-bottom: 1px solid rgba(100, 126, 234, 0.15);
+    border-bottom: 1px solid rgba(236, 72, 153, 0.12);
 }
 
 
 /* ============================================================
-   DATA TABLES — Dark Glass
+   DATA TABLES
    ============================================================ */
 .dataframe {
     border-radius: 12px !important;
     overflow: hidden;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 16px rgba(236, 72, 153, 0.06);
 }
 
 .dataframe th {
-    background: rgba(20, 27, 50, 0.8) !important;
-    color: #c8d2e6 !important;
+    background: rgba(252, 231, 243, 0.8) !important;
+    color: #831843 !important;
     font-weight: 600 !important;
     padding: 0.75rem !important;
 }
 
 .dataframe td {
-    color: #a0aec0 !important;
+    color: #4a2040 !important;
     padding: 0.6rem !important;
-    background: rgba(15, 20, 35, 0.5) !important;
+    background: rgba(255, 255, 255, 0.5) !important;
 }
 
 
 /* ============================================================
-   FORM ELEMENTS — Sidebar & Main
+   FORM ELEMENTS
    ============================================================ */
 .stSelectbox label,
 .stSlider label,
@@ -516,30 +502,30 @@ strong, b {
 .stTextInput label,
 .stRadio label {
     font-weight: 600 !important;
-    color: #c8d2e6 !important;
+    color: #4a2040 !important;
     font-size: 0.88rem !important;
 }
 
 
 /* ============================================================
-   EXPANDER — Styled
+   EXPANDER
    ============================================================ */
 .streamlit-expanderHeader {
-    background: rgba(20, 27, 50, 0.6);
+    background: rgba(255, 255, 255, 0.6);
     border-radius: 10px;
     font-weight: 600;
     padding: 0.75rem 1rem;
-    border: 1px solid rgba(100, 126, 234, 0.12);
-    color: #e2e8f0 !important;
+    border: 1px solid rgba(236, 72, 153, 0.1);
+    color: #1e1b2e !important;
 }
 
 .streamlit-expanderHeader:hover {
-    background: rgba(30, 37, 60, 0.7);
-    border-color: rgba(100, 126, 234, 0.25);
+    background: rgba(252, 231, 243, 0.5);
+    border-color: rgba(236, 72, 153, 0.2);
 }
 
 .streamlit-expanderHeader p {
-    color: #e2e8f0 !important;
+    color: #1e1b2e !important;
     font-weight: 600;
 }
 
@@ -551,11 +537,11 @@ strong, b {
     border-radius: 10px;
     border-left: 4px solid;
     padding: 1rem;
-    background: rgba(20, 27, 50, 0.5);
+    background: rgba(255, 255, 255, 0.5);
 }
 
 .stAlert p {
-    color: #e2e8f0 !important;
+    color: #1e1b2e !important;
     font-weight: 500;
 }
 
@@ -566,7 +552,7 @@ strong, b {
 hr {
     border: none;
     height: 1px;
-    background: linear-gradient(90deg, transparent, rgba(100, 126, 234, 0.35), transparent);
+    background: linear-gradient(90deg, transparent, rgba(236, 72, 153, 0.3), transparent);
     margin: 2rem 0;
 }
 
@@ -575,13 +561,13 @@ hr {
    HERO FEATURE CARDS — Welcome Screen
    ============================================================ */
 .hero-card {
-    background: rgba(20, 27, 50, 0.65);
+    background: rgba(255, 255, 255, 0.65);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     border-radius: 16px;
     padding: 1.5rem;
-    border: 1px solid rgba(100, 126, 234, 0.1);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(236, 72, 153, 0.1);
+    box-shadow: 0 4px 16px rgba(236, 72, 153, 0.06);
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     height: 100%;
     text-align: center;
@@ -590,9 +576,9 @@ hr {
 .hero-card:hover {
     transform: translateY(-6px);
     box-shadow:
-        0 16px 32px rgba(0, 0, 0, 0.2),
-        0 0 20px rgba(102, 126, 234, 0.1);
-    border-color: rgba(100, 126, 234, 0.2);
+        0 16px 32px rgba(236, 72, 153, 0.1),
+        0 0 20px rgba(236, 72, 153, 0.05);
+    border-color: rgba(236, 72, 153, 0.2);
 }
 
 .hero-card .hero-icon {
@@ -602,14 +588,14 @@ hr {
 }
 
 .hero-card h4 {
-    color: #e2e8f0 !important;
+    color: #1e1b2e !important;
     font-size: 1.05rem;
     margin-top: 0 !important;
     margin-bottom: 0.5rem !important;
 }
 
 .hero-card p {
-    color: #7c8db5 !important;
+    color: #6b3a5e !important;
     font-size: 0.88rem;
     line-height: 1.5;
     margin: 0;
@@ -623,23 +609,23 @@ hr {
     text-align: center;
     padding: 2rem 0 0.5rem;
     margin-top: 3rem;
-    border-top: 1px solid rgba(100, 126, 234, 0.15);
+    border-top: 1px solid rgba(236, 72, 153, 0.12);
 }
 
 .app-footer p {
-    color: #4a5568 !important;
+    color: #9d4c7c !important;
     font-size: 0.82rem;
     margin: 0.2rem 0;
 }
 
 .app-footer a {
-    color: #667eea;
+    color: #ec4899;
     text-decoration: none;
     font-weight: 500;
 }
 
 .app-footer a:hover {
-    color: #a78bfa;
+    color: #a855f7;
     text-decoration: underline;
 }
 
@@ -650,12 +636,12 @@ hr {
 .sidebar-brand {
     text-align: center;
     padding: 0.5rem 0 1rem;
-    border-bottom: 1px solid rgba(100, 126, 234, 0.15);
+    border-bottom: 1px solid rgba(236, 72, 153, 0.15);
     margin-bottom: 1rem;
 }
 
 .sidebar-brand h3 {
-    color: #e8ecf4 !important;
+    color: #831843 !important;
     font-size: 1.1rem;
     font-weight: 700;
     letter-spacing: 0.3px;
@@ -663,7 +649,7 @@ hr {
 }
 
 .sidebar-brand p {
-    color: #5a6a8a !important;
+    color: #9d4c7c !important;
     font-size: 0.72rem;
     text-transform: uppercase;
     letter-spacing: 1.5px;
@@ -789,12 +775,12 @@ hr {
 
 
 /* ============================================================
-   ACCESSIBILITY — Focus & Skip
+   ACCESSIBILITY
    ============================================================ */
 button:focus,
 input:focus,
 select:focus {
-    outline: 2px solid #a78bfa;
+    outline: 2px solid #ec4899;
     outline-offset: 2px;
 }
 
@@ -802,7 +788,7 @@ select:focus {
     position: absolute;
     top: -40px;
     left: 0;
-    background: #667eea;
+    background: #ec4899;
     color: white;
     padding: 8px;
     text-decoration: none;
@@ -815,51 +801,44 @@ select:focus {
 
 
 /* ============================================================
-   STREAMLIT WIDGET OVERRIDES FOR DARK THEME
+   STREAMLIT WIDGET OVERRIDES
    ============================================================ */
-/* Slider track */
-[data-testid="stSidebar"] .stSlider [data-baseweb="slider"] [role="slider"] {
-    background: #667eea;
-}
-
-/* Number input */
 [data-testid="stSidebar"] input[type="number"] {
-    background: rgba(20, 27, 50, 0.5);
-    color: #e2e8f0;
-    border-color: rgba(100, 126, 234, 0.2);
+    background: rgba(255, 255, 255, 0.6);
+    color: #4a2040;
+    border-color: rgba(236, 72, 153, 0.15);
 }
 
-/* Selectbox */
 [data-testid="stSidebar"] [data-baseweb="select"] {
-    background: rgba(20, 27, 50, 0.5);
+    background: rgba(255, 255, 255, 0.5);
 }
 
 [data-testid="stSidebar"] [data-baseweb="select"] > div {
-    background: rgba(20, 27, 50, 0.5);
-    border-color: rgba(100, 126, 234, 0.2);
-    color: #e2e8f0;
+    background: rgba(255, 255, 255, 0.5);
+    border-color: rgba(236, 72, 153, 0.15);
+    color: #4a2040;
 }
 
-/* Tab styling in main area */
+/* Tab styling */
 .stTabs [data-baseweb="tab-list"] {
     gap: 0.5rem;
 }
 
 .stTabs [data-baseweb="tab"] {
-    background: rgba(20, 27, 50, 0.5);
+    background: rgba(255, 255, 255, 0.5);
     border-radius: 8px;
     padding: 0.5rem 1rem;
-    color: #a0aec0;
-    border: 1px solid rgba(100, 126, 234, 0.1);
+    color: #4a2040;
+    border: 1px solid rgba(236, 72, 153, 0.08);
 }
 
 .stTabs [aria-selected="true"] {
-    background: rgba(102, 126, 234, 0.15) !important;
-    color: #667eea !important;
-    border-color: rgba(102, 126, 234, 0.3) !important;
+    background: rgba(236, 72, 153, 0.1) !important;
+    color: #ec4899 !important;
+    border-color: rgba(236, 72, 153, 0.25) !important;
 }
 
 /* Progress bar */
 .stProgress > div > div > div > div {
-    background: linear-gradient(90deg, #667eea, #a78bfa);
+    background: linear-gradient(90deg, #ec4899, #a855f7);
 }
